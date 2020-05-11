@@ -14,6 +14,6 @@ Content: Folder includes a Jupyter Notebook with EDA and model building (KNN), t
 Prompt: Investigate and analyze the data set, producing a model that can be used to predict the target. You are given a targets.csv, patient_profiles.json, and biomarkers.csv. The information in the last 2 files should be used to predict the targets in targets.csv.
 
 Outputs:
-1_Load_patient_profiles_json.ipynb --> Translates JSON to CSV
-2_Analysis & Basic Clean Up.ipynb --> EDA & Data Mining
-3_Build Model.ipynb --> Model build and Results
+* 1_Load_patient_profiles_json.ipynb --> Translates JSON to CSV
+* 2_Analysis & Basic Clean Up.ipynb --> EDA & Data Mining
+* 3_Build Model.ipynb --> Model build and Results
