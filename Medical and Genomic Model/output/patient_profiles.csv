@@ -1,0 +1,2352 @@
+demographics_age,demographics_gender,demographics_race,institution,patient_id,status_alcohol_usage,status_bmi_level,status_cohort_qualifier,status_comorbidity_index,status_days_since_diagnosis,status_disease_sub_type,status_exercise_frequency,status_months_since_diagnosis,status_smoking_status
+68,Female,,Saint Penelope Medical Center,102bb8fae,,,True,0.0,,A,,1,never
+66,Female,White,Saint Penelope Medical Center,10e32947f,,,True,,,A,,0,former
+61,Male,White,Saint Penelope Medical Center,11156e14a,,,True,1.0,,A,,16,never
+62,Male,,Saint Penelope Medical Center,113d8066d,,,True,,,B,,0,current
+59,Male,,Saint Penelope Medical Center,113ec3f1,,,True,,,A,,9,former
+68,Male,,Saint Penelope Medical Center,114a37875,,,True,,,B,,0,never
+68,Female,,Saint Penelope Medical Center,1159615a3,,,True,,,A,,0,never
+47,Male,White,Saint Penelope Medical Center,11b1d32a1,,,True,,,A,,0,never
+65,Female,Black or African American,Saint Penelope Medical Center,11c6138f1,,,True,2.0,,A,,0,current
+68,Male,White,Saint Penelope Medical Center,11c7927cb,,,True,,,A,,33,current
+56,Male,Asian,Saint Penelope Medical Center,11d09fadd,,,True,,,E,,0,never
+29,Male,Black or African American,Saint Penelope Medical Center,11d1ba420,,,True,0.0,,A,,3,never
+64,Male,White,Saint Penelope Medical Center,11db6baa3,,,True,,,A,,2,never
+52,Male,,Saint Penelope Medical Center,122f63cb0,,,True,,,A,,1,never
+64,Male,Asian,Saint Penelope Medical Center,124007292,,,True,,,A,,0,former
+59,Male,Asian,Saint Penelope Medical Center,127b97df1,,,True,0.0,,A,,24,current
+68,Male,White,Saint Penelope Medical Center,12a0f9b3b,,,True,2.0,,A,,1,former
+66,Female,White,Saint Penelope Medical Center,12ab24a88,,,True,0.0,,E,,8,current
+55,Male,Black or African American,Saint Penelope Medical Center,12ad52f44,,,True,1.0,,A,,0,never
+56,Male,Black or African American,Saint Penelope Medical Center,12bdcc6f2,,,True,,,A,,29,never
+39,Female,American Indian or Alaska Native,Saint Penelope Medical Center,12f31e426,,,True,0.0,,C,,0,former
+59,Male,White,Saint Penelope Medical Center,135fbf73b,,,True,,,A,,0,former
+66,Male,Asian,Saint Penelope Medical Center,13664251b,,,True,,,B,,0,never
+62,Female,Native Hawaiian or Other Pacific Islander,Saint Penelope Medical Center,136cc8833,,,True,,,A,,0,current
+77,Male,,Saint Penelope Medical Center,13760a1c2,,,True,1.0,,A,,0,unknown
+76,Male,White,Saint Penelope Medical Center,13ceb3aac,,,True,,,B,,2,never
+70,Male,Black or African American,Saint Penelope Medical Center,13e1d2afd,,,True,,,A,,6,never
+56,Male,White,Saint Penelope Medical Center,13f174481,,,True,,,B,,8,current
+72,Female,,Saint Penelope Medical Center,14293e299,,,True,,,A,,7,former
+67,Male,,Saint Penelope Medical Center,14316f61a,,,True,0.0,,A,,0,never
+54,Male,,Saint Penelope Medical Center,1436d826c,,,True,0.0,,A,,1,never
+69,Female,,Saint Penelope Medical Center,1451573e2,,,True,,,A,,6,never
+56,Female,Asian,Saint Penelope Medical Center,1497cadea,,,True,,,A,,0,current
+53,Female,Black or African American,Saint Penelope Medical Center,14e1b2356,,,True,0.0,,C,,1,current
+66,Male,White,Saint Penelope Medical Center,1504ec8e9,,,True,,,B,,13,never
+41,Female,Black or African American,Saint Penelope Medical Center,1520f472e,,,True,,,C,,4,former
+51,Female,White,Saint Penelope Medical Center,156c23fed,,,True,,,F,,17,never
+52,Male,White,Saint Penelope Medical Center,1577ec60,,,True,,,A,,0,former
+78,Female,White,Saint Penelope Medical Center,159292913,,,True,,,A,,26,never
+51,Male,White,Saint Penelope Medical Center,15d7e05a4,,,True,,,B,,0,unknown
+61,Female,White,Saint Penelope Medical Center,160b10afd,,,True,,,E,,23,current
+60,Female,Asian,Saint Penelope Medical Center,160df219c,,,True,,,B,,2,current
+82,Female,Black or African American,Saint Penelope Medical Center,162ed8071,,,True,,,F,,0,former
+58,Female,White,Saint Penelope Medical Center,1630dd08e,,,True,0.0,,A,,0,unknown
+64,Female,White,Saint Penelope Medical Center,16489a2ad,,,True,,,A,,0,former
+63,Male,White,Saint Penelope Medical Center,165ceaab1,,,True,,,A,,15,never
+49,Male,,Saint Penelope Medical Center,16631773c,,,True,,,A,,0,never
+50,Male,Black or African American,Saint Penelope Medical Center,166745866,,,True,,,A,,0,current
+63,Female,White,Saint Penelope Medical Center,167fcd2bc,,,True,0.0,,B,,0,current
+73,Female,Black or African American,Saint Penelope Medical Center,16b1a42c6,,,True,,,A,,30,unknown
+57,Male,Black or African American,Saint Penelope Medical Center,16ca3cc72,,,True,,,A,,0,never
+73,Female,White,Saint Penelope Medical Center,16fbb2cf8,,,True,,,C,,1,current
+68,Female,,Saint Penelope Medical Center,172919c33,,,True,0.0,,A,,20,never
+57,Male,White,Saint Penelope Medical Center,17579683a,,,True,,,A,,0,never
+58,Male,Black or African American,Saint Penelope Medical Center,175eb553b,,,True,,,B,,0,current
+40,Male,Black or African American,Saint Penelope Medical Center,1784e1cf1,,,True,,,A,,2,current
+70,Female,Black or African American,Saint Penelope Medical Center,17a10ebef,,,True,,,C,,0,never
+59,Female,White,Saint Penelope Medical Center,17ad53ec0,,,True,1.0,,A,,32,never
+64,Female,,Saint Penelope Medical Center,182ca9124,,,True,,,B,,8,unknown
+68,Female,White,Saint Penelope Medical Center,18537a948,,,True,1.0,,C,,2,former
+66,Female,White,Saint Penelope Medical Center,1873ffd27,,,True,1.0,,A,,3,never
+60,Female,Black or African American,Saint Penelope Medical Center,1916dae00,,,True,,,A,,26,former
+57,Male,White,Saint Penelope Medical Center,1943f297a,,,True,,,C,,6,former
+51,Male,White,Saint Penelope Medical Center,1949a9b09,,,True,,,A,,0,never
+53,Male,White,Saint Penelope Medical Center,19522dca1,,,True,,,C,,0,former
+74,Female,White,Saint Penelope Medical Center,195816d50,,,True,,,A,,1,never
+48,Male,White,Saint Penelope Medical Center,19663ecf,,,True,,,B,,18,never
+56,Male,White,Saint Penelope Medical Center,1973338ad,,,True,,,A,,0,never
+54,Female,White,Saint Penelope Medical Center,19de61179,,,True,,,A,,0,never
+60,Male,,Saint Penelope Medical Center,1a051c266,,,True,2.0,,A,,10,current
+45,Male,,Saint Penelope Medical Center,1a4ed2aba,,,True,,,A,,11,current
+57,Female,White,Saint Penelope Medical Center,1a656a237,,,True,0.0,,A,,7,unknown
+41,Male,Asian,Saint Penelope Medical Center,1a871cea1,,,True,,,A,,19,former
+65,Male,Black or African American,Saint Penelope Medical Center,1adb08146,,,True,,,E,,4,unknown
+51,Male,White,Saint Penelope Medical Center,1afce415a,,,True,,,A,,0,former
+67,Female,White,Saint Penelope Medical Center,1b1f78655,,,True,,,A,,0,current
+66,Male,,Saint Penelope Medical Center,1b48a4775,,,True,,,A,,5,current
+55,Male,Black or African American,Saint Penelope Medical Center,1b558b5d5,,,True,,,A,,28,never
+65,Male,White,Saint Penelope Medical Center,1b846c078,,,True,0.0,,A,,0,never
+61,Female,White,Saint Penelope Medical Center,1bc56fbf,,,True,,,A,,21,never
+50,Female,,Saint Penelope Medical Center,1bd5973e4,,,True,,,A,,1,current
+59,Female,White,Saint Penelope Medical Center,1c068b419,,,True,,,A,,20,former
+47,Male,White,Saint Penelope Medical Center,1c2e19421,,,True,,,A,,6,never
+62,Male,White,Saint Penelope Medical Center,1c3ad9d5c,,,True,1.0,,A,,3,former
+67,Female,White,Saint Penelope Medical Center,1c7280306,,,True,,,A,,0,current
+55,Female,,Saint Penelope Medical Center,1c84edced,,,True,0.0,,A,,12,unknown
+69,Male,Black or African American,Saint Penelope Medical Center,1c9af69ad,,,True,,,A,,0,current
+42,Female,White,Saint Penelope Medical Center,1ca0fa173,,,True,0.0,,A,,0,former
+65,Male,White,Saint Penelope Medical Center,1cc0244fb,,,True,,,A,,21,current
+61,Female,,Saint Penelope Medical Center,1d5754703,,,True,2.0,,C,,10,former
+48,Male,Black or African American,Saint Penelope Medical Center,1d7098653,,,True,0.0,,B,,0,unknown
+39,Female,White,Saint Penelope Medical Center,1da50b96,,,True,,,D,,4,former
+43,Female,White,Saint Penelope Medical Center,1dab425f4,,,True,,,B,,0,never
+78,Male,White,Saint Penelope Medical Center,1e054cea7,,,True,,,A,,0,former
+75,Male,White,Saint Penelope Medical Center,1e189d73e,,,True,,,F,,0,never
+69,Male,,Saint Penelope Medical Center,1eaab924,,,True,,,B,,0,unknown
+68,Female,,Saint Penelope Medical Center,1eb1755dd,,,True,,,D,,0,current
+65,Female,White,Saint Penelope Medical Center,1eb5d80c3,,,True,,,A,,0,never
+69,Female,White,Saint Penelope Medical Center,1ec493b7c,,,True,0.0,,A,,0,never
+58,Male,Asian,Saint Penelope Medical Center,1ef3cb531,,,True,,,A,,0,former
+65,Male,,Saint Penelope Medical Center,1f22eb6a0,,,True,,,A,,2,never
+52,Female,Black or African American,Saint Penelope Medical Center,1f4b96d81,,,True,,,A,,0,current
+57,Male,Black or African American,Saint Penelope Medical Center,1f6b554e3,,,True,,,D,,6,current
+63,Female,Black or African American,Saint Penelope Medical Center,1f748af57,,,True,,,A,,4,unknown
+58,Male,White,Saint Penelope Medical Center,1f8b0d1c3,,,True,,,B,,0,never
+58,Male,Asian,Saint Penelope Medical Center,1ff88abeb,,,True,,,A,,22,never
+56,Male,White,Saint Penelope Medical Center,2004e6dc2,,,True,,,B,,0,never
+68,Male,White,Saint Penelope Medical Center,20085bf2f,,,True,,,A,,9,never
+71,Male,,Saint Penelope Medical Center,2017c9182,,,True,,,A,,0,current
+66,Female,White,Saint Penelope Medical Center,20342dd6e,,,True,,,A,,3,former
+67,Female,,Saint Penelope Medical Center,204a3d1a6,,,True,,,A,,2,never
+60,Male,White,Saint Penelope Medical Center,204b29ded,,,True,,,B,,7,never
+75,Male,White,Saint Penelope Medical Center,205988c18,,,True,,,B,,23,current
+71,Male,,Saint Penelope Medical Center,20e63ec4a,,,True,,,A,,12,current
+60,Male,White,Saint Penelope Medical Center,20faf752b,,,True,,,A,,0,unknown
+70,Male,Black or African American,Saint Penelope Medical Center,2142d7c18,,,True,,,A,,12,current
+57,Male,White,Saint Penelope Medical Center,21726bab0,,,True,,,A,,3,never
+57,Female,,Saint Penelope Medical Center,217e63256,,,True,,,A,,18,never
+58,Male,Black or African American,Saint Penelope Medical Center,21934539e,,,True,,,A,,4,never
+66,Male,Asian,Saint Penelope Medical Center,21a2aec07,,,True,,,A,,4,never
+62,Male,Asian,Saint Penelope Medical Center,221bf642e,,,True,,,B,,0,unknown
+60,Male,White,Saint Penelope Medical Center,222bd7f8c,,,True,0.0,,A,,0,never
+54,Female,Black or African American,Saint Penelope Medical Center,224191d43,,,True,,,A,,0,former
+67,Male,,Saint Penelope Medical Center,225e0ee1d,,,True,,,C,,4,current
+66,Male,White,Saint Penelope Medical Center,22c2952a0,,,True,0.0,,D,,1,former
+56,Male,White,Saint Penelope Medical Center,230cfcfbf,,,True,,,C,,6,never
+51,Female,White,Saint Penelope Medical Center,233b465c3,,,True,,,B,,1,current
+70,Female,White,Saint Penelope Medical Center,23580683b,,,True,0.0,,B,,9,former
+67,Male,,Saint Penelope Medical Center,2366522fb,,,True,,,A,,13,never
+55,Male,Asian,Saint Penelope Medical Center,23788e382,,,True,,,A,,1,never
+54,Female,White,Saint Penelope Medical Center,239a45beb,,,True,0.0,,A,,11,current
+57,Male,White,Saint Penelope Medical Center,23abe19a,,,True,,,A,,0,current
+58,Female,Black or African American,Saint Penelope Medical Center,23b4fd7a6,,,True,,,A,,31,never
+66,Male,White,Saint Penelope Medical Center,2418822eb,,,True,,,E,,5,never
+72,Male,Black or African American,Saint Penelope Medical Center,24229ed4e,,,True,,,E,,9,never
+57,Female,,Saint Penelope Medical Center,244363ff7,,,True,1.0,,C,,0,current
+44,Female,White,Saint Penelope Medical Center,24538d47a,,,True,1.0,,F,,0,never
+60,Male,White,Saint Penelope Medical Center,247543c0a,,,True,1.0,,A,,11,never
+52,Female,Black or African American,Saint Penelope Medical Center,24bf0927b,,,True,,,A,,0,current
+53,Male,White,Saint Penelope Medical Center,251b22755,,,True,,,B,,6,unknown
+66,Female,White,Saint Penelope Medical Center,2524c6b98,,,True,,,F,,5,never
+43,Female,White,Saint Penelope Medical Center,2537d8b37,,,True,,,B,,5,never
+62,Male,,Saint Penelope Medical Center,253dab563,,,True,,,A,,0,former
+68,Male,White,Saint Penelope Medical Center,26cbdcc4,,,True,,,A,,0,former
+66,Male,Black or African American,Saint Penelope Medical Center,2a7eb865,,,True,,,A,,12,unknown
+56,Female,White,Saint Penelope Medical Center,2d9331ed,,,True,2.0,,C,,0,current
+57,Female,White,Saint Penelope Medical Center,2ef78c96,,,True,,,A,,0,unknown
+70,Male,,Saint Penelope Medical Center,30ab49bc,,,True,,,D,,4,never
+54,Female,Black or African American,Saint Penelope Medical Center,329ce050,,,True,,,B,,0,former
+73,Male,Black or African American,Saint Penelope Medical Center,34cd9757,,,True,0.0,,A,,0,never
+55,Male,White,Saint Penelope Medical Center,35525827,,,True,,,B,,0,current
+62,Male,White,Saint Penelope Medical Center,380d5f22,,,True,,,B,,13,current
+68,Female,Black or African American,Saint Penelope Medical Center,3ac8e402,,,True,,,A,,1,former
+47,Male,Black or African American,Saint Penelope Medical Center,3f1b79dd,,,True,,,A,,0,never
+39,Female,,Saint Penelope Medical Center,42a2efed,,,True,,,A,,0,never
+68,Female,Black or African American,Saint Penelope Medical Center,448bd54a,,,True,2.0,,B,,2,current
+69,Male,White,Saint Penelope Medical Center,44edd8c1,,,True,2.0,,A,,22,never
+43,Female,White,Saint Penelope Medical Center,44f60e74,,,True,,,C,,0,former
+49,Male,White,Saint Penelope Medical Center,45ecb2fa,,,True,1.0,,A,,25,never
+34,Female,White,Saint Penelope Medical Center,4619460e,,,True,,,A,,4,former
+71,Female,Black or African American,Saint Penelope Medical Center,47e32784,,,True,,,A,,0,never
+42,Female,,Saint Penelope Medical Center,491992a9,,,True,,,A,,22,never
+66,Male,Black or African American,Saint Penelope Medical Center,49a39fb0,,,True,1.0,,E,,0,current
+38,Male,White,Saint Penelope Medical Center,4c7e3529,,,True,0.0,,F,,4,never
+72,Female,White,Saint Penelope Medical Center,4ea09ecf,,,True,0.0,,A,,5,former
+54,Male,,Saint Penelope Medical Center,4f7a1035,,,True,0.0,,F,,3,former
+65,Female,Black or African American,Saint Penelope Medical Center,51c6cb77,,,True,,,C,,12,never
+58,Male,White,Saint Penelope Medical Center,53d73c8e,,,True,,,A,,13,current
+65,Female,White,Saint Penelope Medical Center,54faf2b,,,True,,,A,,0,never
+58,Male,Black or African American,Saint Penelope Medical Center,550b0a3b,,,True,,,A,,35,never
+69,Female,White,Saint Penelope Medical Center,5555ef01,,,True,,,B,,18,never
+76,Male,White,Saint Penelope Medical Center,579bce4b,,,True,,,A,,4,current
+63,Female,Black or African American,Saint Penelope Medical Center,584d0e1,,,True,,,A,,0,never
+40,Female,,Saint Penelope Medical Center,5a30e008,,,True,,,A,,0,current
+64,Female,White,Saint Penelope Medical Center,5a497ab4,,,True,,,A,,0,never
+60,Male,White,Saint Penelope Medical Center,5ba1d353,,,True,,,A,,8,never
+48,Female,Asian,Saint Penelope Medical Center,5c9c4b12,,,True,,,B,,0,current
+38,Male,Black or African American,Saint Penelope Medical Center,5ee77abd,,,True,,,B,,1,unknown
+54,Female,White,Saint Penelope Medical Center,61241b14,,,True,,,A,,12,current
+60,Female,,Saint Penelope Medical Center,627e08a9,,,True,2.0,,A,,0,current
+45,Male,White,Saint Penelope Medical Center,63a5e90d,,,True,,,C,,10,never
+68,Male,Asian,Saint Penelope Medical Center,665d89a1,,,True,,,A,,0,current
+67,Male,Black or African American,Saint Penelope Medical Center,6727a442,,,True,,,C,,12,former
+50,Male,White,Saint Penelope Medical Center,678328f2,,,True,,,A,,1,current
+48,Male,,Saint Penelope Medical Center,682732b8,,,True,0.0,,A,,2,never
+62,Male,White,Saint Penelope Medical Center,6b70a623,,,True,,,A,,24,never
+67,Male,Asian,Saint Penelope Medical Center,6be62e5d,,,True,,,A,,0,former
+58,Female,White,Saint Penelope Medical Center,6c38689e,,,True,,,C,,6,never
+62,Male,White,Saint Penelope Medical Center,6ec61260,,,True,,,B,,9,never
+73,Male,White,Saint Penelope Medical Center,6edb692a,,,True,1.0,,B,,0,unknown
+56,Male,White,Saint Penelope Medical Center,72aee32d,,,True,,,A,,0,never
+64,Female,White,Saint Penelope Medical Center,76129646,,,True,,,A,,0,current
+62,Female,Asian,Saint Penelope Medical Center,767cf749,,,True,,,A,,1,never
+56,Female,White,Saint Penelope Medical Center,7ecc704b,,,True,1.0,,B,,11,unknown
+63,Female,White,Saint Penelope Medical Center,7f8289fe,,,True,,,A,,12,current
+42,Male,White,Saint Penelope Medical Center,807dde91,,,True,,,A,,1,unknown
+62,Male,,Saint Penelope Medical Center,865a5da8,,,True,,,F,,2,former
+71,Female,,Saint Penelope Medical Center,87fbc59b,,,True,,,A,,25,former
+62,Male,Black or African American,Saint Penelope Medical Center,8af7bfa4,,,True,,,B,,12,former
+56,Female,Asian,Saint Penelope Medical Center,8cbc79a9,,,True,,,A,,1,former
+62,Male,White,Saint Penelope Medical Center,8dc51293,,,True,,,A,,0,never
+75,Female,Asian,Saint Penelope Medical Center,919a663a,,,True,,,A,,12,never
+53,Female,Black or African American,Saint Penelope Medical Center,9497851e,,,True,,,A,,6,former
+40,Female,Black or African American,Saint Penelope Medical Center,94df5c07,,,True,0.0,,A,,3,never
+66,Female,Asian,Saint Penelope Medical Center,96db23fd,,,True,,,C,,0,current
+68,Female,White,Saint Penelope Medical Center,97afb99c,,,True,,,A,,1,current
+67,Female,White,Saint Penelope Medical Center,97dc713,,,True,,,A,,0,never
+61,Female,,Saint Penelope Medical Center,9c3c4167,,,True,,,A,,4,former
+59,Female,Asian,Saint Penelope Medical Center,9dcfd7b9,,,True,1.0,,A,,0,former
+50,Female,,Saint Penelope Medical Center,9e4d8fd0,,,True,,,B,,0,former
+69,Male,,Saint Penelope Medical Center,a1839fce,,,True,1.0,,A,,15,never
+54,Female,,Saint Penelope Medical Center,a2a6beb3,,,True,,,A,,6,never
+67,Female,Black or African American,Saint Penelope Medical Center,a2a7bda4,,,True,0.0,,B,,0,never
+63,Male,White,Saint Penelope Medical Center,a4212681,,,True,,,A,,10,current
+54,Male,Black or African American,Saint Penelope Medical Center,a4375c02,,,True,,,A,,10,never
+64,Male,,Saint Penelope Medical Center,a822cbac,,,True,,,A,,4,never
+63,Male,White,Saint Penelope Medical Center,a852c07f,,,True,,,A,,0,never
+58,Female,Black or African American,Saint Penelope Medical Center,a985d9d8,,,True,,,A,,21,current
+54,Female,Black or African American,Saint Penelope Medical Center,b15a522a,,,True,,,B,,16,current
+59,Male,White,Saint Penelope Medical Center,b30c377c,,,True,,,A,,0,never
+67,Male,White,Saint Penelope Medical Center,b4dbab00,,,True,,,A,,0,never
+41,Male,White,Saint Penelope Medical Center,b82e0774,,,True,,,A,,0,never
+60,Female,Black or African American,Saint Penelope Medical Center,b9d9e7c3,,,True,,,D,,34,never
+71,Female,Black or African American,Saint Penelope Medical Center,bb18ec25,,,True,,,C,,0,never
+60,Male,,Saint Penelope Medical Center,bbb9a595,,,True,,,A,,21,current
+64,Male,White,Saint Penelope Medical Center,bbecf084,,,True,,,B,,38,former
+48,Female,White,Saint Penelope Medical Center,bca6cebb,,,True,,,A,,1,current
+47,Female,White,Saint Penelope Medical Center,bcf9caf7,,,True,,,C,,5,never
+49,Female,Black or African American,Saint Penelope Medical Center,bd3e3b11,,,True,,,A,,0,current
+70,Female,Black or African American,Saint Penelope Medical Center,c3d0427b,,,True,,,A,,0,former
+47,Female,White,Saint Penelope Medical Center,c43dc750,,,True,,,A,,4,never
+69,Male,White,Saint Penelope Medical Center,c8b3d9bd,,,True,,,C,,0,unknown
+60,Male,White,Saint Penelope Medical Center,d0dd85c4,,,True,,,A,,0,former
+64,Male,Black or African American,Saint Penelope Medical Center,d5bd6cd1,,,True,,,B,,0,never
+66,Female,Black or African American,Saint Penelope Medical Center,d5ca0831,,,True,0.0,,A,,3,current
+51,Female,Black or African American,Saint Penelope Medical Center,d5fd3e29,,,True,0.0,,A,,8,current
+58,Female,Black or African American,Saint Penelope Medical Center,d8a21fc0,,,True,2.0,,A,,0,current
+67,Female,Black or African American,Saint Penelope Medical Center,decc0660,,,True,1.0,,A,,0,current
+61,Male,Black or African American,Saint Penelope Medical Center,e2e85bfb,,,True,,,A,,22,never
+56,Male,,Saint Penelope Medical Center,e3472e0e,,,True,,,B,,0,former
+53,Male,White,Saint Penelope Medical Center,e39c3506,,,True,,,C,,4,former
+32,Female,Black or African American,Saint Penelope Medical Center,e7c48952,,,True,,,A,,1,never
+58,Male,White,Saint Penelope Medical Center,e8ee0f94,,,True,,,B,,0,never
+61,Female,White,Saint Penelope Medical Center,ea4a0a5,,,True,2.0,,C,,33,never
+75,Female,,Saint Penelope Medical Center,eca02cea,,,True,0.0,,A,,58,current
+56,Female,Black or African American,Saint Penelope Medical Center,ecdce158,,,True,,,A,,0,former
+58,Male,White,Saint Penelope Medical Center,edf94828,,,True,,,A,,6,unknown
+37,Female,White,Saint Penelope Medical Center,ee23c8aa,,,True,,,A,,1,never
+40,Female,Asian,Saint Penelope Medical Center,ef0a2c20,,,True,,,B,,0,current
+66,Female,White,Saint Penelope Medical Center,f0654790,,,True,,,A,,6,never
+68,Male,White,Saint Penelope Medical Center,f09f63a1,,,True,,,A,,6,former
+51,Male,,Saint Penelope Medical Center,f1733644,,,True,,,A,,21,former
+66,Male,Black or African American,Saint Penelope Medical Center,f4a0387d,,,True,,,A,,0,never
+73,Female,Asian,Saint Penelope Medical Center,f4ac60c6,,,True,,,A,,2,never
+73,Female,White,Saint Penelope Medical Center,f728a640,,,True,,,E,,16,never
+72,Female,,Saint Penelope Medical Center,f9fe4d2b,,,True,,,A,,1,never
+58,Male,White,Saint Penelope Medical Center,ff4c5607,,,True,0.0,,E,,0,never
+78,Male,White,"BioLab, Inc.",100688fb9,,,True,2.0,,B,,22,current
+72,Male,Black or African American,"BioLab, Inc.",101268506,,,True,1.0,,C,,5,current
+51,Female,White,"BioLab, Inc.",101d38e35,,,True,0.0,,A,,12,current
+55,Female,,"BioLab, Inc.",101eb6af1,,,True,,,B,,0,never
+62,Male,Black or African American,"BioLab, Inc.",102fe5fc2,,,True,,,A,,0,unknown
+61,Female,,"BioLab, Inc.",102fed7f0,,,True,,,B,,0,never
+56,Male,Black or African American,"BioLab, Inc.",103d0f2ea,,,True,,,A,,0,current
+63,Female,,"BioLab, Inc.",1055eae82,,,True,,,A,,0,former
+61,Male,,"BioLab, Inc.",106e1ec12,,,True,,,A,,13,never
+59,Female,White,"BioLab, Inc.",108f70a6f,,,True,,,A,,4,current
+60,Female,White,"BioLab, Inc.",1092a162,,,True,,,A,,3,current
+52,Female,White,"BioLab, Inc.",109ee1dd9,,,True,,,A,,9,current
+71,Male,,"BioLab, Inc.",10aa66813,,,True,,,B,,16,never
+37,Female,,"BioLab, Inc.",10ad9774b,,,True,,,D,,16,former
+78,Female,Black or African American,"BioLab, Inc.",10b84bad9,,,True,,,A,,0,never
+67,Female,Asian,"BioLab, Inc.",10ba5771f,,,True,,,B,,0,never
+50,Male,Asian,"BioLab, Inc.",10cfa863f,,,True,,,B,,0,unknown
+56,Male,White,"BioLab, Inc.",10e88bf71,,,True,,,A,,0,never
+58,Female,White,"BioLab, Inc.",10fecf4ab,,,True,,,D,,6,former
+65,Female,White,"BioLab, Inc.",1112d5aec,,,True,1.0,,A,,13,unknown
+63,Male,Asian,"BioLab, Inc.",111349f02,,,True,,,C,,6,former
+73,Male,Black or African American,"BioLab, Inc.",111e773e2,,,True,,,A,,0,never
+56,Female,,"BioLab, Inc.",1122d23da,,,True,,,A,,0,never
+62,Male,,"BioLab, Inc.",11263353c,,,True,,,B,,33,never
+71,Male,White,"BioLab, Inc.",112887f9a,,,True,0.0,,B,,0,never
+59,Female,,"BioLab, Inc.",113071287,,,True,,,B,,0,never
+47,Female,Native Hawaiian or Other Pacific Islander,"BioLab, Inc.",1134dd55d,,,True,,,B,,18,never
+56,Female,White,"BioLab, Inc.",113f4062d,,,True,,,A,,5,former
+62,Male,Black or African American,"BioLab, Inc.",1142344f7,,,True,,,A,,0,former
+55,Male,,"BioLab, Inc.",11450fdca,,,True,,,B,,13,never
+52,Female,White,"BioLab, Inc.",114bcb899,,,True,,,A,,14,never
+72,Female,,"BioLab, Inc.",114cbd7d4,,,True,,,A,,0,former
+64,Female,White,"BioLab, Inc.",1155a785d,,,True,,,A,,11,unknown
+66,Male,White,"BioLab, Inc.",1164ac0ef,,,True,,,A,,0,former
+43,Male,Asian,"BioLab, Inc.",11654a5ab,,,True,,,B,,31,former
+69,Female,Black or African American,"BioLab, Inc.",11663b34e,,,True,,,A,,0,current
+70,Female,Black or African American,"BioLab, Inc.",116803947,,,True,,,A,,7,never
+68,Female,,"BioLab, Inc.",1189a163a,,,True,,,A,,10,never
+55,Male,Black or African American,"BioLab, Inc.",1193cf177,,,True,,,F,,8,former
+64,Female,Black or African American,"BioLab, Inc.",119dd56d3,,,True,2.0,,C,,0,never
+61,Male,Black or African American,"BioLab, Inc.",11b934954,,,True,1.0,,A,,0,never
+66,Female,White,"BioLab, Inc.",11cb79544,,,True,0.0,,A,,0,never
+64,Male,White,"BioLab, Inc.",11d5dff1,,,True,0.0,,A,,6,never
+75,Female,White,"BioLab, Inc.",11d7a46bf,,,True,,,F,,12,former
+72,Female,White,"BioLab, Inc.",11da4f890,,,True,,,A,,4,never
+64,Female,Black or African American,"BioLab, Inc.",11e2ec8c5,,,True,,,A,,16,never
+70,Male,Black or African American,"BioLab, Inc.",11e3573fc,,,True,,,A,,0,never
+60,Female,White,"BioLab, Inc.",11e5f979c,,,True,,,A,,0,never
+65,Male,Asian,"BioLab, Inc.",11f2e7451,,,True,,,D,,0,never
+59,Female,,"BioLab, Inc.",11f373ac3,,,True,,,C,,2,former
+72,Male,White,"BioLab, Inc.",1202cab63,,,True,,,C,,0,former
+65,Male,White,"BioLab, Inc.",12157cbc8,,,True,1.0,,B,,0,current
+49,Male,White,"BioLab, Inc.",121971b85,,,True,,,A,,8,never
+66,Male,,"BioLab, Inc.",12564da8e,,,True,,,B,,4,former
+54,Male,White,"BioLab, Inc.",12723955b,,,True,,,B,,0,former
+48,Female,White,"BioLab, Inc.",1272d5c2,,,True,,,A,,11,never
+81,Male,,"BioLab, Inc.",1287438f5,,,True,,,C,,8,never
+51,Female,Black or African American,"BioLab, Inc.",128bc6147,,,True,0.0,,A,,0,current
+50,Female,White,"BioLab, Inc.",1292456a1,,,True,,,C,,13,former
+67,Male,,"BioLab, Inc.",129bbd6d2,,,True,,,C,,0,current
+66,Female,Black or African American,"BioLab, Inc.",129dbbad0,,,True,,,B,,6,never
+57,Male,White,"BioLab, Inc.",12a1d7540,,,True,,,A,,4,never
+78,Female,,"BioLab, Inc.",12a56d61e,,,True,,,A,,35,former
+66,Male,,"BioLab, Inc.",12b5c1fe1,,,True,,,B,,0,never
+60,Female,Black or African American,"BioLab, Inc.",12b5e2466,,,True,,,A,,0,never
+67,Male,,"BioLab, Inc.",12b7ef258,,,True,,,A,,5,former
+80,Male,Black or African American,"BioLab, Inc.",12bb88a12,,,True,,,A,,0,never
+66,Male,Asian,"BioLab, Inc.",12c13c21a,,,True,,,B,,0,former
+44,Female,White,"BioLab, Inc.",12c5715fb,,,True,,,E,,0,never
+54,Male,White,"BioLab, Inc.",12c6896e8,,,True,,,B,,0,never
+72,Female,Asian,"BioLab, Inc.",12cbcc3b9,,,True,,,A,,23,never
+64,Female,Black or African American,"BioLab, Inc.",12cda00fd,,,True,,,A,,0,never
+46,Female,White,"BioLab, Inc.",12df3827b,,,True,1.0,,A,,4,current
+69,Male,White,"BioLab, Inc.",12ebfd3eb,,,True,,,A,,0,former
+74,Female,White,"BioLab, Inc.",12ed7bf31,,,True,,,A,,9,former
+61,Female,White,"BioLab, Inc.",12fdbc0c3,,,True,,,A,,0,former
+75,Female,Black or African American,"BioLab, Inc.",13207df17,,,True,,,A,,5,never
+53,Female,White,"BioLab, Inc.",13263063,,,True,,,A,,37,former
+56,Male,Black or African American,"BioLab, Inc.",132b5e766,,,True,,,C,,5,never
+57,Male,Asian,"BioLab, Inc.",132bd4793,,,True,,,A,,10,current
+68,Female,,"BioLab, Inc.",132f79767,,,True,1.0,,A,,4,former
+71,Male,Black or African American,"BioLab, Inc.",1332406b7,,,True,,,A,,52,never
+47,Female,,"BioLab, Inc.",1335fd24f,,,True,,,A,,13,never
+66,Male,,"BioLab, Inc.",1337c323a,,,True,1.0,,A,,4,current
+39,Male,,"BioLab, Inc.",133abecca,,,True,,,A,,7,former
+58,Female,,"BioLab, Inc.",13780ea83,,,True,,,A,,0,former
+62,Female,White,"BioLab, Inc.",137af27c4,,,True,,,B,,8,former
+50,Male,Black or African American,"BioLab, Inc.",138e5201f,,,True,,,D,,12,former
+56,Male,,"BioLab, Inc.",138ebf896,,,True,,,B,,0,current
+62,Female,Asian,"BioLab, Inc.",13a748dcb,,,True,,,C,,7,former
+70,Female,Black or African American,"BioLab, Inc.",13afe10d0,,,True,,,A,,0,current
+43,Male,Black or African American,"BioLab, Inc.",13d18ec6b,,,True,,,B,,0,current
+54,Female,Asian,"BioLab, Inc.",13d46090f,,,True,1.0,,A,,0,never
+63,Female,,"BioLab, Inc.",13e8aaa51,,,True,0.0,,B,,11,never
+46,Male,White,"BioLab, Inc.",140c657ad,,,True,,,A,,0,current
+61,Male,White,"BioLab, Inc.",14149a5c8,,,True,,,A,,0,current
+33,Male,White,"BioLab, Inc.",141526688,,,True,,,B,,0,never
+68,Female,Black or African American,"BioLab, Inc.",14183415c,,,True,,,A,,1,former
+62,Female,Black or African American,"BioLab, Inc.",143083471,,,True,,,B,,0,never
+52,Male,Black or African American,"BioLab, Inc.",145201a78,,,True,1.0,,F,,0,current
+62,Male,White,"BioLab, Inc.",14630fe79,,,True,,,A,,5,never
+68,Male,,"BioLab, Inc.",1475a9cb2,,,True,,,A,,0,former
+64,Female,White,"BioLab, Inc.",14773ffee,,,True,,,F,,0,never
+71,Male,White,"BioLab, Inc.",149fae492,,,True,,,D,,11,former
+61,Female,White,"BioLab, Inc.",14a69c60b,,,True,,,A,,21,former
+48,Female,Asian,"BioLab, Inc.",14a9288f8,,,True,,,A,,0,current
+74,Female,White,"BioLab, Inc.",14af72fc3,,,True,,,A,,0,current
+57,Male,White,"BioLab, Inc.",14b30df88,,,True,,,A,,1,never
+64,Male,White,"BioLab, Inc.",14b6fd909,,,True,,,B,,7,never
+67,Male,White,"BioLab, Inc.",14bb38960,,,True,,,A,,5,never
+62,Female,Black or African American,"BioLab, Inc.",14bbb2fb5,,,True,,,A,,0,former
+62,Male,White,"BioLab, Inc.",14bf62adb,,,True,,,A,,1,former
+31,Male,Black or African American,"BioLab, Inc.",14ce22e1f,,,True,,,A,,9,current
+63,Female,White,"BioLab, Inc.",14d3f7717,,,True,0.0,,A,,0,never
+67,Male,White,"BioLab, Inc.",14d936734,,,True,,,A,,12,never
+67,Male,Black or African American,"BioLab, Inc.",14dda9a01,,,True,,,A,,8,never
+66,Female,White,"BioLab, Inc.",14e4b767c,,,True,,,A,,0,current
+59,Male,White,"BioLab, Inc.",14e896635,,,True,,,A,,11,never
+62,Male,Black or African American,"BioLab, Inc.",14e970585,,,True,,,C,,3,unknown
+58,Female,Asian,"BioLab, Inc.",14ecb87e,,,True,0.0,,B,,0,never
+61,Male,White,"BioLab, Inc.",14f3fd6b3,,,True,,,B,,0,current
+38,Male,White,"BioLab, Inc.",14f78e145,,,True,,,A,,0,never
+73,Male,Black or African American,"BioLab, Inc.",15086ebc7,,,True,,,A,,2,current
+65,Female,Asian,"BioLab, Inc.",15267b033,,,True,,,A,,47,former
+60,Male,,"BioLab, Inc.",153c5821f,,,True,,,B,,0,never
+61,Female,White,"BioLab, Inc.",153d3382e,,,True,,,A,,0,current
+57,Male,Black or African American,"BioLab, Inc.",15545c69d,,,True,,,A,,0,never
+57,Male,Black or African American,"BioLab, Inc.",155d201a3,,,True,,,E,,0,current
+65,Female,White,"BioLab, Inc.",15679ce40,,,True,0.0,,A,,0,former
+43,Male,White,"BioLab, Inc.",1572505e0,,,True,,,C,,12,never
+60,Female,White,"BioLab, Inc.",157cb7729,,,True,,,C,,8,former
+61,Male,White,"BioLab, Inc.",15866963e,,,True,,,C,,0,never
+53,Female,Black or African American,"BioLab, Inc.",158b343db,,,True,0.0,,F,,43,never
+71,Female,White,"BioLab, Inc.",15b249a91,,,True,,,A,,22,never
+59,Female,White,"BioLab, Inc.",15bac7608,,,True,,,A,,16,current
+50,Male,White,"BioLab, Inc.",15d1456a,,,True,,,A,,0,never
+37,Male,,"BioLab, Inc.",15eadbf12,,,True,,,A,,11,current
+48,Male,Black or African American,"BioLab, Inc.",15fc5034d,,,True,,,A,,50,current
+58,Male,,"BioLab, Inc.",15ff07148,,,True,,,A,,9,current
+67,Male,White,"BioLab, Inc.",160b4ba2e,,,True,,,A,,4,former
+52,Female,,"BioLab, Inc.",160bb4bc,,,True,,,A,,0,never
+49,Female,White,"BioLab, Inc.",1613256b4,,,True,,,A,,0,never
+76,Male,,"BioLab, Inc.",161b19bd9,,,True,,,A,,32,never
+50,Female,,"BioLab, Inc.",161eda32a,,,True,,,A,,19,former
+64,Female,White,"BioLab, Inc.",16247c22d,,,True,,,A,,9,never
+56,Male,Asian,"BioLab, Inc.",1625ea684,,,True,,,A,,0,current
+55,Male,,"BioLab, Inc.",162eea9c1,,,True,,,C,,0,never
+65,Male,Black or African American,"BioLab, Inc.",163e6da39,,,True,,,A,,52,never
+49,Female,White,"BioLab, Inc.",165b7ec94,,,True,,,A,,4,current
+64,Female,Native Hawaiian or Other Pacific Islander,"BioLab, Inc.",1669485f4,,,True,,,A,,0,never
+68,Male,White,"BioLab, Inc.",166b80e62,,,True,,,A,,29,current
+56,Male,Black or African American,"BioLab, Inc.",16b071712,,,True,2.0,,A,,27,never
+69,Male,White,"BioLab, Inc.",16c39b063,,,True,1.0,,A,,0,former
+75,Male,Asian,"BioLab, Inc.",16c869328,,,True,0.0,,A,,1,never
+26,Male,,"BioLab, Inc.",16ce4dbec,,,True,,,F,,29,unknown
+72,Female,Asian,"BioLab, Inc.",16dbe7129,,,True,,,A,,0,current
+55,Female,Native Hawaiian or Other Pacific Islander,"BioLab, Inc.",16df2574f,,,True,,,A,,3,current
+73,Male,Black or African American,"BioLab, Inc.",16ec07c47,,,True,,,B,,27,former
+62,Female,Black or African American,"BioLab, Inc.",16f74b4a6,,,True,0.0,,D,,7,never
+61,Female,White,"BioLab, Inc.",16f7a5846,,,True,,,A,,0,current
+69,Male,Asian,"BioLab, Inc.",16fb2ab92,,,True,,,A,,2,former
+57,Female,White,"BioLab, Inc.",17065db8e,,,True,,,A,,0,never
+69,Male,White,"BioLab, Inc.",17091f94c,,,True,,,A,,4,never
+66,Female,Black or African American,"BioLab, Inc.",170994759,,,True,,,A,,9,never
+57,Male,White,"BioLab, Inc.",17172e365,,,True,,,A,,5,never
+59,Female,White,"BioLab, Inc.",171cfec78,,,True,2.0,,A,,0,never
+68,Female,,"BioLab, Inc.",171d038b6,,,True,,,A,,0,unknown
+70,Female,Black or African American,"BioLab, Inc.",173a582cb,,,True,,,A,,11,never
+70,Female,White,"BioLab, Inc.",173f02031,,,True,,,A,,0,current
+65,Female,White,"BioLab, Inc.",1755d2010,,,True,,,B,,0,current
+60,Female,,"BioLab, Inc.",175c13deb,,,True,,,D,,0,never
+66,Female,White,"BioLab, Inc.",175f40dbe,,,True,2.0,,A,,0,never
+70,Male,Black or African American,"BioLab, Inc.",176788a99,,,True,1.0,,B,,0,current
+51,Male,,"BioLab, Inc.",179e428bd,,,True,0.0,,A,,3,former
+53,Male,Asian,"BioLab, Inc.",17a43d957,,,True,2.0,,B,,2,never
+72,Female,Asian,"BioLab, Inc.",17c657fd3,,,True,,,A,,0,never
+66,Female,White,"BioLab, Inc.",17ca200c7,,,True,0.0,,A,,0,never
+43,Male,White,"BioLab, Inc.",180653c3a,,,True,,,C,,0,never
+53,Female,White,"BioLab, Inc.",180a8eadf,,,True,0.0,,A,,11,never
+54,Male,,"BioLab, Inc.",18186c9d,,,True,,,A,,12,never
+62,Male,White,"BioLab, Inc.",181d27284,,,True,0.0,,A,,4,never
+66,Male,Black or African American,"BioLab, Inc.",18288acbc,,,True,,,A,,0,never
+57,Female,Asian,"BioLab, Inc.",183dffd3e,,,True,,,A,,0,never
+54,Male,White,"BioLab, Inc.",1841a7dad,,,True,,,D,,0,never
+60,Male,White,"BioLab, Inc.",185d287ac,,,True,,,A,,20,never
+70,Male,Asian,"BioLab, Inc.",186e69114,,,True,1.0,,A,,0,never
+53,Female,Black or African American,"BioLab, Inc.",1875911b2,,,True,,,A,,0,never
+54,Female,,"BioLab, Inc.",18966c9c5,,,True,,,A,,7,current
+69,Female,,"BioLab, Inc.",189b61312,,,True,,,C,,4,never
+81,Male,White,"BioLab, Inc.",18a32907f,,,True,,,F,,12,never
+59,Male,White,"BioLab, Inc.",18a3eeab5,,,True,,,A,,12,former
+56,Female,White,"BioLab, Inc.",18af158ce,,,True,,,C,,7,former
+75,Female,White,"BioLab, Inc.",18b20af7e,,,True,,,A,,3,never
+64,Male,Asian,"BioLab, Inc.",18dfdc05a,,,True,,,A,,4,former
+54,Female,Asian,"BioLab, Inc.",18e17cdc,,,True,,,A,,6,never
+48,Female,Asian,"BioLab, Inc.",18e8b72f6,,,True,,,A,,12,never
+77,Male,White,"BioLab, Inc.",190b191b9,,,True,,,A,,0,current
+62,Male,,"BioLab, Inc.",191baf58,,,True,,,A,,9,unknown
+64,Female,White,"BioLab, Inc.",191ea8b1c,,,True,,,B,,23,former
+42,Female,Black or African American,"BioLab, Inc.",19272d648,,,True,,,B,,4,former
+64,Male,White,"BioLab, Inc.",1933fb214,,,True,,,B,,11,current
+73,Male,,"BioLab, Inc.",1939ece78,,,True,,,C,,0,never
+64,Female,Asian,"BioLab, Inc.",193a49d4d,,,True,,,E,,28,former
+77,Female,,"BioLab, Inc.",19449e492,,,True,,,A,,9,current
+67,Male,White,"BioLab, Inc.",1945ee102,,,True,,,A,,8,never
+68,Male,Asian,"BioLab, Inc.",1947099d4,,,True,,,A,,34,current
+38,Female,Asian,"BioLab, Inc.",195bf223d,,,True,,,A,,0,never
+53,Male,White,"BioLab, Inc.",195d3d1c6,,,True,,,C,,3,current
+64,Male,White,"BioLab, Inc.",1961a29a6,,,True,,,A,,13,former
+57,Female,,"BioLab, Inc.",1963fefa8,,,True,,,B,,0,never
+55,Female,Black or African American,"BioLab, Inc.",196814362,,,True,,,A,,0,former
+70,Female,Black or African American,"BioLab, Inc.",1971b137d,,,True,,,D,,6,current
+45,Male,Black or African American,"BioLab, Inc.",198143a1e,,,True,0.0,,A,,0,current
+41,Female,White,"BioLab, Inc.",198435c3f,,,True,0.0,,A,,31,never
+50,Male,,"BioLab, Inc.",199bd7632,,,True,,,A,,2,current
+51,Male,,"BioLab, Inc.",199d7be17,,,True,,,C,,17,never
+61,Female,White,"BioLab, Inc.",19a751cf4,,,True,,,C,,0,current
+67,Male,,"BioLab, Inc.",19b2410a9,,,True,,,A,,22,never
+47,Male,Black or African American,"BioLab, Inc.",19bbe9315,,,True,,,A,,2,current
+51,Male,White,"BioLab, Inc.",19bd8dd49,,,True,,,A,,15,current
+57,Male,White,"BioLab, Inc.",19d4f912d,,,True,,,A,,0,never
+41,Male,Asian,"BioLab, Inc.",19dcb5105,,,True,,,B,,7,never
+50,Female,White,"BioLab, Inc.",19dfb94ec,,,True,,,E,,18,former
+56,Male,,"BioLab, Inc.",19e2fa01c,,,True,,,A,,3,current
+58,Male,White,"BioLab, Inc.",19e85461c,,,True,,,A,,0,current
+68,Male,,"BioLab, Inc.",19f9981d2,,,True,,,E,,0,never
+53,Female,,"BioLab, Inc.",19ff50bff,,,True,,,A,,0,never
+61,Male,,"BioLab, Inc.",1a0fbbdfe,,,True,,,A,,1,never
+61,Female,White,"BioLab, Inc.",1a180db19,,,True,,,A,,6,unknown
+60,Male,White,"BioLab, Inc.",1a488e883,,,True,,,A,,0,never
+67,Female,White,"BioLab, Inc.",1a53f0129,,,True,0.0,,A,,2,current
+54,Female,,"BioLab, Inc.",1a5ff3bbe,,,True,,,A,,1,former
+61,Female,White,"BioLab, Inc.",1a7f2b298,,,True,,,A,,11,never
+76,Female,Asian,"BioLab, Inc.",1a84db104,,,True,,,A,,0,never
+70,Male,White,"BioLab, Inc.",1a8a9204f,,,True,0.0,,A,,0,current
+67,Male,White,"BioLab, Inc.",1a9a91165,,,True,,,A,,0,current
+53,Female,Black or African American,"BioLab, Inc.",1aa28266b,,,True,,,A,,0,former
+60,Male,White,"BioLab, Inc.",1ab10da6c,,,True,,,A,,0,current
+46,Male,Black or African American,"BioLab, Inc.",1adbea4cf,,,True,0.0,,B,,0,never
+61,Male,White,"BioLab, Inc.",1adcd3787,,,True,,,A,,0,unknown
+69,Male,White,"BioLab, Inc.",1ae907fed,,,True,,,A,,1,never
+48,Female,White,"BioLab, Inc.",1af0ad45,,,True,,,A,,0,current
+64,Male,,"BioLab, Inc.",1af48301b,,,True,,,A,,1,never
+74,Female,White,"BioLab, Inc.",1b2483709,,,True,,,A,,0,never
+64,Female,White,"BioLab, Inc.",1b28409,,,True,,,A,,0,former
+41,Male,Black or African American,"BioLab, Inc.",1b2858040,,,True,,,A,,4,never
+64,Female,White,"BioLab, Inc.",1b28866d8,,,True,,,C,,0,never
+51,Male,White,"BioLab, Inc.",1b32e1a0,,,True,0.0,,A,,0,never
+57,Male,Black or African American,"BioLab, Inc.",1b493a97b,,,True,,,C,,5,never
+64,Male,,"BioLab, Inc.",1b50b320f,,,True,1.0,,B,,1,current
+74,Male,White,"BioLab, Inc.",1b5af40d0,,,True,1.0,,A,,1,never
+66,Female,White,"BioLab, Inc.",1b6a42a76,,,True,2.0,,B,,1,never
+69,Male,White,"BioLab, Inc.",1b77caeb9,,,True,2.0,,A,,31,unknown
+63,Male,,"BioLab, Inc.",1b80b2d21,,,True,,,F,,0,never
+72,Male,,"BioLab, Inc.",1b8927d24,,,True,,,C,,0,former
+52,Female,White,"BioLab, Inc.",1b8d2e570,,,True,,,A,,0,former
+53,Male,Black or African American,"BioLab, Inc.",1b9dfa178,,,True,,,B,,11,never
+43,Male,White,"BioLab, Inc.",1baae0a9,,,True,0.0,,B,,6,former
+51,Female,White,"BioLab, Inc.",1bbf767ae,,,True,2.0,,A,,5,never
+62,Male,,"BioLab, Inc.",1bc2f7a99,,,True,,,C,,0,former
+77,Female,Black or African American,"BioLab, Inc.",1bd71558e,,,True,,,A,,0,never
+69,Male,White,"BioLab, Inc.",1bf4f770e,,,True,,,C,,3,former
+47,Male,Asian,"BioLab, Inc.",1bfbb9fdf,,,True,,,A,,22,current
+57,Male,,"BioLab, Inc.",1c0a4ca8a,,,True,,,D,,0,current
+25,Male,White,"BioLab, Inc.",1c0abbc7c,,,True,,,A,,26,current
+67,Male,White,"BioLab, Inc.",1c1129d4d,,,True,,,A,,0,never
+60,Male,Asian,"BioLab, Inc.",1c1ec4d2d,,,True,,,A,,10,never
+60,Male,,"BioLab, Inc.",1c4f777d4,,,True,1.0,,A,,1,never
+58,Female,White,"BioLab, Inc.",1c521fca4,,,True,,,E,,0,never
+50,Female,Asian,"BioLab, Inc.",1c556d58b,,,True,,,C,,1,never
+63,Male,White,"BioLab, Inc.",1c693621a,,,True,0.0,,A,,5,never
+67,Male,,"BioLab, Inc.",1c7458b6c,,,True,,,A,,1,current
+65,Female,White,"BioLab, Inc.",1c79ee9a9,,,True,,,F,,3,never
+54,Male,Black or African American,"BioLab, Inc.",1c7d15092,,,True,,,A,,5,never
+59,Male,Black or African American,"BioLab, Inc.",1c80ba66a,,,True,,,A,,3,current
+49,Male,White,"BioLab, Inc.",1c8a060e5,,,True,,,C,,7,never
+54,Male,Black or African American,"BioLab, Inc.",1ca637b25,,,True,,,B,,6,current
+71,Female,Native Hawaiian or Other Pacific Islander,"BioLab, Inc.",1cb13b4c5,,,True,,,A,,13,current
+59,Male,,"BioLab, Inc.",1cb2f948e,,,True,,,A,,4,never
+51,Female,White,"BioLab, Inc.",1cb9418a5,,,True,,,A,,16,current
+34,Male,,"BioLab, Inc.",1cc061d0c,,,True,,,D,,0,never
+59,Female,Asian,"BioLab, Inc.",1cd36a9d7,,,True,,,A,,0,current
+64,Male,White,"BioLab, Inc.",1cdaa8576,,,True,,,A,,0,never
+59,Male,Black or African American,"BioLab, Inc.",1ce83ebc4,,,True,0.0,,C,,0,never
+66,Male,,"BioLab, Inc.",1cecfba34,,,True,,,B,,0,never
+59,Female,Black or African American,"BioLab, Inc.",1cee5dd70,,,True,,,B,,0,current
+63,Female,,"BioLab, Inc.",1cefe6ef3,,,True,,,F,,0,never
+69,Female,Black or African American,"BioLab, Inc.",1cf7c0ed3,,,True,,,A,,11,current
+62,Female,White,"BioLab, Inc.",1d00f8900,,,True,,,A,,2,current
+67,Female,Asian,"BioLab, Inc.",1d17ec58f,,,True,0.0,,B,,41,never
+67,Male,White,"BioLab, Inc.",1d19d75b5,,,True,,,A,,13,never
+67,Male,Asian,"BioLab, Inc.",1d27859c,,,True,,,A,,14,current
+58,Female,Black or African American,"BioLab, Inc.",1d2c52d1b,,,True,0.0,,A,,0,unknown
+74,Male,,"BioLab, Inc.",1d2e5605d,,,True,,,A,,27,never
+60,Male,White,"BioLab, Inc.",1d3163d53,,,True,,,A,,0,current
+55,Male,White,"BioLab, Inc.",1d3f09b3e,,,True,,,B,,2,current
+37,Female,,"BioLab, Inc.",1d421b37e,,,True,2.0,,A,,0,former
+68,Female,White,"BioLab, Inc.",1d433837b,,,True,0.0,,A,,0,never
+52,Male,Black or African American,"BioLab, Inc.",1d434b755,,,True,,,A,,29,never
+69,Male,,"BioLab, Inc.",1d6b60eac,,,True,2.0,,A,,2,current
+52,Male,Black or African American,"BioLab, Inc.",1d7146912,,,True,0.0,,C,,21,current
+68,Female,White,"BioLab, Inc.",1d78af40,,,True,2.0,,B,,4,former
+66,Female,,"BioLab, Inc.",1d865e81c,,,True,,,A,,0,current
+70,Female,Asian,"BioLab, Inc.",1d9408bb,,,True,,,A,,4,former
+65,Male,Black or African American,"BioLab, Inc.",1da56dc2e,,,True,,,D,,1,never
+66,Male,Asian,"BioLab, Inc.",1dc4f1f54,,,True,,,A,,0,never
+68,Male,White,"BioLab, Inc.",1dcf23e8c,,,True,1.0,,E,,6,former
+65,Female,Black or African American,"BioLab, Inc.",1dd02d4ca,,,True,,,C,,0,never
+39,Female,White,"BioLab, Inc.",1dd52b779,,,True,2.0,,A,,0,current
+62,Female,Black or African American,"BioLab, Inc.",1de448440,,,True,,,D,,0,former
+66,Male,Black or African American,"BioLab, Inc.",1df1d323e,,,True,,,C,,1,never
+60,Male,Black or African American,"BioLab, Inc.",1df45e3bb,,,True,,,B,,5,current
+64,Male,Black or African American,"BioLab, Inc.",1df9b1b53,,,True,,,A,,2,never
+46,Female,White,"BioLab, Inc.",1e08d8c82,,,True,,,A,,0,current
+62,Female,White,"BioLab, Inc.",1e196f63e,,,True,0.0,,A,,5,current
+56,Female,White,"BioLab, Inc.",1e210ba30,,,True,0.0,,A,,0,current
+67,Male,White,"BioLab, Inc.",1e329c1fe,,,True,,,C,,3,never
+59,Female,Black or African American,"BioLab, Inc.",1e383b142,,,True,,,A,,3,never
+59,Female,White,"BioLab, Inc.",1e49e1783,,,True,,,A,,0,never
+71,Female,Black or African American,"BioLab, Inc.",1e5bb682d,,,True,,,E,,7,former
+75,Female,White,"BioLab, Inc.",1e5d880e5,,,True,2.0,,A,,0,former
+69,Female,Asian,"BioLab, Inc.",1e63eeeb7,,,True,,,B,,7,never
+48,Male,,"BioLab, Inc.",1e64d31be,,,True,,,A,,2,current
+55,Male,White,"BioLab, Inc.",1e69da70,,,True,0.0,,A,,8,former
+67,Male,Black or African American,"BioLab, Inc.",1e6cae533,,,True,,,A,,5,never
+57,Female,,"BioLab, Inc.",1e9717efc,,,True,1.0,,A,,20,unknown
+59,Male,,"BioLab, Inc.",1e983772d,,,True,,,F,,7,never
+59,Male,White,"BioLab, Inc.",1e9de7f08,,,True,,,B,,6,current
+56,Male,White,"BioLab, Inc.",1ebba9bbc,,,True,,,B,,2,never
+67,Female,White,"BioLab, Inc.",1ebfdb9d4,,,True,,,A,,3,current
+73,Male,White,"BioLab, Inc.",1ed4455df,,,True,1.0,,F,,23,never
+47,Male,White,"BioLab, Inc.",1ed6a13bc,,,True,,,A,,0,current
+65,Male,White,"BioLab, Inc.",1ee0f75ed,,,True,,,B,,0,never
+74,Male,White,"BioLab, Inc.",1ee6a7f54,,,True,,,A,,3,never
+59,Male,Black or African American,"BioLab, Inc.",1ef4bcf4e,,,True,2.0,,A,,9,current
+70,Female,White,"BioLab, Inc.",1ef92fee,,,True,,,A,,2,never
+57,Female,Black or African American,"BioLab, Inc.",1f0fcb67b,,,True,,,A,,14,current
+61,Male,Black or African American,"BioLab, Inc.",1f1357450,,,True,,,C,,0,never
+38,Male,Black or African American,"BioLab, Inc.",1f1cca5c9,,,True,2.0,,A,,0,current
+48,Female,White,"BioLab, Inc.",1f29a42b2,,,True,,,A,,0,former
+53,Male,White,"BioLab, Inc.",1f4202d62,,,True,,,A,,31,current
+61,Male,White,"BioLab, Inc.",1f53b142d,,,True,0.0,,A,,3,never
+81,Female,White,"BioLab, Inc.",1f6e0de44,,,True,,,A,,23,current
+44,Female,,"BioLab, Inc.",1f7322f97,,,True,,,A,,0,current
+57,Female,White,"BioLab, Inc.",1f74bf580,,,True,,,C,,35,never
+59,Male,White,"BioLab, Inc.",1f8021f19,,,True,,,A,,0,current
+61,Female,,"BioLab, Inc.",1f86798fa,,,True,0.0,,A,,0,never
+74,Male,Black or African American,"BioLab, Inc.",1f868fb6c,,,True,,,A,,27,former
+57,Male,White,"BioLab, Inc.",1f8aba11a,,,True,2.0,,A,,5,current
+67,Female,,"BioLab, Inc.",1f90f976b,,,True,1.0,,C,,0,never
+66,Male,White,"BioLab, Inc.",1fade2443,,,True,,,A,,2,current
+64,Female,White,"BioLab, Inc.",1fb93d338,,,True,,,A,,1,never
+53,Male,White,"BioLab, Inc.",1fd19b6ee,,,True,0.0,,A,,1,current
+68,Male,,"BioLab, Inc.",1fe69df9f,,,True,,,A,,1,current
+55,Female,Native Hawaiian or Other Pacific Islander,"BioLab, Inc.",1ff307b44,,,True,,,A,,2,never
+53,Female,Black or African American,"BioLab, Inc.",200d1dce,,,True,,,A,,14,former
+63,Male,White,"BioLab, Inc.",201736839,,,True,,,F,,0,never
+55,Female,Black or African American,"BioLab, Inc.",202a06d3e,,,True,,,A,,0,never
+52,Female,White,"BioLab, Inc.",203e5d346,,,True,,,E,,0,never
+47,Female,White,"BioLab, Inc.",2042359b7,,,True,,,A,,20,current
+62,Female,Asian,"BioLab, Inc.",20543b4b9,,,True,,,A,,0,former
+77,Male,,"BioLab, Inc.",2061707db,,,True,0.0,,A,,9,current
+44,Female,,"BioLab, Inc.",206d84c58,,,True,,,E,,0,current
+53,Male,White,"BioLab, Inc.",20b02054a,,,True,,,B,,0,former
+67,Male,Asian,"BioLab, Inc.",20bb1c1f9,,,True,,,A,,1,never
+63,Female,,"BioLab, Inc.",20c8ffa94,,,True,,,A,,3,current
+58,Male,White,"BioLab, Inc.",20cd0bbef,,,True,0.0,,A,,0,former
+59,Female,Black or African American,"BioLab, Inc.",20d0d3ecf,,,True,,,F,,0,current
+65,Female,Asian,"BioLab, Inc.",20d42c591,,,True,0.0,,C,,2,never
+67,Male,White,"BioLab, Inc.",20e5fb17c,,,True,0.0,,A,,51,never
+58,Female,,"BioLab, Inc.",20f93466b,,,True,1.0,,A,,20,never
+65,Male,Asian,"BioLab, Inc.",20ffc3f2,,,True,1.0,,C,,41,never
+63,Male,White,"BioLab, Inc.",211dffd96,,,True,,,A,,9,unknown
+66,Male,White,"BioLab, Inc.",21212b07b,,,True,,,A,,9,never
+53,Female,White,"BioLab, Inc.",2128e64b5,,,True,,,A,,15,former
+66,Female,White,"BioLab, Inc.",21446c045,,,True,,,B,,0,never
+69,Male,White,"BioLab, Inc.",2150ba4a7,,,True,,,A,,0,current
+64,Female,White,"BioLab, Inc.",216303cdc,,,True,1.0,,B,,0,never
+54,Female,White,"BioLab, Inc.",2164532c8,,,True,0.0,,A,,18,current
+40,Female,,"BioLab, Inc.",21703bed5,,,True,,,A,,0,current
+55,Female,White,"BioLab, Inc.",218322c58,,,True,,,A,,37,former
+54,Male,,"BioLab, Inc.",21ae22bcf,,,True,1.0,,E,,15,current
+73,Female,,"BioLab, Inc.",21b23c51c,,,True,,,A,,2,former
+58,Male,White,"BioLab, Inc.",21c8b6659,,,True,,,A,,14,never
+57,Male,White,"BioLab, Inc.",21db8fffe,,,True,,,D,,16,current
+73,Female,Asian,"BioLab, Inc.",21efa6c42,,,True,,,A,,5,current
+79,Female,Native Hawaiian or Other Pacific Islander,"BioLab, Inc.",21f5cc374,,,True,,,B,,0,former
+55,Male,White,"BioLab, Inc.",2201e0d8b,,,True,0.0,,A,,0,unknown
+51,Male,Black or African American,"BioLab, Inc.",220881bbe,,,True,,,A,,16,former
+58,Female,,"BioLab, Inc.",22100d22d,,,True,,,A,,3,current
+66,Female,White,"BioLab, Inc.",2215d3e8f,,,True,1.0,,A,,5,unknown
+42,Male,White,"BioLab, Inc.",2217f8795,,,True,,,A,,31,former
+43,Female,,"BioLab, Inc.",221986610,,,True,,,A,,0,current
+61,Male,Black or African American,"BioLab, Inc.",221a33366,,,True,,,A,,12,former
+29,Male,,"BioLab, Inc.",221da90e,,,True,,,A,,79,never
+63,Male,,"BioLab, Inc.",222955d24,,,True,2.0,,A,,5,never
+67,Male,White,"BioLab, Inc.",2237014cb,,,True,,,B,,4,current
+64,Male,White,"BioLab, Inc.",22395157f,,,True,,,B,,14,current
+50,Male,White,"BioLab, Inc.",223bd1a85,,,True,1.0,,A,,23,former
+61,Female,Black or African American,"BioLab, Inc.",223d0c1d8,,,True,2.0,,A,,1,never
+73,Male,,"BioLab, Inc.",224bf1636,,,True,0.0,,A,,2,current
+64,Male,White,"BioLab, Inc.",2251ea7d7,,,True,,,B,,0,never
+47,Female,Asian,"BioLab, Inc.",2252a8834,,,True,,,A,,5,current
+54,Male,White,"BioLab, Inc.",226981f3c,,,True,,,A,,3,never
+58,Female,,"BioLab, Inc.",226a7186,,,True,,,A,,0,former
+51,Female,Asian,"BioLab, Inc.",226cbb232,,,True,,,A,,0,former
+70,Female,Asian,"BioLab, Inc.",2273aaf72,,,True,,,A,,0,never
+62,Male,White,"BioLab, Inc.",2284b8ad,,,True,,,A,,0,current
+63,Female,White,"BioLab, Inc.",229992a0c,,,True,,,F,,0,current
+73,Male,White,"BioLab, Inc.",229d14456,,,True,,,A,,8,former
+79,Female,Black or African American,"BioLab, Inc.",229d5dbb,,,True,,,B,,0,never
+69,Male,,"BioLab, Inc.",22a558f37,,,True,,,F,,0,former
+78,Female,White,"BioLab, Inc.",22a9e325f,,,True,,,A,,7,never
+75,Male,White,"BioLab, Inc.",22b307dd8,,,True,,,A,,13,never
+62,Male,White,"BioLab, Inc.",22c39d6ca,,,True,2.0,,A,,18,never
+68,Male,White,"BioLab, Inc.",22da7298a,,,True,0.0,,A,,0,current
+41,Female,White,"BioLab, Inc.",22de6f71,,,True,1.0,,A,,0,former
+80,Male,Black or African American,"BioLab, Inc.",22e3300d5,,,True,,,A,,0,current
+71,Female,White,"BioLab, Inc.",230d8a64c,,,True,,,A,,5,never
+62,Male,,"BioLab, Inc.",230e6a153,,,True,2.0,,F,,47,never
+71,Female,Native Hawaiian or Other Pacific Islander,"BioLab, Inc.",23114f2ba,,,True,,,D,,29,former
+50,Male,Black or African American,"BioLab, Inc.",2316e20ef,,,True,,,A,,0,never
+63,Male,Black or African American,"BioLab, Inc.",231890884,,,True,0.0,,A,,4,never
+64,Male,White,"BioLab, Inc.",231d17ec7,,,True,,,C,,0,never
+61,Female,Black or African American,"BioLab, Inc.",231f1d6e3,,,True,,,A,,2,former
+76,Female,White,"BioLab, Inc.",23316d861,,,True,0.0,,B,,70,unknown
+66,Male,,"BioLab, Inc.",233235b0c,,,True,,,A,,0,never
+62,Male,Black or African American,"BioLab, Inc.",2335c95ea,,,True,2.0,,B,,25,current
+76,Male,White,"BioLab, Inc.",23431637a,,,True,,,A,,1,current
+66,Male,,"BioLab, Inc.",235231125,,,True,,,A,,20,former
+68,Female,,"BioLab, Inc.",235634dc3,,,True,,,A,,18,current
+56,Female,American Indian or Alaska Native,"BioLab, Inc.",2365d3d56,,,True,,,C,,15,never
+55,Female,White,"BioLab, Inc.",236615578,,,True,,,A,,0,never
+65,Male,White,"BioLab, Inc.",23941708f,,,True,,,A,,11,never
+64,Male,Black or African American,"BioLab, Inc.",239513b8a,,,True,2.0,,C,,4,never
+49,Male,White,"BioLab, Inc.",23d0e88fe,,,True,,,F,,9,never
+66,Female,White,"BioLab, Inc.",23e082152,,,True,,,A,,0,never
+52,Male,Asian,"BioLab, Inc.",23ebef640,,,True,,,A,,12,never
+62,Male,Black or African American,"BioLab, Inc.",23ef4e605,,,True,,,A,,0,former
+75,Male,White,"BioLab, Inc.",23f815271,,,True,,,A,,22,never
+54,Male,White,"BioLab, Inc.",2414fff96,,,True,,,A,,0,current
+60,Male,White,"BioLab, Inc.",24222e063,,,True,2.0,,F,,32,never
+61,Male,Asian,"BioLab, Inc.",243887198,,,True,,,A,,2,never
+65,Male,Black or African American,"BioLab, Inc.",243a79863,,,True,,,A,,0,never
+45,Female,White,"BioLab, Inc.",2448b6cd7,,,True,,,A,,3,never
+63,Female,Black or African American,"BioLab, Inc.",245009153,,,True,,,A,,0,never
+71,Female,White,"BioLab, Inc.",2451bf736,,,True,,,A,,6,never
+55,Male,Black or African American,"BioLab, Inc.",24781055a,,,True,0.0,,A,,0,former
+71,Male,White,"BioLab, Inc.",24989e3d3,,,True,1.0,,C,,7,never
+54,Male,White,"BioLab, Inc.",24b15bac9,,,True,0.0,,B,,18,current
+55,Male,Black or African American,"BioLab, Inc.",24e300297,,,True,,,D,,1,never
+64,Male,,"BioLab, Inc.",24eef147a,,,True,,,D,,8,never
+75,Male,Black or African American,"BioLab, Inc.",24f75ccd7,,,True,,,A,,2,never
+76,Female,,"BioLab, Inc.",250aaafcc,,,True,1.0,,B,,12,former
+47,Male,White,"BioLab, Inc.",250cddf13,,,True,,,A,,16,unknown
+59,Male,,"BioLab, Inc.",25123d438,,,True,,,A,,9,never
+48,Female,Asian,"BioLab, Inc.",251ae0324,,,True,,,E,,0,former
+55,Male,White,"BioLab, Inc.",25213ffa2,,,True,,,A,,0,current
+64,Male,White,"BioLab, Inc.",252bdd330,,,True,,,F,,5,never
+73,Male,Black or African American,"BioLab, Inc.",2536dbaea,,,True,,,C,,3,never
+60,Male,,"BioLab, Inc.",258ad9a,,,True,,,E,,6,unknown
+55,Female,White,"BioLab, Inc.",2649a765,,,True,0.0,,A,,0,never
+75,Male,White,"BioLab, Inc.",265287a1,,,True,,,A,,0,never
+54,Female,Black or African American,"BioLab, Inc.",26a71bad,,,True,,,A,,0,former
+69,Male,,"BioLab, Inc.",2779ad84,,,True,,,C,,0,current
+56,Female,White,"BioLab, Inc.",27e54f0b,,,True,,,D,,33,never
+52,Male,Black or African American,"BioLab, Inc.",287343eb,,,True,,,A,,11,current
+63,Male,White,"BioLab, Inc.",2a1448a,,,True,,,B,,3,former
+66,Male,White,"BioLab, Inc.",2a22d931,,,True,,,A,,4,former
+52,Female,,"BioLab, Inc.",2ab7cf95,,,True,,,A,,5,current
+50,Female,White,"BioLab, Inc.",2aea599f,,,True,0.0,,A,,6,never
+61,Male,,"BioLab, Inc.",2b95e04f,,,True,,,B,,22,former
+66,Male,White,"BioLab, Inc.",2c63a1c8,,,True,0.0,,C,,0,former
+55,Female,Native Hawaiian or Other Pacific Islander,"BioLab, Inc.",2c7470d0,,,True,,,A,,3,current
+64,Male,Black or African American,"BioLab, Inc.",2ce04d39,,,True,,,B,,14,never
+60,Female,Black or African American,"BioLab, Inc.",2d4658fe,,,True,,,B,,0,current
+69,Female,Black or African American,"BioLab, Inc.",300c02da,,,True,0.0,,A,,10,current
+61,Male,White,"BioLab, Inc.",31735be5,,,True,,,B,,38,never
+66,Female,White,"BioLab, Inc.",3250ee35,,,True,,,A,,0,never
+60,Male,,"BioLab, Inc.",33ff6948,,,True,,,A,,0,former
+56,Female,White,"BioLab, Inc.",34053b13,,,True,,,A,,0,current
+58,Male,White,"BioLab, Inc.",3435793d,,,True,,,A,,8,current
+68,Male,,"BioLab, Inc.",366e469a,,,True,0.0,,B,,6,former
+65,Female,,"BioLab, Inc.",367ee91,,,True,1.0,,A,,2,never
+74,Female,,"BioLab, Inc.",3760808a,,,True,,,A,,0,never
+64,Male,White,"BioLab, Inc.",3788f3c4,,,True,0.0,,A,,29,never
+64,Male,White,"BioLab, Inc.",37fe3278,,,True,,,A,,5,never
+62,Male,Asian,"BioLab, Inc.",3834215b,,,True,0.0,,A,,0,never
+69,Male,White,"BioLab, Inc.",398169fe,,,True,,,A,,4,unknown
+68,Female,White,"BioLab, Inc.",3bfc66,,,True,,,A,,0,never
+53,Female,White,"BioLab, Inc.",3d423257,,,True,0.0,,C,,0,current
+55,Male,Black or African American,"BioLab, Inc.",3e4840bc,,,True,,,B,,0,never
+69,Female,White,"BioLab, Inc.",3f7e758b,,,True,0.0,,A,,0,current
+38,Female,Black or African American,"BioLab, Inc.",3f9552ce,,,True,2.0,,B,,0,current
+61,Male,Black or African American,"BioLab, Inc.",4274daff,,,True,,,A,,3,never
+51,Male,White,"BioLab, Inc.",4415bda6,,,True,,,B,,0,never
+55,Male,White,"BioLab, Inc.",4439a055,,,True,,,C,,19,former
+67,Male,White,"BioLab, Inc.",448fe4ae,,,True,,,A,,0,never
+65,Male,White,"BioLab, Inc.",46217078,,,True,,,B,,11,former
+69,Female,White,"BioLab, Inc.",466d69e3,,,True,,,F,,6,current
+52,Female,Black or African American,"BioLab, Inc.",47d3c115,,,True,,,A,,0,never
+67,Male,White,"BioLab, Inc.",49400e13,,,True,,,A,,3,former
+67,Female,Asian,"BioLab, Inc.",497ceeb2,,,True,,,A,,2,never
+55,Female,Asian,"BioLab, Inc.",4a06d081,,,True,,,A,,5,current
+69,Female,White,"BioLab, Inc.",4a5ce99b,,,True,,,A,,16,unknown
+59,Male,Black or African American,"BioLab, Inc.",4b16d1fc,,,True,,,B,,27,never
+71,Female,White,"BioLab, Inc.",4b92407f,,,True,2.0,,A,,5,current
+71,Male,White,"BioLab, Inc.",4bc5ac2a,,,True,,,A,,22,current
+67,Female,White,"BioLab, Inc.",4bcc718a,,,True,,,D,,7,former
+63,Male,Black or African American,"BioLab, Inc.",4c0c94a3,,,True,,,B,,9,current
+55,Female,White,"BioLab, Inc.",4ced160d,,,True,,,A,,31,never
+65,Male,Asian,"BioLab, Inc.",4d441ce,,,True,0.0,,A,,2,never
+73,Male,Asian,"BioLab, Inc.",4e1e6fad,,,True,,,C,,2,unknown
+55,Male,Black or African American,"BioLab, Inc.",4e6c239d,,,True,,,B,,0,never
+61,Male,White,"BioLab, Inc.",4ea2f5d7,,,True,,,C,,0,never
+71,Female,White,"BioLab, Inc.",50d36b58,,,True,,,A,,0,never
+72,Female,,"BioLab, Inc.",50f20175,,,True,,,D,,0,former
+70,Male,White,"BioLab, Inc.",5273c06,,,True,,,B,,10,never
+75,Female,,"BioLab, Inc.",52af11c2,,,True,,,A,,0,never
+75,Male,Black or African American,"BioLab, Inc.",534f1193,,,True,,,A,,0,former
+73,Female,White,"BioLab, Inc.",53888531,,,True,,,A,,5,former
+65,Male,,"BioLab, Inc.",5467e739,,,True,,,A,,18,current
+56,Female,Asian,"BioLab, Inc.",548d5de,,,True,,,A,,0,former
+55,Male,Asian,"BioLab, Inc.",54cf586e,,,True,,,A,,16,current
+57,Male,White,"BioLab, Inc.",54eb7151,,,True,,,E,,0,former
+47,Male,White,"BioLab, Inc.",55c98a30,,,True,,,B,,9,current
+44,Male,White,"BioLab, Inc.",5687fbe9,,,True,,,A,,4,former
+53,Male,White,"BioLab, Inc.",577844d1,,,True,,,F,,1,never
+77,Male,White,"BioLab, Inc.",5888775b,,,True,0.0,,A,,0,former
+60,Male,Asian,"BioLab, Inc.",58e3f5de,,,True,0.0,,A,,9,current
+61,Female,,"BioLab, Inc.",5901690f,,,True,,,A,,0,never
+66,Female,Asian,"BioLab, Inc.",5adbecb4,,,True,,,A,,0,never
+56,Female,Black or African American,"BioLab, Inc.",5b91b5ae,,,True,,,A,,22,current
+62,Male,Asian,"BioLab, Inc.",5c3e2809,,,True,,,A,,0,current
+47,Female,,"BioLab, Inc.",5cbbf4e,,,True,0.0,,A,,0,never
+53,Female,White,"BioLab, Inc.",5cd870d0,,,True,,,B,,11,former
+58,Male,White,"BioLab, Inc.",5ce32e78,,,True,0.0,,A,,0,current
+65,Female,Black or African American,"BioLab, Inc.",5d0eec46,,,True,,,B,,0,current
+74,Male,White,"BioLab, Inc.",5d761ee5,,,True,,,A,,4,never
+46,Male,Black or African American,"BioLab, Inc.",5e6be4aa,,,True,,,A,,0,current
+79,Male,,"BioLab, Inc.",5e84d910,,,True,1.0,,B,,0,current
+68,Male,Black or African American,"BioLab, Inc.",5f7ac022,,,True,0.0,,A,,0,never
+57,Male,White,"BioLab, Inc.",5fb1a3c8,,,True,0.0,,C,,5,never
+55,Female,,"BioLab, Inc.",606966ab,,,True,,,A,,10,current
+67,Female,Asian,"BioLab, Inc.",608efb4c,,,True,,,A,,4,current
+82,Female,White,"BioLab, Inc.",60d6858d,,,True,0.0,,A,,1,never
+49,Female,Black or African American,"BioLab, Inc.",60eb604,,,True,,,A,,2,current
+64,Male,,"BioLab, Inc.",6134625e,,,True,,,A,,11,never
+60,Male,Black or African American,"BioLab, Inc.",61f9dbce,,,True,,,A,,0,never
+71,Male,Black or African American,"BioLab, Inc.",63652240,,,True,,,A,,0,current
+67,Male,White,"BioLab, Inc.",644c91da,,,True,,,A,,0,never
+46,Male,Black or African American,"BioLab, Inc.",6466901d,,,True,,,A,,0,unknown
+78,Female,Black or African American,"BioLab, Inc.",64a5276f,,,True,,,A,,0,former
+55,Male,White,"BioLab, Inc.",64dfa215,,,True,,,A,,0,former
+67,Male,,"BioLab, Inc.",651b5873,,,True,,,A,,51,current
+63,Male,White,"BioLab, Inc.",65321a25,,,True,,,A,,8,never
+59,Female,,"BioLab, Inc.",65ac99df,,,True,,,A,,10,never
+60,Male,White,"BioLab, Inc.",65cea5dc,,,True,,,A,,2,former
+56,Male,,"BioLab, Inc.",66447893,,,True,,,C,,0,never
+76,Male,Black or African American,"BioLab, Inc.",677f3c2f,,,True,0.0,,A,,26,never
+56,Female,White,"BioLab, Inc.",67af2689,,,True,,,A,,0,never
+52,Female,,"BioLab, Inc.",67c8b032,,,True,,,A,,2,never
+55,Male,White,"BioLab, Inc.",67e85b2,,,True,,,A,,0,former
+71,Female,White,"BioLab, Inc.",693cf91a,,,True,,,F,,7,former
+58,Female,,"BioLab, Inc.",6a0056bd,,,True,2.0,,A,,0,never
+51,Female,,"BioLab, Inc.",6be87a03,,,True,,,A,,5,former
+56,Male,Black or African American,"BioLab, Inc.",6c5a2470,,,True,1.0,,B,,7,current
+71,Male,White,"BioLab, Inc.",6ce46e7c,,,True,0.0,,A,,15,current
+68,Male,,"BioLab, Inc.",6cfb264c,,,True,,,C,,24,former
+42,Female,White,"BioLab, Inc.",6d18e7ad,,,True,,,A,,19,current
+77,Male,Black or African American,"BioLab, Inc.",6eb3a44c,,,True,,,A,,0,current
+70,Female,,"BioLab, Inc.",6efa9d45,,,True,1.0,,A,,5,never
+68,Male,,"BioLab, Inc.",6f2a2e22,,,True,,,A,,3,never
+64,Male,White,"BioLab, Inc.",70315f4,,,True,1.0,,C,,19,current
+66,Female,White,"BioLab, Inc.",70de1396,,,True,,,A,,0,current
+67,Male,,"BioLab, Inc.",7126238c,,,True,,,B,,0,never
+63,Male,,"BioLab, Inc.",716e4cf5,,,True,,,C,,5,never
+61,Male,,"BioLab, Inc.",71c9c37,,,True,,,A,,18,never
+67,Female,White,"BioLab, Inc.",7209373d,,,True,,,C,,0,current
+51,Female,White,"BioLab, Inc.",727b991e,,,True,,,A,,27,never
+59,Female,White,"BioLab, Inc.",72b52f5b,,,True,,,A,,16,former
+63,Male,Black or African American,"BioLab, Inc.",73590426,,,True,,,C,,0,never
+73,Female,White,"BioLab, Inc.",742df981,,,True,,,A,,6,former
+71,Female,Black or African American,"BioLab, Inc.",747179b5,,,True,,,B,,63,never
+69,Male,White,"BioLab, Inc.",75500026,,,True,,,A,,25,current
+57,Female,,"BioLab, Inc.",76fe7a6b,,,True,,,A,,0,former
+56,Male,White,"BioLab, Inc.",77c14365,,,True,2.0,,B,,0,never
+57,Male,White,"BioLab, Inc.",77dc8874,,,True,,,A,,0,unknown
+52,Female,White,"BioLab, Inc.",7826dcd6,,,True,,,A,,13,never
+59,Male,,"BioLab, Inc.",79bc9b75,,,True,,,C,,0,never
+70,Female,White,"BioLab, Inc.",7adf870e,,,True,1.0,,A,,21,former
+51,Female,,"BioLab, Inc.",7b556022,,,True,,,A,,0,unknown
+61,Male,White,"BioLab, Inc.",7bfa2d8d,,,True,1.0,,A,,0,never
+48,Male,Black or African American,"BioLab, Inc.",7d5981b9,,,True,,,A,,0,never
+64,Female,White,"BioLab, Inc.",7da540d6,,,True,,,B,,0,current
+48,Female,White,"BioLab, Inc.",7dbb37f4,,,True,,,C,,0,never
+59,Female,Black or African American,"BioLab, Inc.",7e39a564,,,True,,,A,,27,former
+43,Male,Black or African American,"BioLab, Inc.",7e654038,,,True,,,E,,6,former
+65,Female,,"BioLab, Inc.",7f54ccb4,,,True,,,A,,12,current
+61,Male,White,"BioLab, Inc.",80a98834,,,True,,,A,,7,current
+71,Male,Black or African American,"BioLab, Inc.",81421981,,,True,,,A,,0,never
+72,Female,,"BioLab, Inc.",82597adf,,,True,,,A,,10,current
+58,Male,White,"BioLab, Inc.",82791e04,,,True,1.0,,A,,0,never
+70,Male,White,"BioLab, Inc.",83af569,,,True,,,A,,14,never
+59,Female,White,"BioLab, Inc.",83ca8a04,,,True,,,A,,0,never
+61,Male,Black or African American,"BioLab, Inc.",83fb9dbb,,,True,,,C,,2,never
+60,Female,,"BioLab, Inc.",84cee5bc,,,True,,,A,,0,former
+75,Female,White,"BioLab, Inc.",8546622b,,,True,1.0,,E,,4,never
+78,Male,White,"BioLab, Inc.",85990b44,,,True,,,A,,14,never
+70,Male,White,"BioLab, Inc.",861982e9,,,True,,,A,,0,current
+77,Female,Black or African American,"BioLab, Inc.",87007db0,,,True,,,C,,2,former
+63,Male,,"BioLab, Inc.",871c7885,,,True,,,A,,25,former
+63,Male,White,"BioLab, Inc.",8776a899,,,True,2.0,,B,,3,never
+70,Male,,"BioLab, Inc.",87d380a5,,,True,0.0,,A,,15,current
+52,Male,Black or African American,"BioLab, Inc.",882a0685,,,True,,,A,,35,never
+43,Male,,"BioLab, Inc.",899b8c26,,,True,,,C,,9,former
+46,Female,White,"BioLab, Inc.",89ca8117,,,True,,,A,,2,former
+54,Male,Black or African American,"BioLab, Inc.",8b0b22bb,,,True,,,C,,0,former
+60,Female,White,"BioLab, Inc.",8bb1c4cf,,,True,,,A,,2,never
+52,Male,Black or African American,"BioLab, Inc.",8e35065c,,,True,,,A,,52,never
+74,Male,White,"BioLab, Inc.",8e4a4650,,,True,,,B,,2,current
+48,Male,Black or African American,"BioLab, Inc.",8ea8960d,,,True,0.0,,A,,0,never
+56,Male,White,"BioLab, Inc.",8f8b7e85,,,True,,,A,,0,current
+53,Female,White,"BioLab, Inc.",8fde2b1e,,,True,,,A,,13,current
+53,Male,,"BioLab, Inc.",8fef07e0,,,True,,,A,,7,former
+61,Male,White,"BioLab, Inc.",91af31a3,,,True,0.0,,A,,18,never
+64,Male,White,"BioLab, Inc.",9342653d,,,True,,,A,,2,current
+64,Female,,"BioLab, Inc.",942a55a,,,True,,,A,,0,former
+68,Male,,"BioLab, Inc.",95961ebc,,,True,,,A,,0,never
+54,Male,Asian,"BioLab, Inc.",959fc1fe,,,True,,,A,,0,never
+66,Male,White,"BioLab, Inc.",962de507,,,True,,,A,,0,never
+61,Male,White,"BioLab, Inc.",965fade,,,True,,,B,,11,never
+59,Female,Native Hawaiian or Other Pacific Islander,"BioLab, Inc.",968ae384,,,True,,,C,,46,current
+46,Male,Black or African American,"BioLab, Inc.",96bc1cf5,,,True,0.0,,A,,3,never
+70,Male,White,"BioLab, Inc.",97bb1dc0,,,True,,,A,,3,current
+81,Female,White,"BioLab, Inc.",98b8e336,,,True,1.0,,A,,0,never
+67,Female,,"BioLab, Inc.",9b49dbf6,,,True,,,B,,19,current
+66,Female,,"BioLab, Inc.",9c1894ad,,,True,,,A,,5,never
+64,Female,Black or African American,"BioLab, Inc.",9caf194a,,,True,,,B,,0,former
+60,Female,White,"BioLab, Inc.",9d353449,,,True,,,C,,18,never
+60,Male,,"BioLab, Inc.",9d9d8b43,,,True,,,A,,0,never
+52,Male,Black or African American,"BioLab, Inc.",9dd6708a,,,True,1.0,,F,,3,current
+63,Male,White,"BioLab, Inc.",9e599951,,,True,1.0,,A,,0,never
+63,Female,White,"BioLab, Inc.",9ea8eda7,,,True,,,A,,4,current
+66,Male,White,"BioLab, Inc.",9f566903,,,True,,,B,,0,never
+63,Female,White,"BioLab, Inc.",a1e515c4,,,True,,,A,,6,never
+62,Female,White,"BioLab, Inc.",a24acb2a,,,True,0.0,,A,,5,never
+59,Male,,"BioLab, Inc.",a2b4751e,,,True,,,A,,0,current
+56,Female,White,"BioLab, Inc.",a47ffde5,,,True,,,A,,0,never
+63,Female,Asian,"BioLab, Inc.",a51821f4,,,True,,,F,,0,never
+61,Female,White,"BioLab, Inc.",a68a6711,,,True,1.0,,A,,6,former
+67,Male,Black or African American,"BioLab, Inc.",a6cdacd,,,True,,,A,,26,unknown
+51,Male,White,"BioLab, Inc.",a6d1b8ed,,,True,1.0,,A,,1,former
+52,Female,,"BioLab, Inc.",a7f6db2f,,,True,,,D,,5,never
+44,Female,,"BioLab, Inc.",a81c03e4,,,True,,,B,,10,never
+62,Female,,"BioLab, Inc.",a9332ae4,,,True,,,B,,0,never
+52,Female,White,"BioLab, Inc.",a9486b3e,,,True,,,A,,8,current
+58,Male,White,"BioLab, Inc.",aa17293f,,,True,1.0,,A,,10,current
+68,Female,,"BioLab, Inc.",aa1d748a,,,True,1.0,,A,,13,former
+72,Female,White,"BioLab, Inc.",aa270b1e,,,True,,,B,,3,never
+57,Male,Black or African American,"BioLab, Inc.",ab01ba2a,,,True,,,A,,5,never
+60,Male,,"BioLab, Inc.",ab7bb3f3,,,True,0.0,,D,,0,former
+53,Male,White,"BioLab, Inc.",ab83f675,,,True,,,A,,0,former
+67,Female,,"BioLab, Inc.",ac7117aa,,,True,0.0,,C,,3,never
+63,Female,,"BioLab, Inc.",ad6d35a2,,,True,,,A,,5,current
+76,Male,White,"BioLab, Inc.",ad8c9084,,,True,,,A,,10,never
+54,Male,American Indian or Alaska Native,"BioLab, Inc.",ae3d7b0a,,,True,,,A,,20,former
+57,Male,,"BioLab, Inc.",ae774a79,,,True,,,A,,11,former
+60,Male,,"BioLab, Inc.",ae9f42d2,,,True,,,A,,7,never
+45,Male,White,"BioLab, Inc.",af5f1fea,,,True,,,A,,14,never
+69,Male,Black or African American,"BioLab, Inc.",b0086f52,,,True,,,C,,5,never
+29,Female,White,"BioLab, Inc.",b07fa7af,,,True,2.0,,A,,20,never
+70,Male,White,"BioLab, Inc.",b0952874,,,True,,,C,,9,current
+48,Male,,"BioLab, Inc.",b2fb0101,,,True,,,B,,21,never
+43,Female,Black or African American,"BioLab, Inc.",b563060e,,,True,1.0,,A,,0,never
+69,Male,White,"BioLab, Inc.",b5d2e237,,,True,0.0,,B,,1,former
+55,Female,White,"BioLab, Inc.",b5f3a190,,,True,,,A,,42,never
+54,Male,,"BioLab, Inc.",b606e8ad,,,True,,,B,,14,never
+47,Male,,"BioLab, Inc.",b6e2180b,,,True,,,A,,18,never
+68,Male,Black or African American,"BioLab, Inc.",b716963c,,,True,,,A,,11,unknown
+68,Female,,"BioLab, Inc.",b820b2f6,,,True,,,E,,15,current
+59,Male,Asian,"BioLab, Inc.",b8a5ebc6,,,True,,,A,,9,former
+52,Male,Black or African American,"BioLab, Inc.",b8e5ab35,,,True,,,A,,0,never
+56,Female,White,"BioLab, Inc.",b8fa8db6,,,True,,,C,,0,current
+56,Female,Black or African American,"BioLab, Inc.",b9ee2b25,,,True,0.0,,E,,0,never
+52,Male,White,"BioLab, Inc.",bab00e57,,,True,,,A,,0,never
+55,Female,White,"BioLab, Inc.",bb2cd1d1,,,True,0.0,,A,,0,current
+69,Male,,"BioLab, Inc.",bbe2707b,,,True,,,A,,0,current
+68,Male,White,"BioLab, Inc.",bc521960,,,True,,,F,,9,current
+51,Male,Black or African American,"BioLab, Inc.",bd56e0cb,,,True,,,A,,0,former
+67,Male,,"BioLab, Inc.",bec00650,,,True,,,B,,0,never
+43,Female,Asian,"BioLab, Inc.",c2129a8,,,True,,,C,,17,former
+53,Female,Black or African American,"BioLab, Inc.",c2d14673,,,True,,,A,,0,never
+69,Female,White,"BioLab, Inc.",c5230776,,,True,,,A,,13,current
+61,Female,,"BioLab, Inc.",c52372f0,,,True,,,A,,9,former
+73,Male,White,"BioLab, Inc.",c59ae7db,,,True,,,A,,11,never
+64,Female,,"BioLab, Inc.",c5be67d7,,,True,,,A,,0,former
+74,Female,White,"BioLab, Inc.",c73060a5,,,True,,,E,,0,former
+73,Male,White,"BioLab, Inc.",c7debf09,,,True,,,A,,0,current
+74,Male,,"BioLab, Inc.",c81f3924,,,True,,,A,,9,never
+53,Male,Asian,"BioLab, Inc.",ca571c25,,,True,,,A,,4,never
+72,Female,,"BioLab, Inc.",cb723a97,,,True,0.0,,A,,3,never
+31,Male,Asian,"BioLab, Inc.",cc4144b,,,True,,,A,,0,current
+59,Male,White,"BioLab, Inc.",cd1e163f,,,True,,,A,,4,current
+62,Male,White,"BioLab, Inc.",cd9ffdba,,,True,,,C,,17,former
+48,Female,Black or African American,"BioLab, Inc.",cefb3aec,,,True,,,A,,22,former
+77,Male,Black or African American,"BioLab, Inc.",cf9b070,,,True,0.0,,A,,1,never
+57,Female,,"BioLab, Inc.",d0dcc475,,,True,,,A,,3,former
+58,Female,Black or African American,"BioLab, Inc.",d29a00fb,,,True,0.0,,C,,0,never
+67,Female,Asian,"BioLab, Inc.",d32f47ca,,,True,0.0,,E,,0,never
+65,Male,,"BioLab, Inc.",d3d0e240,,,True,,,A,,0,never
+60,Male,White,"BioLab, Inc.",d45bb555,,,True,,,A,,26,never
+62,Male,White,"BioLab, Inc.",d4adebd9,,,True,,,A,,0,never
+43,Female,White,"BioLab, Inc.",d4db6a83,,,True,,,C,,1,former
+69,Female,White,"BioLab, Inc.",d6d99c32,,,True,,,A,,21,never
+63,Male,Black or African American,"BioLab, Inc.",d6ebd840,,,True,,,A,,0,never
+63,Male,,"BioLab, Inc.",d70b35a9,,,True,1.0,,A,,0,current
+55,Female,Asian,"BioLab, Inc.",d7f8a2,,,True,,,A,,0,former
+54,Male,White,"BioLab, Inc.",d8324ada,,,True,,,A,,3,unknown
+67,Male,Black or African American,"BioLab, Inc.",d852834c,,,True,,,A,,51,never
+70,Male,Black or African American,"BioLab, Inc.",d918e48d,,,True,0.0,,A,,22,never
+58,Male,White,"BioLab, Inc.",d96f44a8,,,True,,,A,,7,former
+53,Female,White,"BioLab, Inc.",d9d0d334,,,True,,,A,,0,former
+59,Male,White,"BioLab, Inc.",dac57998,,,True,,,A,,6,never
+42,Female,Black or African American,"BioLab, Inc.",dace5124,,,True,,,A,,9,current
+78,Female,Black or African American,"BioLab, Inc.",db0a4440,,,True,,,C,,20,current
+60,Male,Black or African American,"BioLab, Inc.",db73bf6a,,,True,,,C,,0,current
+66,Male,Black or African American,"BioLab, Inc.",db89dc8a,,,True,0.0,,A,,2,never
+45,Female,White,"BioLab, Inc.",dbec434e,,,True,,,A,,13,former
+53,Female,Asian,"BioLab, Inc.",dc895966,,,True,,,B,,2,former
+50,Female,Black or African American,"BioLab, Inc.",dc8a6ef8,,,True,,,A,,7,never
+48,Female,White,"BioLab, Inc.",dc9976c0,,,True,,,A,,0,current
+65,Female,Asian,"BioLab, Inc.",dca78afa,,,True,0.0,,A,,40,unknown
+47,Male,American Indian or Alaska Native,"BioLab, Inc.",dd90dbda,,,True,2.0,,A,,5,never
+57,Female,,"BioLab, Inc.",ddfa69a1,,,True,,,C,,5,former
+48,Male,Asian,"BioLab, Inc.",de2f37d8,,,True,,,E,,1,never
+51,Female,American Indian or Alaska Native,"BioLab, Inc.",de4c855c,,,True,,,A,,0,never
+56,Female,Black or African American,"BioLab, Inc.",de86f733,,,True,,,A,,0,unknown
+65,Male,White,"BioLab, Inc.",de89c3dc,,,True,,,B,,13,never
+66,Female,White,"BioLab, Inc.",deac7391,,,True,0.0,,F,,0,unknown
+73,Male,,"BioLab, Inc.",dedbb00d,,,True,,,A,,9,never
+62,Male,White,"BioLab, Inc.",deefaac5,,,True,,,B,,6,current
+68,Male,White,"BioLab, Inc.",e0235ac6,,,True,2.0,,A,,0,never
+52,Male,White,"BioLab, Inc.",e062533e,,,True,,,B,,3,former
+43,Male,White,"BioLab, Inc.",e185163b,,,True,2.0,,A,,42,never
+66,Female,Black or African American,"BioLab, Inc.",e19cd370,,,True,,,B,,3,never
+70,Female,Asian,"BioLab, Inc.",e301e480,,,True,,,A,,0,current
+68,Male,Black or African American,"BioLab, Inc.",e314a6cb,,,True,2.0,,B,,11,never
+77,Male,White,"BioLab, Inc.",e3d88dfb,,,True,,,A,,0,former
+47,Female,White,"BioLab, Inc.",e4976001,,,True,,,A,,12,former
+71,Female,White,"BioLab, Inc.",e564d13f,,,True,,,A,,6,former
+53,Male,White,"BioLab, Inc.",e6912541,,,True,,,B,,0,current
+51,Male,Asian,"BioLab, Inc.",e6f6d0cb,,,True,,,A,,0,current
+64,Female,Native Hawaiian or Other Pacific Islander,"BioLab, Inc.",e727be9c,,,True,0.0,,A,,0,current
+69,Male,Black or African American,"BioLab, Inc.",e8995900,,,True,,,A,,18,former
+62,Male,,"BioLab, Inc.",e90da961,,,True,,,A,,10,never
+59,Female,Asian,"BioLab, Inc.",e98503c3,,,True,,,A,,1,never
+57,Male,White,"BioLab, Inc.",ea5b8eeb,,,True,,,A,,0,never
+64,Male,White,"BioLab, Inc.",eba2fbed,,,True,1.0,,C,,19,never
+48,Male,White,"BioLab, Inc.",edb44eae,,,True,,,A,,0,never
+69,Male,American Indian or Alaska Native,"BioLab, Inc.",ee2354f6,,,True,,,A,,0,former
+37,Female,White,"BioLab, Inc.",ef66b0ad,,,True,,,C,,9,former
+55,Female,,"BioLab, Inc.",efd5a3e5,,,True,,,B,,6,never
+38,Female,,"BioLab, Inc.",f131283c,,,True,,,C,,0,current
+68,Female,Black or African American,"BioLab, Inc.",f1a1bdc,,,True,,,C,,16,never
+52,Male,,"BioLab, Inc.",f1a77d0c,,,True,,,A,,2,never
+43,Female,White,"BioLab, Inc.",f2470500,,,True,,,A,,0,never
+50,Female,Black or African American,"BioLab, Inc.",f247d20f,,,True,,,A,,0,current
+66,Male,White,"BioLab, Inc.",f379252a,,,True,1.0,,A,,0,unknown
+52,Female,White,"BioLab, Inc.",f3bfb760,,,True,,,A,,0,current
+60,Male,Black or African American,"BioLab, Inc.",f4f716d8,,,True,,,A,,0,never
+54,Female,,"BioLab, Inc.",f516253d,,,True,,,B,,7,never
+72,Male,Black or African American,"BioLab, Inc.",f53c5a4c,,,True,,,A,,0,unknown
+73,Male,White,"BioLab, Inc.",f5de77f,,,True,,,A,,3,never
+72,Female,,"BioLab, Inc.",f5ee2071,,,True,1.0,,A,,0,former
+62,Male,White,"BioLab, Inc.",f649b1dd,,,True,,,A,,0,former
+59,Male,White,"BioLab, Inc.",f6d824b2,,,True,,,A,,2,current
+57,Female,,"BioLab, Inc.",f74be2e9,,,True,,,A,,0,never
+56,Female,White,"BioLab, Inc.",f774e5a,,,True,,,A,,0,unknown
+71,Male,White,"BioLab, Inc.",f92f94cf,,,True,,,A,,0,never
+35,Female,White,"BioLab, Inc.",f9a53035,,,True,,,E,,0,never
+56,Female,,"BioLab, Inc.",fa4be3df,,,True,,,A,,31,never
+73,Male,,"BioLab, Inc.",fa7c8f93,,,True,1.0,,A,,9,former
+69,Female,White,"BioLab, Inc.",fa81d621,,,True,,,A,,0,current
+67,Male,White,"BioLab, Inc.",fb2342d2,,,True,,,A,,3,never
+58,Male,Black or African American,"BioLab, Inc.",fc8cff86,,,True,,,C,,0,current
+61,Male,White,"BioLab, Inc.",fd01ee3f,,,True,,,A,,2,never
+65,Female,Native Hawaiian or Other Pacific Islander,"BioLab, Inc.",fd416b4b,,,True,,,F,,4,current
+66,Female,White,"BioLab, Inc.",fdaeb5f1,,,True,,,A,,10,unknown
+44,Male,White,"BioLab, Inc.",fe0fe3c3,,,True,,,B,,4,current
+65,Male,White,"BioLab, Inc.",fe72983,,,True,0.0,,B,,14,never
+71,Male,Asian,"BioLab, Inc.",fe92989c,,,True,,,A,,14,never
+68,Female,Black or African American,"BioLab, Inc.",ffcfa280,,,True,,,A,,4,former
+46,Male,Asian,University Hospital System,1002df1d3,,,True,,,A,,20,former
+68,Male,White,University Hospital System,100f227b5,,,True,,,A,,48,former
+69,Male,White,University Hospital System,10204394e,,,True,,,A,,9,never
+52,Male,Asian,University Hospital System,1021d329b,,,True,,,A,,10,former
+66,Male,Black or African American,University Hospital System,1057b66cd,,,True,,,A,,5,never
+46,Male,White,University Hospital System,107397581,,,True,,,B,,6,never
+78,Female,White,University Hospital System,1082e5824,,,True,,,B,,7,never
+68,Male,Asian,University Hospital System,10b5a93ed,,,True,,,B,,0,former
+63,Male,White,University Hospital System,10f13a949,,,True,1.0,,A,,41,never
+59,Male,White,University Hospital System,1113226cf,,,True,,,A,,23,never
+48,Male,White,University Hospital System,11225adcc,,,True,,,B,,6,never
+68,Female,White,University Hospital System,113881a79,,,True,,,A,,6,former
+61,Female,,University Hospital System,114a92223,,,True,,,A,,8,never
+51,Female,White,University Hospital System,1165a74dc,,,True,,,A,,0,never
+71,Female,,University Hospital System,116c87e27,,,True,,,A,,4,current
+71,Female,White,University Hospital System,1183a1884,,,True,,,A,,15,never
+58,Male,White,University Hospital System,119654dc,,,True,,,F,,30,unknown
+63,Female,White,University Hospital System,119b98a6d,,,True,,,A,,0,never
+66,Male,White,University Hospital System,11a6abee8,,,True,,,F,,0,former
+72,Female,Black or African American,University Hospital System,11af426f0,,,True,,,D,,41,never
+72,Male,White,University Hospital System,11ef31345,,,True,,,A,,2,former
+53,Male,,University Hospital System,11f5d4190,,,True,,,D,,0,never
+64,Female,,University Hospital System,120246e1e,,,True,,,B,,1,current
+56,Female,,University Hospital System,12159a4ab,,,True,,,A,,5,never
+66,Male,,University Hospital System,124be2898,,,True,,,B,,10,former
+50,Female,,University Hospital System,12589f604,,,True,2.0,,A,,0,current
+57,Male,White,University Hospital System,125b96753,,,True,1.0,,A,,0,never
+64,Female,Black or African American,University Hospital System,1265d3677,,,True,,,A,,0,never
+76,Female,White,University Hospital System,12680f587,,,True,,,A,,6,unknown
+56,Male,,University Hospital System,12754041,,,True,,,A,,0,current
+58,Male,Black or African American,University Hospital System,1298dc969,,,True,,,A,,0,never
+64,Female,White,University Hospital System,12a80e556,,,True,,,C,,0,never
+74,Male,,University Hospital System,12aa29e4a,,,True,,,A,,7,never
+44,Male,White,University Hospital System,12adc6d4a,,,True,,,A,,1,never
+65,Male,Black or African American,University Hospital System,12b9f54a4,,,True,,,A,,0,never
+80,Male,White,University Hospital System,12cc2403d,,,True,0.0,,A,,52,former
+57,Male,Black or African American,University Hospital System,12e7c6af5,,,True,,,A,,6,never
+69,Female,Asian,University Hospital System,12eed115,,,True,,,A,,0,never
+51,Female,White,University Hospital System,1340aa71f,,,True,,,A,,0,never
+68,Female,,University Hospital System,136122529,,,True,,,A,,0,current
+67,Male,White,University Hospital System,13ca50154,,,True,,,A,,0,former
+46,Male,White,University Hospital System,13d9c0d23,,,True,0.0,,A,,20,current
+60,Male,Black or African American,University Hospital System,142446093,,,True,,,A,,0,current
+57,Female,Black or African American,University Hospital System,142ff904f,,,True,,,A,,0,never
+28,Male,White,University Hospital System,143926c8c,,,True,,,C,,0,former
+63,Female,Asian,University Hospital System,148c7e8cd,,,True,,,A,,0,never
+58,Male,Black or African American,University Hospital System,14993b8f7,,,True,,,C,,7,never
+69,Female,Black or African American,University Hospital System,14fdea00e,,,True,,,A,,9,current
+58,Female,White,University Hospital System,1506bbc4e,,,True,,,B,,0,unknown
+64,Female,Black or African American,University Hospital System,153501764,,,True,,,D,,0,current
+77,Male,White,University Hospital System,153f6a03d,,,True,,,A,,11,current
+58,Male,White,University Hospital System,154a3f1d3,,,True,,,A,,2,current
+53,Female,White,University Hospital System,155bc00a,,,True,,,A,,68,former
+69,Male,,University Hospital System,157c55a21,,,True,1.0,,E,,0,never
+56,Male,White,University Hospital System,15916cbed,,,True,,,B,,8,unknown
+70,Male,Asian,University Hospital System,15a8003db,,,True,,,A,,0,never
+71,Male,Black or African American,University Hospital System,15ac10862,,,True,,,D,,0,never
+76,Female,Black or African American,University Hospital System,15ae647d3,,,True,,,A,,0,current
+66,Male,White,University Hospital System,15d8a8eab,,,True,,,B,,0,never
+64,Male,,University Hospital System,15dc0fb6e,,,True,,,A,,12,never
+69,Female,Black or African American,University Hospital System,15e01ea1,,,True,,,B,,6,former
+57,Male,Black or African American,University Hospital System,16094ea91,,,True,,,A,,0,never
+52,Male,,University Hospital System,1614be962,,,True,0.0,,C,,0,never
+67,Male,White,University Hospital System,161893bf1,,,True,0.0,,A,,7,former
+43,Female,,University Hospital System,162c512fc,,,True,,,B,,0,never
+73,Male,Asian,University Hospital System,163b45985,,,True,,,A,,3,never
+66,Male,White,University Hospital System,1650ffb7a,,,True,,,A,,17,never
+60,Male,White,University Hospital System,166638383,,,True,1.0,,A,,2,current
+74,Male,White,University Hospital System,168f0983b,,,True,,,A,,6,never
+72,Male,Asian,University Hospital System,169d76832,,,True,,,A,,0,never
+67,Male,,University Hospital System,16e29ce6b,,,True,,,B,,0,never
+63,Male,White,University Hospital System,16fd392ca,,,True,,,B,,0,never
+52,Female,White,University Hospital System,1703dcf0e,,,True,,,B,,0,former
+55,Male,White,University Hospital System,1714dac46,,,True,,,A,,0,never
+51,Female,White,University Hospital System,1721c6010,,,True,,,A,,1,former
+31,Female,White,University Hospital System,17396c0ff,,,True,2.0,,A,,7,never
+70,Male,White,University Hospital System,174f94f6e,,,True,,,A,,7,current
+81,Male,,University Hospital System,177836082,,,True,,,A,,4,never
+76,Female,White,University Hospital System,17b1b065,,,True,,,B,,0,never
+70,Male,White,University Hospital System,17cd2077d,,,True,,,A,,0,current
+66,Female,White,University Hospital System,17db17304,,,True,,,A,,35,current
+56,Male,Black or African American,University Hospital System,17ef61d81,,,True,,,A,,12,never
+57,Female,Asian,University Hospital System,183e1c149,,,True,,,B,,12,never
+55,Female,,University Hospital System,1855fefa4,,,True,,,A,,0,current
+51,Female,White,University Hospital System,185fe6454,,,True,,,A,,0,current
+68,Male,,University Hospital System,186d24c62,,,True,,,A,,0,unknown
+64,Female,White,University Hospital System,1884d6d16,,,True,1.0,,F,,0,former
+59,Female,Asian,University Hospital System,18b6bd29d,,,True,,,B,,21,never
+58,Male,White,University Hospital System,18cc095ea,,,True,,,A,,4,never
+58,Male,White,University Hospital System,18d1275b8,,,True,,,E,,4,never
+53,Female,White,University Hospital System,18f2e48bb,,,True,,,A,,2,former
+46,Female,Black or African American,University Hospital System,18f8172cf,,,True,1.0,,C,,7,unknown
+58,Male,,University Hospital System,190096d8e,,,True,,,A,,0,current
+41,Male,White,University Hospital System,1910a00b4,,,True,,,A,,1,former
+59,Male,White,University Hospital System,1925b48ef,,,True,,,A,,1,former
+67,Male,,University Hospital System,19425e981,,,True,,,E,,15,never
+68,Female,White,University Hospital System,19996a3d6,,,True,,,A,,0,former
+73,Male,White,University Hospital System,199ca4307,,,True,,,A,,12,never
+69,Male,Asian,University Hospital System,19a9b92fb,,,True,,,A,,0,never
+72,Female,White,University Hospital System,19f6b114b,,,True,,,A,,2,former
+55,Male,,University Hospital System,1a27676a6,,,True,,,A,,16,current
+70,Female,,University Hospital System,1a4db9e35,,,True,,,A,,2,current
+68,Male,White,University Hospital System,1a63b205b,,,True,,,C,,37,never
+64,Female,Asian,University Hospital System,1ab08e105,,,True,1.0,,A,,0,never
+65,Male,Black or African American,University Hospital System,1ab7753f7,,,True,0.0,,A,,34,current
+57,Female,White,University Hospital System,1ace99f91,,,True,1.0,,A,,9,unknown
+56,Male,Black or African American,University Hospital System,1b1435b88,,,True,1.0,,A,,0,former
+56,Female,Black or African American,University Hospital System,1b3da60a7,,,True,0.0,,A,,12,former
+45,Male,Asian,University Hospital System,1b457a59e,,,True,,,A,,25,current
+65,Female,White,University Hospital System,1b720d8c3,,,True,,,E,,29,never
+66,Male,Black or African American,University Hospital System,1b86e153b,,,True,2.0,,A,,13,never
+64,Male,,University Hospital System,1be329b09,,,True,,,B,,11,current
+59,Male,Black or African American,University Hospital System,1c07759e8,,,True,,,A,,17,never
+77,Male,,University Hospital System,1c123a474,,,True,,,B,,15,never
+61,Male,,University Hospital System,1c1dd07bb,,,True,,,A,,0,never
+59,Female,Black or African American,University Hospital System,1c232413a,,,True,,,A,,10,never
+48,Female,White,University Hospital System,1c249c550,,,True,,,A,,0,former
+54,Female,Asian,University Hospital System,1c35df62,,,True,,,B,,7,current
+57,Male,,University Hospital System,1c3e88448,,,True,,,A,,0,never
+69,Male,White,University Hospital System,1c44a61f,,,True,1.0,,A,,13,former
+65,Male,Black or African American,University Hospital System,1c5f3efe2,,,True,,,A,,0,never
+69,Male,White,University Hospital System,1c72677e8,,,True,0.0,,D,,10,current
+73,Male,White,University Hospital System,1c7edf67a,,,True,,,A,,0,former
+58,Female,Black or African American,University Hospital System,1c9473bae,,,True,,,B,,0,never
+59,Male,Black or African American,University Hospital System,1c94fc746,,,True,2.0,,A,,2,never
+54,Male,White,University Hospital System,1cc544c50,,,True,1.0,,A,,15,never
+53,Female,White,University Hospital System,1cc92e94d,,,True,,,A,,1,never
+68,Male,Black or African American,University Hospital System,1d58e29b5,,,True,,,C,,0,current
+60,Male,Asian,University Hospital System,1d65283cc,,,True,,,A,,37,current
+58,Male,,University Hospital System,1d72195,,,True,,,F,,4,never
+58,Male,White,University Hospital System,1d79625db,,,True,,,A,,0,never
+55,Male,White,University Hospital System,1da517a82,,,True,,,F,,25,never
+47,Male,,University Hospital System,1da5db108,,,True,0.0,,C,,1,current
+54,Female,White,University Hospital System,1dd942c0f,,,True,,,A,,0,former
+62,Male,,University Hospital System,1de0de777,,,True,2.0,,A,,5,current
+64,Male,White,University Hospital System,1e4117398,,,True,,,A,,34,never
+67,Female,White,University Hospital System,1e42df508,,,True,1.0,,C,,1,former
+71,Female,White,University Hospital System,1e673c6c6,,,True,,,A,,0,former
+59,Male,White,University Hospital System,1e79e2c7e,,,True,,,A,,20,current
+36,Female,White,University Hospital System,1e8518e9a,,,True,1.0,,A,,33,never
+57,Male,Black or African American,University Hospital System,1ea4e8aa0,,,True,1.0,,A,,0,current
+70,Female,White,University Hospital System,1ebb57f11,,,True,,,A,,0,former
+53,Female,White,University Hospital System,1ed0ec026,,,True,,,B,,0,former
+66,Male,White,University Hospital System,1ef365ceb,,,True,,,A,,1,former
+46,Male,White,University Hospital System,1f05844ac,,,True,,,A,,0,never
+44,Male,White,University Hospital System,1f22efcfa,,,True,,,A,,1,never
+71,Female,White,University Hospital System,1f28120d8,,,True,0.0,,B,,0,never
+54,Male,White,University Hospital System,1f4dded1e,,,True,,,A,,0,current
+62,Male,Asian,University Hospital System,1f7076726,,,True,0.0,,A,,0,former
+65,Female,,University Hospital System,1f7f88e62,,,True,,,A,,15,never
+70,Female,White,University Hospital System,1f8b704af,,,True,,,A,,3,former
+69,Male,White,University Hospital System,1f8d57895,,,True,,,A,,0,former
+62,Male,White,University Hospital System,1fe0f2f00,,,True,,,A,,0,never
+59,Male,White,University Hospital System,1fef0f2a1,,,True,,,A,,0,current
+47,Male,White,University Hospital System,2001d3813,,,True,,,F,,1,former
+67,Female,Asian,University Hospital System,2027c89ac,,,True,,,A,,4,never
+63,Male,White,University Hospital System,2029ab2bc,,,True,,,A,,0,never
+75,Male,Black or African American,University Hospital System,203b86618,,,True,,,A,,0,never
+72,Female,Asian,University Hospital System,204a9f965,,,True,,,A,,0,never
+55,Female,Asian,University Hospital System,20608ffa8,,,True,0.0,,A,,0,unknown
+72,Male,White,University Hospital System,2086cafe1,,,True,,,A,,0,former
+64,Female,White,University Hospital System,2091ecab3,,,True,,,C,,0,current
+51,Female,Asian,University Hospital System,20cb80eb9,,,True,,,C,,2,former
+56,Female,White,University Hospital System,20dc2fb12,,,True,,,A,,23,former
+60,Male,White,University Hospital System,20e5fbf6f,,,True,0.0,,B,,19,current
+33,Male,Black or African American,University Hospital System,2104c9b25,,,True,,,A,,0,never
+67,Male,Black or African American,University Hospital System,210b9d3c5,,,True,,,A,,0,unknown
+54,Female,White,University Hospital System,2110fce7,,,True,1.0,,A,,12,never
+35,Female,White,University Hospital System,21509c7e6,,,True,,,D,,0,former
+61,Male,White,University Hospital System,2192fed49,,,True,,,A,,22,former
+50,Female,,University Hospital System,21adfaa55,,,True,,,A,,16,never
+58,Male,,University Hospital System,21c6efad4,,,True,,,A,,59,never
+57,Female,,University Hospital System,21dbbef37,,,True,,,A,,4,unknown
+66,Male,White,University Hospital System,224f7f918,,,True,,,B,,0,never
+64,Male,White,University Hospital System,228d56044,,,True,,,A,,1,current
+52,Male,White,University Hospital System,2295854c2,,,True,,,A,,2,unknown
+64,Female,White,University Hospital System,22a8680c5,,,True,,,B,,0,former
+56,Female,,University Hospital System,22c946234,,,True,,,B,,21,current
+70,Male,American Indian or Alaska Native,University Hospital System,22df628f7,,,True,,,A,,0,former
+43,Male,White,University Hospital System,22ec634cf,,,True,,,A,,6,never
+70,Male,Asian,University Hospital System,22f70881e,,,True,0.0,,A,,5,never
+64,Male,Asian,University Hospital System,230030134,,,True,,,A,,0,former
+52,Female,Native Hawaiian or Other Pacific Islander,University Hospital System,230f2ba89,,,True,,,A,,7,never
+67,Female,White,University Hospital System,231a6150e,,,True,,,A,,0,current
+46,Female,White,University Hospital System,233e4629f,,,True,,,A,,0,current
+36,Male,,University Hospital System,2345c90fd,,,True,1.0,,A,,7,never
+45,Male,,University Hospital System,23614d8a0,,,True,,,A,,4,never
+63,Male,,University Hospital System,236c534a3,,,True,,,A,,0,current
+72,Female,White,University Hospital System,2371b10e1,,,True,,,A,,18,never
+71,Male,White,University Hospital System,2376ffbae,,,True,,,A,,0,never
+25,Male,,University Hospital System,239624ebe,,,True,2.0,,C,,3,former
+73,Female,,University Hospital System,239f735a4,,,True,,,A,,3,former
+67,Male,,University Hospital System,23ac0b99a,,,True,0.0,,A,,0,former
+60,Female,,University Hospital System,23b9e7956,,,True,,,D,,3,never
+64,Female,White,University Hospital System,23c6d8f0d,,,True,,,B,,5,current
+64,Female,White,University Hospital System,23c91eb4d,,,True,,,E,,0,current
+49,Female,White,University Hospital System,23e3d3f40,,,True,,,A,,0,current
+68,Female,Black or African American,University Hospital System,23e7e68c4,,,True,,,C,,0,never
+56,Male,White,University Hospital System,23fb380d4,,,True,0.0,,D,,38,never
+77,Female,,University Hospital System,23fce0ab5,,,True,,,A,,0,current
+70,Male,White,University Hospital System,240078313,,,True,1.0,,A,,0,never
+58,Male,,University Hospital System,2411ac1c3,,,True,,,D,,6,former
+52,Female,White,University Hospital System,244616575,,,True,,,A,,0,never
+56,Female,White,University Hospital System,245d87259,,,True,0.0,,A,,0,never
+51,Female,,University Hospital System,2486cc314,,,True,,,E,,1,current
+61,Female,,University Hospital System,24877e5d0,,,True,1.0,,E,,1,never
+42,Male,White,University Hospital System,24ff170cc,,,True,,,B,,17,current
+47,Female,White,University Hospital System,25068cc11,,,True,,,A,,1,never
+57,Female,Black or African American,University Hospital System,2513d13d2,,,True,,,A,,5,never
+57,Female,White,University Hospital System,2540b7c2e,,,True,,,A,,20,former
+72,Male,Black or African American,University Hospital System,270ffbb0,,,True,1.0,,B,,0,never
+58,Male,,University Hospital System,281150c2,,,True,0.0,,D,,0,former
+65,Male,White,University Hospital System,2aa91171,,,True,,,A,,0,former
+78,Female,White,University Hospital System,2aeb4558,,,True,,,A,,0,current
+59,Male,White,University Hospital System,2c57f7c5,,,True,,,D,,2,former
+56,Male,Black or African American,University Hospital System,2c7de54d,,,True,,,A,,9,never
+50,Male,,University Hospital System,2c943e2d,,,True,,,A,,0,never
+69,Male,,University Hospital System,2ceb52ea,,,True,,,A,,0,current
+60,Female,Asian,University Hospital System,2cf326e0,,,True,,,A,,0,never
+59,Female,White,University Hospital System,2fd2f686,,,True,,,E,,4,never
+74,Male,Black or African American,University Hospital System,2ff2e8cd,,,True,,,C,,12,current
+47,Female,White,University Hospital System,3000179c,,,True,,,A,,26,former
+61,Female,Asian,University Hospital System,343a692d,,,True,,,A,,54,never
+63,Male,,University Hospital System,35a8781f,,,True,,,A,,0,former
+75,Male,White,University Hospital System,36936197,,,True,,,A,,15,never
+56,Female,Black or African American,University Hospital System,378b948f,,,True,,,C,,0,never
+69,Male,White,University Hospital System,3ac16760,,,True,,,C,,0,never
+43,Female,,University Hospital System,3cb52ee8,,,True,,,A,,0,former
+69,Female,White,University Hospital System,3e1cd8cc,,,True,,,A,,0,never
+63,Female,White,University Hospital System,414c9e0d,,,True,,,A,,9,former
+48,Male,Black or African American,University Hospital System,41ba6c35,,,True,,,B,,6,never
+57,Female,White,University Hospital System,4254bbfb,,,True,,,B,,7,current
+69,Female,Black or African American,University Hospital System,4288ea01,,,True,1.0,,A,,10,former
+55,Male,White,University Hospital System,42cef7d,,,True,0.0,,C,,0,never
+55,Male,,University Hospital System,4403f3d4,,,True,,,A,,0,current
+50,Male,,University Hospital System,444759b7,,,True,,,A,,6,current
+70,Male,White,University Hospital System,476b4c7e,,,True,,,B,,34,former
+75,Male,,University Hospital System,4a3f902d,,,True,,,A,,7,never
+52,Female,White,University Hospital System,4aa5553e,,,True,0.0,,A,,0,never
+65,Female,,University Hospital System,4bd92553,,,True,,,A,,15,current
+72,Female,White,University Hospital System,4c2fbbf2,,,True,,,B,,22,former
+60,Male,American Indian or Alaska Native,University Hospital System,4e8bcdd,,,True,,,B,,0,current
+45,Male,,University Hospital System,4f527f01,,,True,1.0,,A,,11,never
+71,Female,White,University Hospital System,4fa8c516,,,True,,,A,,4,never
+56,Female,Asian,University Hospital System,539755d0,,,True,,,C,,16,never
+63,Male,White,University Hospital System,53977c63,,,True,,,A,,5,never
+64,Male,White,University Hospital System,542be5c0,,,True,0.0,,F,,0,former
+51,Male,White,University Hospital System,5a5ea624,,,True,,,A,,7,current
+58,Female,White,University Hospital System,5ae8c270,,,True,2.0,,A,,0,former
+58,Female,Black or African American,University Hospital System,5d933ab7,,,True,,,B,,13,current
+73,Female,White,University Hospital System,5dd73f13,,,True,,,A,,0,current
+60,Female,White,University Hospital System,5e12cc1c,,,True,,,A,,20,current
+60,Female,,University Hospital System,5e52fdcc,,,True,1.0,,A,,26,never
+44,Male,Asian,University Hospital System,5f77dd9d,,,True,1.0,,A,,18,former
+64,Female,Asian,University Hospital System,61aa1394,,,True,0.0,,A,,0,current
+69,Male,White,University Hospital System,6b43548d,,,True,,,A,,2,never
+59,Male,White,University Hospital System,6ca57f94,,,True,,,A,,0,current
+76,Male,White,University Hospital System,6d479cf5,,,True,,,A,,12,never
+59,Female,Asian,University Hospital System,712bb891,,,True,,,B,,12,unknown
+64,Male,White,University Hospital System,7472c69f,,,True,,,A,,22,never
+40,Male,Black or African American,University Hospital System,759c325c,,,True,,,A,,5,former
+38,Male,White,University Hospital System,75af91f9,,,True,,,B,,2,current
+55,Female,White,University Hospital System,772315f5,,,True,1.0,,B,,28,never
+60,Male,Asian,University Hospital System,78593efd,,,True,,,A,,0,never
+71,Male,Asian,University Hospital System,78814a17,,,True,,,D,,16,never
+68,Female,Asian,University Hospital System,7882d3e2,,,True,,,A,,33,never
+32,Female,White,University Hospital System,7910cbd4,,,True,,,B,,0,current
+66,Female,American Indian or Alaska Native,University Hospital System,79a42a23,,,True,,,A,,1,never
+53,Male,White,University Hospital System,7ae0c0ad,,,True,0.0,,A,,0,former
+72,Male,Black or African American,University Hospital System,7d0ca4d1,,,True,,,A,,16,never
+74,Male,Asian,University Hospital System,7ef20889,,,True,,,A,,3,former
+66,Male,,University Hospital System,7efa3524,,,True,,,A,,0,never
+54,Male,White,University Hospital System,7fa30b37,,,True,,,B,,3,former
+44,Female,Asian,University Hospital System,828aa957,,,True,,,A,,0,current
+62,Female,White,University Hospital System,836d0797,,,True,,,A,,6,never
+59,Female,White,University Hospital System,86c0772d,,,True,,,A,,23,never
+60,Male,White,University Hospital System,916976b1,,,True,1.0,,A,,45,never
+69,Female,,University Hospital System,91a75704,,,True,1.0,,A,,10,never
+47,Female,White,University Hospital System,91d155d,,,True,,,A,,3,never
+48,Female,,University Hospital System,91d4e1bc,,,True,,,A,,0,current
+65,Female,White,University Hospital System,932ffcaf,,,True,,,A,,1,never
+61,Female,Black or African American,University Hospital System,94cb80c7,,,True,,,A,,2,never
+65,Male,Black or African American,University Hospital System,95c82628,,,True,,,B,,5,former
+59,Female,White,University Hospital System,96f702b5,,,True,,,B,,93,former
+62,Male,White,University Hospital System,973f9998,,,True,2.0,,A,,1,never
+70,Female,,University Hospital System,9983c369,,,True,,,A,,0,never
+56,Female,White,University Hospital System,9d43db25,,,True,,,A,,0,never
+51,Male,White,University Hospital System,9df35dcf,,,True,,,C,,13,never
+58,Male,White,University Hospital System,9e5990f2,,,True,,,A,,4,never
+58,Male,Black or African American,University Hospital System,9f2bafa9,,,True,,,A,,2,current
+39,Male,White,University Hospital System,a0b55b87,,,True,,,A,,0,former
+70,Male,White,University Hospital System,a384e558,,,True,,,B,,0,former
+62,Male,Black or African American,University Hospital System,a454330e,,,True,,,C,,0,current
+58,Female,,University Hospital System,a628d910,,,True,,,A,,13,current
+69,Male,Black or African American,University Hospital System,a74a1ab2,,,True,,,B,,23,current
+72,Male,,University Hospital System,a8bf9928,,,True,,,A,,3,never
+65,Male,White,University Hospital System,a9023e8b,,,True,,,C,,0,current
+48,Male,Black or African American,University Hospital System,a9d2bdc2,,,True,,,B,,0,current
+63,Male,Black or African American,University Hospital System,acb190c2,,,True,,,A,,1,former
+69,Male,White,University Hospital System,aceea430,,,True,,,A,,31,current
+64,Male,Native Hawaiian or Other Pacific Islander,University Hospital System,b78a74eb,,,True,,,A,,1,former
+51,Female,White,University Hospital System,b9947886,,,True,1.0,,B,,2,former
+60,Female,White,University Hospital System,beaf40d0,,,True,0.0,,C,,0,current
+71,Male,Asian,University Hospital System,bfa9a42d,,,True,,,A,,6,current
+66,Female,White,University Hospital System,c38cbdab,,,True,,,A,,20,former
+69,Male,White,University Hospital System,c3e62cee,,,True,2.0,,A,,8,never
+61,Male,White,University Hospital System,c49566a3,,,True,,,A,,0,current
+60,Female,,University Hospital System,cbe8e3b4,,,True,1.0,,A,,11,current
+63,Male,Black or African American,University Hospital System,ccfc3f59,,,True,,,D,,6,never
+42,Male,White,University Hospital System,cddabee1,,,True,,,C,,0,never
+55,Female,White,University Hospital System,ced99123,,,True,,,D,,20,never
+64,Male,,University Hospital System,d7a3d0ae,,,True,,,D,,0,current
+68,Female,White,University Hospital System,d7aa2cbd,,,True,,,B,,1,current
+46,Male,White,University Hospital System,d8f3b258,,,True,,,A,,0,never
+60,Male,White,University Hospital System,db7ea69c,,,True,0.0,,E,,0,never
+67,Male,White,University Hospital System,dddf015f,,,True,,,C,,6,former
+61,Female,White,University Hospital System,de0366df,,,True,0.0,,A,,28,former
+74,Male,,University Hospital System,e56ad4ea,,,True,2.0,,B,,0,never
+47,Female,,University Hospital System,e5d6c132,,,True,,,A,,20,former
+71,Male,White,University Hospital System,e64e5a9,,,True,,,A,,26,former
+61,Female,,University Hospital System,e718e171,,,True,,,A,,0,never
+69,Male,White,University Hospital System,e8d59918,,,True,,,B,,3,current
+74,Male,Black or African American,University Hospital System,ea540ea2,,,True,,,A,,2,unknown
+63,Male,White,University Hospital System,eb5037e3,,,True,,,A,,12,never
+65,Male,White,University Hospital System,ee3e3ca,,,True,,,A,,0,unknown
+54,Female,,University Hospital System,eff3de7a,,,True,,,B,,30,unknown
+57,Female,White,University Hospital System,f09bfe9b,,,True,1.0,,A,,5,current
+60,Male,White,University Hospital System,f175cc3b,,,True,,,A,,25,never
+77,Male,White,University Hospital System,f72a849f,,,True,,,A,,21,current
+59,Male,White,University Hospital System,f7c05eaa,,,True,0.0,,A,,0,never
+57,Male,,University Hospital System,f85b1aa7,,,True,,,A,,0,current
+60,Male,White,University Hospital System,f935591e,,,True,,,A,,9,never
+68,Female,,University Hospital System,ff3bee48,,,True,,,D,,0,never
+55,Female,,University Hospital System,ff3e7053,,,True,0.0,,A,,5,former
+69,Male,White,University Hospital System,ff5ecd5d,,,True,,,A,,9,never
+,Female,,Goodfellow Research Institute,104fc5e3c,,,True,,801.0,D,,,
+,Female,,Goodfellow Research Institute,10648559b,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,1073f9be6,,,True,,65.0,A,,,
+,Female,,Goodfellow Research Institute,10fdb8dc1,,,True,,0.0,A,,,
+,Male,,Goodfellow Research Institute,112c7b069,,,True,,0.0,A,,,
+,Male,,Goodfellow Research Institute,112fe1ef3,,,True,,20.0,A,,,
+,Female,,Goodfellow Research Institute,11569808a,,,True,,130.0,B,,,
+,Female,,Goodfellow Research Institute,1184b2402,,,True,,0.0,A,,,
+,Male,,Goodfellow Research Institute,11850066b,,,True,,115.0,C,,,
+,Male,,Goodfellow Research Institute,118d1c483,,,True,,0.0,A,,,
+,Male,,Goodfellow Research Institute,11dac48f6,,,True,,0.0,A,,,
+,Male,,Goodfellow Research Institute,12599c3b0,,,True,,530.0,F,,,
+,Female,,Goodfellow Research Institute,12a1eae20,,,True,,3084.0,A,,,
+,Male,,Goodfellow Research Institute,12de7df9c,,,True,,394.0,B,,,
+,Female,,Goodfellow Research Institute,130cac616,,,True,,0.0,A,,,
+,Male,,Goodfellow Research Institute,1322a6af7,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,13359ccda,,,True,,43.0,B,,,
+,Male,,Goodfellow Research Institute,1385244a0,,,True,2.0,619.0,A,,,
+,Male,,Goodfellow Research Institute,13a0258dc,,,True,,0.0,C,,,
+,Male,,Goodfellow Research Institute,13b875f71,,,True,0.0,182.0,A,,,
+,Male,,Goodfellow Research Institute,13d6ed31e,,,True,,1077.0,A,,,
+,Female,,Goodfellow Research Institute,14192f92a,,,True,,128.0,A,,,
+,Female,,Goodfellow Research Institute,14e6ce50f,,,True,,0.0,E,,,
+,Male,,Goodfellow Research Institute,15034dcda,,,True,,250.0,B,,,
+,Male,,Goodfellow Research Institute,153b99295,,,True,,0.0,E,,,
+,Male,,Goodfellow Research Institute,15902f3bb,,,True,,57.0,C,,,
+,Male,,Goodfellow Research Institute,1648c7134,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,1675b27b9,,,True,,346.0,B,,,
+,Male,,Goodfellow Research Institute,16bbdd474,,,True,,0.0,A,,,
+,Male,,Goodfellow Research Institute,1730f5696,,,True,,0.0,A,,,
+,Male,,Goodfellow Research Institute,17a5afa14,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,183d7648f,,,True,,6.0,A,,,
+,Female,,Goodfellow Research Institute,1846807e7,,,True,,533.0,A,,,
+,Female,,Goodfellow Research Institute,186277793,,,True,,27.0,B,,,
+,Female,,Goodfellow Research Institute,18c4a512b,,,True,,388.0,B,,,
+,Female,,Goodfellow Research Institute,18d1ef746,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,191cb2e31,,,True,,95.0,F,,,
+,Female,,Goodfellow Research Institute,19219dc19,,,True,,640.0,C,,,
+,Female,,Goodfellow Research Institute,1944b6349,,,True,2.0,319.0,B,,,
+,Female,,Goodfellow Research Institute,1965af51b,,,True,,970.0,A,,,
+,Female,,Goodfellow Research Institute,197b6494a,,,True,,268.0,B,,,
+,Female,,Goodfellow Research Institute,19d30a3af,,,True,0.0,0.0,A,,,
+,Female,,Goodfellow Research Institute,19eae9760,,,True,,0.0,B,,,
+,Female,,Goodfellow Research Institute,19f873fab,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,1a109482b,,,True,,412.0,A,,,
+,Male,,Goodfellow Research Institute,1a3591300,,,True,1.0,204.0,E,,,
+,Male,,Goodfellow Research Institute,1a6426818,,,True,,0.0,A,,,
+,Male,,Goodfellow Research Institute,1a6b6f80e,,,True,,0.0,A,,,
+,Male,,Goodfellow Research Institute,1a9031549,,,True,,253.0,A,,,
+,Male,,Goodfellow Research Institute,1b89446a0,,,True,,0.0,A,,,
+,Male,,Goodfellow Research Institute,1bd1ab6e9,,,True,,79.0,F,,,
+,Male,,Goodfellow Research Institute,1c1b90ff2,,,True,,553.0,A,,,
+,Male,,Goodfellow Research Institute,1c879ef03,,,True,,0.0,B,,,
+,Female,,Goodfellow Research Institute,1d6149f3c,,,True,,58.0,C,,,
+,Female,,Goodfellow Research Institute,1d6420f93,,,True,,439.0,C,,,
+,Female,,Goodfellow Research Institute,1d6b595d,,,True,,280.0,A,,,
+,Male,,Goodfellow Research Institute,1d77c711f,,,True,,578.0,A,,,
+,Female,,Goodfellow Research Institute,1e4072d56,,,True,,321.0,A,,,
+,Female,,Goodfellow Research Institute,1f151729f,,,True,1.0,668.0,A,,,
+,Male,,Goodfellow Research Institute,1f1fe0ef5,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,1f22df2e6,,,True,,13.0,A,,,
+,Female,,Goodfellow Research Institute,1f8f1434d,,,True,1.0,0.0,B,,,
+,Female,,Goodfellow Research Institute,1f9488590,,,True,,135.0,A,,,
+,Female,,Goodfellow Research Institute,1fd0fe44c,,,True,,930.0,A,,,
+,Female,,Goodfellow Research Institute,202a3adab,,,True,,285.0,C,,,
+,Female,,Goodfellow Research Institute,2049ab5ab,,,True,,155.0,C,,,
+,Female,,Goodfellow Research Institute,20758f7b1,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,20dc0b7cf,,,True,0.0,775.0,F,,,
+,Female,,Goodfellow Research Institute,21c6118ca,,,True,2.0,0.0,A,,,
+,Female,,Goodfellow Research Institute,2260a83e7,,,True,0.0,505.0,C,,,
+,Male,,Goodfellow Research Institute,2293769a5,,,True,,148.0,C,,,
+,Male,,Goodfellow Research Institute,22a24b247,,,True,,416.0,A,,,
+,Male,,Goodfellow Research Institute,22bb564de,,,True,,799.0,A,,,
+,Male,,Goodfellow Research Institute,22faf8da7,,,True,,200.0,E,,,
+,Male,,Goodfellow Research Institute,23670c113,,,True,,28.0,A,,,
+,Female,,Goodfellow Research Institute,23779413b,,,True,0.0,335.0,A,,,
+,Male,,Goodfellow Research Institute,2379f2fc5,,,True,,8.0,A,,,
+,Female,,Goodfellow Research Institute,23c355d9e,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,23e24680a,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,23eefd410,,,True,,69.0,B,,,
+,Female,,Goodfellow Research Institute,2407657b5,,,True,,845.0,A,,,
+,Female,,Goodfellow Research Institute,24bcf3a70,,,True,,813.0,D,,,
+,Male,,Goodfellow Research Institute,2529c05a2,,,True,0.0,0.0,B,,,
+,Male,,Goodfellow Research Institute,2ad57351,,,True,,107.0,F,,,
+,Female,,Goodfellow Research Institute,2e6e2048,,,True,,355.0,A,,,
+,Male,,Goodfellow Research Institute,34c46792,,,True,,108.0,A,,,
+,Female,,Goodfellow Research Institute,37875d0b,,,True,,0.0,B,,,
+,Female,,Goodfellow Research Institute,3f88341e,,,True,,833.0,A,,,
+,Female,,Goodfellow Research Institute,419bd902,,,True,,91.0,A,,,
+,Female,,Goodfellow Research Institute,4b292ea7,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,50c3d23d,,,True,1.0,419.0,A,,,
+,Female,,Goodfellow Research Institute,5152f600,,,True,1.0,120.0,D,,,
+,Male,,Goodfellow Research Institute,54c16c72,,,True,,100.0,A,,,
+,Male,,Goodfellow Research Institute,557534a0,,,True,,861.0,E,,,
+,Male,,Goodfellow Research Institute,56abe670,,,True,1.0,0.0,A,,,
+,Male,,Goodfellow Research Institute,56ad0c34,,,True,1.0,383.0,B,,,
+,Female,,Goodfellow Research Institute,616b6b54,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,67ea7c1e,,,True,2.0,1196.0,A,,,
+,Male,,Goodfellow Research Institute,6961ae17,,,True,,62.0,C,,,
+,Male,,Goodfellow Research Institute,6b184005,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,7cf62ca1,,,True,,167.0,D,,,
+,Male,,Goodfellow Research Institute,80758142,,,True,,0.0,B,,,
+,Female,,Goodfellow Research Institute,80ba1965,,,True,0.0,87.0,A,,,
+,Male,,Goodfellow Research Institute,89761112,,,True,,47.0,C,,,
+,Female,,Goodfellow Research Institute,8a051906,,,True,,285.0,A,,,
+,Female,,Goodfellow Research Institute,8aa1a06c,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,8c021494,,,True,,0.0,D,,,
+,Male,,Goodfellow Research Institute,8c4e4d47,,,True,,348.0,A,,,
+,Male,,Goodfellow Research Institute,94b64b7a,,,True,0.0,172.0,A,,,
+,Female,,Goodfellow Research Institute,96f5508a,,,True,,1314.0,D,,,
+,Male,,Goodfellow Research Institute,9b8cc899,,,True,,232.0,C,,,
+,Male,,Goodfellow Research Institute,9ce119a,,,True,,289.0,A,,,
+,Female,,Goodfellow Research Institute,9ffdfac0,,,True,2.0,218.0,A,,,
+,Female,,Goodfellow Research Institute,a9036e9c,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,adfe4a81,,,True,,128.0,A,,,
+,Male,,Goodfellow Research Institute,af727e45,,,True,,0.0,A,,,
+,Male,,Goodfellow Research Institute,b6249904,,,True,,248.0,F,,,
+,Male,,Goodfellow Research Institute,d106270e,,,True,2.0,568.0,B,,,
+,Female,,Goodfellow Research Institute,ddbdb300,,,True,,412.0,A,,,
+,Male,,Goodfellow Research Institute,de0fd2fb,,,True,,50.0,A,,,
+,Female,,Goodfellow Research Institute,e335468d,,,True,,597.0,B,,,
+,Male,,Goodfellow Research Institute,e3bdd868,,,True,,0.0,A,,,
+,Female,,Goodfellow Research Institute,e72ff0b6,,,True,2.0,509.0,F,,,
+,Male,,Goodfellow Research Institute,e7a9ed5b,,,True,,598.0,A,,,
+,Female,,Goodfellow Research Institute,e979e38e,,,True,,198.0,A,,,
+,Male,,Goodfellow Research Institute,f558c197,,,True,,368.0,E,,,
+,Female,,Goodfellow Research Institute,f59b55a7,,,True,,447.0,A,,,
+,Female,,Goodfellow Research Institute,f6c05519,,,True,,383.0,A,,,
+,Male,,Goodfellow Research Institute,f73e40a6,,,True,,0.0,A,,,
+,Male,,Goodfellow Research Institute,fc28a746,,,True,,0.0,A,,,
+,Male,,Goodfellow Research Institute,fc732b24,,,True,,63.0,A,,,
+,Male,,Goodfellow Research Institute,fc8ae8a6,,,True,,213.0,A,,,
+52,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,1010441f,LOW,normal,True,,,A,0.0,0,NEVER
+68,MALE,WHITE,Montague Hospital,1054b19d7,MODERATE,overweight,True,2.0,,A,0.0,6,UNKNOWN
+59,FEMALE,,Montague Hospital,10b309aee,LOW,,True,,,A,2.0,4,CURRENT
+45,FEMALE,WHITE,Montague Hospital,10beb225d,LOW,,True,,,B,0.0,0,NEVER
+65,FEMALE,,Montague Hospital,10cadac53,LOW,normal,True,,,A,0.0,20,NEVER
+48,FEMALE,WHITE,Montague Hospital,10cd8494,LOW,normal,True,,,A,1.0,18,NEVER
+63,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,10f203263,MODERATE,,True,,,A,0.0,1,FORMER
+53,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,111fe66bd,NONE,,True,,,A,2.0,19,NEVER
+64,MALE,WHITE,Montague Hospital,112131554,LOW,overweight,True,0.0,,D,0.0,4,FORMER
+47,FEMALE,WHITE,Montague Hospital,1128d3abb,NONE,,True,,,A,1.0,0,FORMER
+47,FEMALE,,Montague Hospital,1149b622b,MODERATE,normal,True,0.0,,B,1.0,3,NEVER
+43,MALE,WHITE,Montague Hospital,116f74d50,HIGH,obese,True,,,A,0.0,24,NEVER
+72,MALE,,Montague Hospital,117af56cf,LOW,,True,,,E,0.0,22,CURRENT
+76,FEMALE,WHITE,Montague Hospital,1190a0245,LOW,overweight,True,,,C,0.0,0,UNKNOWN
+71,MALE,,Montague Hospital,119439fc1,MODERATE,normal,True,,,A,0.0,13,FORMER
+54,MALE,,Montague Hospital,119690427,MODERATE,obese,True,,,A,0.0,15,NEVER
+54,MALE,,Montague Hospital,119bfb0ca,LOW,overweight,True,,,C,0.0,0,NEVER
+64,FEMALE,WHITE,Montague Hospital,11b9ecab9,NONE,normal,True,0.0,,A,0.0,11,NEVER
+55,FEMALE,,Montague Hospital,11ba3fee4,HIGH,,True,,,E,1.0,35,NEVER
+45,FEMALE,,Montague Hospital,11c7e127f,NONE,obese,True,0.0,,B,0.0,34,CURRENT
+52,FEMALE,WHITE,Montague Hospital,11f02384d,NONE,normal,True,,,A,0.0,8,NEVER
+63,MALE,WHITE,Montague Hospital,11f0860df,LOW,overweight,True,,,F,0.0,11,FORMER
+53,FEMALE,WHITE,Montague Hospital,11ffb6920,MODERATE,,True,1.0,,A,0.0,0,NEVER
+41,FEMALE,ASIAN,Montague Hospital,12122d08d,LOW,,True,,,B,0.0,1,FORMER
+55,MALE,ASIAN,Montague Hospital,122311eac,LOW,,True,,,E,1.0,12,FORMER
+56,MALE,WHITE,Montague Hospital,1298806dc,MODERATE,,True,,,A,2.0,7,CURRENT
+41,MALE,WHITE,Montague Hospital,12abc9d93,MODERATE,overweight,True,,,A,2.0,3,FORMER
+38,MALE,WHITE,Montague Hospital,12c0303b7,NONE,,True,,,A,1.0,0,CURRENT
+68,FEMALE,WHITE,Montague Hospital,12c9afdd3,HIGH,normal,True,,,A,0.0,0,NEVER
+61,FEMALE,,Montague Hospital,1313254b4,MODERATE,,True,,,A,0.0,43,CURRENT
+66,MALE,WHITE,Montague Hospital,13632faab,NONE,overweight,True,,,A,0.0,5,NEVER
+55,MALE,ASIAN,Montague Hospital,13a71563f,MODERATE,,True,0.0,,A,0.0,0,FORMER
+58,MALE,,Montague Hospital,13bfa95fc,MODERATE,overweight,True,0.0,,D,1.0,0,NEVER
+73,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,13d169ca7,LOW,normal,True,,,A,0.0,21,CURRENT
+70,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,13d93d471,MODERATE,overweight,True,,,B,0.0,0,FORMER
+63,MALE,,Montague Hospital,13f8d8592,NONE,normal,True,,,A,0.0,0,FORMER
+62,FEMALE,WHITE,Montague Hospital,14147dec7,MODERATE,,True,0.0,,B,0.0,4,UNKNOWN
+60,FEMALE,,Montague Hospital,1421aa0af,MODERATE,,True,,,A,0.0,26,NEVER
+61,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,1429b7a10,HIGH,overweight,True,,,D,0.0,0,CURRENT
+57,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,142b6258,NONE,normal,True,,,A,0.0,0,NEVER
+48,MALE,WHITE,Montague Hospital,147646d3e,HIGH,normal,True,1.0,,A,1.0,7,NEVER
+64,MALE,,Montague Hospital,14792dca1,MODERATE,,True,,,C,0.0,0,UNKNOWN
+55,MALE,WHITE,Montague Hospital,148ad1db6,MODERATE,normal,True,0.0,,B,1.0,0,NEVER
+64,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,148d4c3b2,NONE,,True,2.0,,A,0.0,36,CURRENT
+66,FEMALE,WHITE,Montague Hospital,14a3841f7,LOW,,True,,,A,0.0,2,CURRENT
+55,FEMALE,ASIAN,Montague Hospital,14c329598,LOW,normal,True,,,A,1.0,3,CURRENT
+63,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,14eb2e78e,MODERATE,normal,True,1.0,,A,0.0,1,CURRENT
+45,MALE,ASIAN,Montague Hospital,14f79b2ee,LOW,,True,,,C,1.0,0,NEVER
+57,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,150c10bf1,LOW,,True,,,E,0.0,27,CURRENT
+41,FEMALE,WHITE,Montague Hospital,156b076f7,LOW,overweight,True,,,C,0.0,22,NEVER
+58,MALE,,Montague Hospital,156c419eb,MODERATE,normal,True,1.0,,C,0.0,9,NEVER
+42,FEMALE,WHITE,Montague Hospital,15779a109,NONE,normal,True,,,A,0.0,24,NEVER
+70,MALE,WHITE,Montague Hospital,158bc4695,MODERATE,overweight,True,,,C,0.0,18,NEVER
+57,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,15b9ac67e,MODERATE,,True,,,A,0.0,3,FORMER
+41,FEMALE,ASIAN,Montague Hospital,15c29df2b,MODERATE,,True,,,E,0.0,6,NEVER
+56,FEMALE,WHITE,Montague Hospital,15ccd2ec3,LOW,underweight,True,,,B,0.0,0,NEVER
+54,FEMALE,WHITE,Montague Hospital,15eccd485,LOW,normal,True,,,A,1.0,2,FORMER
+55,MALE,,Montague Hospital,1631646b4,LOW,normal,True,0.0,,C,0.0,1,NEVER
+67,FEMALE,,Montague Hospital,16334ab39,LOW,overweight,True,,,A,0.0,0,CURRENT
+58,MALE,WHITE,Montague Hospital,1639a2091,LOW,,True,,,A,1.0,24,NEVER
+70,MALE,WHITE,Montague Hospital,163e9efeb,MODERATE,overweight,True,0.0,,A,0.0,7,NEVER
+63,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,16548450b,MODERATE,normal,True,,,C,0.0,20,CURRENT
+62,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,166e0913d,MODERATE,normal,True,,,A,0.0,0,FORMER
+70,FEMALE,WHITE,Montague Hospital,168ed2b23,MODERATE,normal,True,,,A,0.0,0,CURRENT
+67,FEMALE,WHITE,Montague Hospital,169fc61a4,LOW,,True,,,B,0.0,0,CURRENT
+42,MALE,,Montague Hospital,16a11cc9d,NONE,normal,True,,,A,2.0,13,FORMER
+64,MALE,WHITE,Montague Hospital,16aaed950,NONE,underweight,True,2.0,,B,0.0,10,NEVER
+58,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,16ad4a902,LOW,overweight,True,1.0,,B,0.0,11,FORMER
+56,MALE,WHITE,Montague Hospital,16c5365a2,MODERATE,,True,,,A,2.0,6,NEVER
+72,FEMALE,WHITE,Montague Hospital,16f0fba5e,LOW,,True,,,A,0.0,9,CURRENT
+59,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,1711abb4c,LOW,normal,True,,,A,0.0,0,UNKNOWN
+62,FEMALE,WHITE,Montague Hospital,1727756f3,NONE,,True,,,A,0.0,1,NEVER
+77,MALE,WHITE,Montague Hospital,17484fb09,HIGH,,True,,,A,0.0,0,NEVER
+55,FEMALE,WHITE,Montague Hospital,174bef500,NONE,overweight,True,,,A,2.0,0,NEVER
+70,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,176613dda,LOW,underweight,True,,,A,0.0,0,UNKNOWN
+44,FEMALE,WHITE,Montague Hospital,1777aac6a,HIGH,normal,True,,,A,1.0,4,UNKNOWN
+73,FEMALE,,Montague Hospital,17837c07b,NONE,normal,True,,,C,0.0,4,NEVER
+37,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,179fa12a,MODERATE,normal,True,,,A,0.0,56,FORMER
+66,MALE,WHITE,Montague Hospital,17cfc1c8,MODERATE,,True,,,A,0.0,26,NEVER
+67,MALE,WHITE,Montague Hospital,17efbdcb2,LOW,normal,True,,,A,0.0,0,NEVER
+59,FEMALE,,Montague Hospital,17f3c7253,LOW,normal,True,,,E,1.0,0,NEVER
+68,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,18397efe6,HIGH,normal,True,,,A,0.0,0,FORMER
+63,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,1845d3a5c,MODERATE,,True,0.0,,B,0.0,0,CURRENT
+69,FEMALE,ASIAN,Montague Hospital,186e619e0,LOW,normal,True,,,B,0.0,16,NEVER
+69,MALE,,Montague Hospital,187a46fd5,LOW,normal,True,,,C,0.0,7,NEVER
+64,MALE,WHITE,Montague Hospital,188cc37e5,MODERATE,normal,True,,,A,0.0,17,NEVER
+60,MALE,,Montague Hospital,1892cf1b5,LOW,normal,True,0.0,,B,0.0,2,NEVER
+65,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,189a8f2f3,MODERATE,normal,True,,,A,0.0,0,NEVER
+47,MALE,WHITE,Montague Hospital,189af999b,MODERATE,overweight,True,,,A,1.0,2,CURRENT
+58,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,18b2dacfc,LOW,normal,True,,,B,0.0,0,NEVER
+50,MALE,WHITE,Montague Hospital,18c66f15c,HIGH,normal,True,1.0,,F,0.0,15,CURRENT
+67,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,18d09a551,MODERATE,normal,True,,,C,0.0,13,CURRENT
+83,MALE,WHITE,Montague Hospital,18da4c87f,MODERATE,normal,True,2.0,,C,0.0,33,CURRENT
+54,FEMALE,WHITE,Montague Hospital,18e8a81c3,LOW,obese,True,,,A,0.0,0,UNKNOWN
+57,FEMALE,WHITE,Montague Hospital,18fc3351d,NONE,normal,True,,,F,1.0,19,FORMER
+71,FEMALE,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,Montague Hospital,19060f191,LOW,normal,True,,,A,0.0,0,FORMER
+59,MALE,WHITE,Montague Hospital,1933b15e8,MODERATE,overweight,True,,,A,0.0,1,UNKNOWN
+58,FEMALE,,Montague Hospital,194f914d3,LOW,,True,,,B,0.0,0,CURRENT
+56,MALE,AMERICAN INDIAN OR ALASKA NATIVE,Montague Hospital,195a3206e,LOW,normal,True,2.0,,A,1.0,0,FORMER
+62,MALE,,Montague Hospital,195c63010,MODERATE,,True,,,C,0.0,23,CURRENT
+70,FEMALE,WHITE,Montague Hospital,198520836,LOW,underweight,True,,,A,0.0,36,NEVER
+54,FEMALE,,Montague Hospital,199194fce,MODERATE,underweight,True,,,B,0.0,0,FORMER
+48,MALE,,Montague Hospital,19be243fb,MODERATE,normal,True,,,B,0.0,9,NEVER
+59,MALE,WHITE,Montague Hospital,19d7c4d7d,LOW,overweight,True,,,A,0.0,8,CURRENT
+66,MALE,WHITE,Montague Hospital,19dbffe95,LOW,overweight,True,,,C,0.0,12,CURRENT
+62,MALE,WHITE,Montague Hospital,19ea39521,MODERATE,normal,True,,,A,0.0,0,NEVER
+65,MALE,WHITE,Montague Hospital,1a0474f18,MODERATE,overweight,True,,,A,0.0,11,NEVER
+53,MALE,ASIAN,Montague Hospital,1a0475376,NONE,,True,,,C,1.0,5,NEVER
+59,MALE,WHITE,Montague Hospital,1a1dd27fe,LOW,,True,,,A,2.0,5,CURRENT
+65,FEMALE,WHITE,Montague Hospital,1a56386a9,MODERATE,overweight,True,,,A,0.0,28,FORMER
+44,MALE,WHITE,Montague Hospital,1a716cf18,MODERATE,,True,,,B,0.0,2,NEVER
+63,FEMALE,WHITE,Montague Hospital,1a8456483,LOW,normal,True,,,A,0.0,6,CURRENT
+69,MALE,,Montague Hospital,1a9d948b6,NONE,underweight,True,,,A,0.0,53,CURRENT
+62,FEMALE,WHITE,Montague Hospital,1aaf1db67,NONE,overweight,True,1.0,,A,0.0,31,NEVER
+43,MALE,WHITE,Montague Hospital,1aba7fe0b,MODERATE,normal,True,,,A,1.0,18,FORMER
+62,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,1b33bd421,NONE,normal,True,0.0,,C,0.0,13,NEVER
+56,FEMALE,,Montague Hospital,1b3689eaa,MODERATE,normal,True,,,A,1.0,2,CURRENT
+58,MALE,WHITE,Montague Hospital,1b3a7166f,MODERATE,obese,True,,,A,1.0,0,NEVER
+54,MALE,WHITE,Montague Hospital,1b59c255b,MODERATE,overweight,True,,,A,0.0,0,CURRENT
+65,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,1b65ea4fe,MODERATE,,True,,,C,0.0,0,NEVER
+68,MALE,WHITE,Montague Hospital,1b6b23c37,NONE,normal,True,,,A,0.0,16,NEVER
+60,FEMALE,,Montague Hospital,1b74ec6fe,HIGH,normal,True,,,A,1.0,10,NEVER
+49,MALE,WHITE,Montague Hospital,1b9902d17,LOW,obese,True,0.0,,A,1.0,22,NEVER
+55,FEMALE,WHITE,Montague Hospital,1ba3a8a22,MODERATE,,True,,,A,0.0,0,CURRENT
+63,MALE,WHITE,Montague Hospital,1bb875fbf,LOW,normal,True,,,A,0.0,0,FORMER
+55,MALE,,Montague Hospital,1bdf0dcfc,MODERATE,normal,True,2.0,,B,1.0,0,CURRENT
+67,MALE,WHITE,Montague Hospital,1be4640fa,MODERATE,normal,True,,,A,0.0,0,NEVER
+52,FEMALE,,Montague Hospital,1be81ed08,HIGH,normal,True,,,A,1.0,0,NEVER
+54,FEMALE,WHITE,Montague Hospital,1c19d829c,LOW,,True,0.0,,B,0.0,0,NEVER
+57,FEMALE,WHITE,Montague Hospital,1c2273375,MODERATE,normal,True,2.0,,A,0.0,26,CURRENT
+67,MALE,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,Montague Hospital,1c595be10,LOW,overweight,True,0.0,,A,0.0,2,NEVER
+70,MALE,WHITE,Montague Hospital,1c5dd0a4a,MODERATE,normal,True,,,A,0.0,2,NEVER
+67,FEMALE,,Montague Hospital,1c60f5730,LOW,normal,True,,,F,0.0,15,NEVER
+41,MALE,WHITE,Montague Hospital,1c76d9781,MODERATE,,True,,,C,1.0,9,CURRENT
+69,FEMALE,WHITE,Montague Hospital,1c94d1d7d,MODERATE,normal,True,,,A,0.0,15,NEVER
+64,MALE,WHITE,Montague Hospital,1cb5ee7fb,MODERATE,overweight,True,,,D,0.0,7,CURRENT
+80,FEMALE,WHITE,Montague Hospital,1cbeeff04,HIGH,normal,True,,,C,0.0,10,NEVER
+58,MALE,WHITE,Montague Hospital,1cd922a60,MODERATE,underweight,True,,,A,2.0,7,FORMER
+58,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,1ce3db834,LOW,,True,,,B,0.0,2,FORMER
+50,FEMALE,ASIAN,Montague Hospital,1d0d65767,LOW,normal,True,1.0,,A,2.0,0,NEVER
+67,MALE,WHITE,Montague Hospital,1d1410f19,MODERATE,normal,True,,,B,0.0,13,FORMER
+69,MALE,WHITE,Montague Hospital,1d6050bec,MODERATE,normal,True,,,A,0.0,0,NEVER
+53,MALE,WHITE,Montague Hospital,1d6472a0e,MODERATE,normal,True,,,A,1.0,16,CURRENT
+60,MALE,WHITE,Montague Hospital,1d6d27de0,NONE,overweight,True,,,A,0.0,35,CURRENT
+51,FEMALE,WHITE,Montague Hospital,1d7829b31,HIGH,normal,True,,,B,0.0,11,FORMER
+54,FEMALE,WHITE,Montague Hospital,1d789950d,LOW,,True,,,B,0.0,19,CURRENT
+69,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,1d8e5f865,HIGH,normal,True,,,D,0.0,2,NEVER
+72,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,1d9d1c728,MODERATE,normal,True,0.0,,A,0.0,14,UNKNOWN
+49,FEMALE,WHITE,Montague Hospital,1d9f1c5c2,MODERATE,underweight,True,0.0,,A,1.0,0,UNKNOWN
+60,FEMALE,WHITE,Montague Hospital,1da025e31,LOW,,True,,,A,0.0,17,CURRENT
+48,MALE,WHITE,Montague Hospital,1dab75847,MODERATE,,True,,,B,1.0,5,CURRENT
+70,FEMALE,,Montague Hospital,1dc3a5d,LOW,overweight,True,,,A,0.0,0,FORMER
+50,FEMALE,WHITE,Montague Hospital,1dcbb3c6,LOW,overweight,True,,,C,2.0,17,CURRENT
+56,FEMALE,WHITE,Montague Hospital,1e01ade06,MODERATE,normal,True,,,A,0.0,20,CURRENT
+52,FEMALE,WHITE,Montague Hospital,1e02ba2dc,LOW,underweight,True,,,A,0.0,0,CURRENT
+63,FEMALE,WHITE,Montague Hospital,1e17a19b2,NONE,overweight,True,0.0,,A,0.0,7,CURRENT
+58,MALE,WHITE,Montague Hospital,1e1d31c6,LOW,overweight,True,,,D,0.0,22,CURRENT
+61,MALE,WHITE,Montague Hospital,1e325c7f2,MODERATE,normal,True,0.0,,A,0.0,12,NEVER
+55,FEMALE,ASIAN,Montague Hospital,1e38206a1,LOW,normal,True,,,C,1.0,0,NEVER
+61,MALE,,Montague Hospital,1e63c7e70,MODERATE,,True,,,A,0.0,12,FORMER
+66,MALE,WHITE,Montague Hospital,1e852807e,MODERATE,,True,,,C,0.0,7,CURRENT
+60,MALE,WHITE,Montague Hospital,1e9d3b281,LOW,normal,True,,,C,1.0,0,NEVER
+49,MALE,,Montague Hospital,1ea763b91,LOW,overweight,True,,,A,0.0,4,CURRENT
+54,FEMALE,WHITE,Montague Hospital,1eab50b24,MODERATE,normal,True,,,A,1.0,0,NEVER
+64,FEMALE,WHITE,Montague Hospital,1ec3f9879,MODERATE,underweight,True,,,A,0.0,5,CURRENT
+39,FEMALE,,Montague Hospital,1ec44d009,LOW,,True,,,A,0.0,2,UNKNOWN
+56,MALE,ASIAN,Montague Hospital,1ed373551,NONE,,True,,,A,0.0,10,NEVER
+54,FEMALE,WHITE,Montague Hospital,1ed6607a0,LOW,,True,,,A,0.0,22,NEVER
+68,MALE,WHITE,Montague Hospital,1ee1dec6b,LOW,,True,0.0,,B,0.0,0,FORMER
+64,FEMALE,,Montague Hospital,1ef0023b5,LOW,normal,True,,,A,0.0,0,NEVER
+66,FEMALE,ASIAN,Montague Hospital,1ef9e9ca7,MODERATE,overweight,True,,,A,0.0,3,CURRENT
+47,MALE,ASIAN,Montague Hospital,1f5bb7782,NONE,overweight,True,,,A,0.0,1,FORMER
+75,MALE,WHITE,Montague Hospital,1f6ade94b,MODERATE,obese,True,,,E,0.0,0,FORMER
+76,FEMALE,,Montague Hospital,1f97ed5bc,NONE,normal,True,,,A,0.0,20,NEVER
+69,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,1fa695f0e,MODERATE,overweight,True,,,C,0.0,0,NEVER
+67,MALE,,Montague Hospital,1fa7ed31f,NONE,normal,True,1.0,,A,0.0,8,NEVER
+66,FEMALE,,Montague Hospital,1fd00aca8,MODERATE,,True,,,A,0.0,0,CURRENT
+66,FEMALE,,Montague Hospital,1ff2976da,MODERATE,underweight,True,,,A,0.0,12,CURRENT
+56,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,1ff78b5d9,LOW,normal,True,,,A,0.0,5,NEVER
+62,FEMALE,WHITE,Montague Hospital,2011bb69b,MODERATE,normal,True,,,A,0.0,11,UNKNOWN
+69,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,2020195cc,LOW,overweight,True,,,A,0.0,0,UNKNOWN
+62,FEMALE,ASIAN,Montague Hospital,2028e07fe,NONE,normal,True,1.0,,B,0.0,15,NEVER
+47,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,203ae0b72,LOW,overweight,True,,,A,2.0,16,NEVER
+52,FEMALE,,Montague Hospital,2080e87b,LOW,normal,True,0.0,,A,1.0,0,FORMER
+39,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,20a75cab,LOW,,True,,,A,0.0,0,NEVER
+64,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,20abfe47b,MODERATE,,True,,,A,0.0,13,CURRENT
+58,MALE,WHITE,Montague Hospital,20b930089,MODERATE,,True,,,F,1.0,0,NEVER
+69,MALE,,Montague Hospital,2106a777d,MODERATE,,True,,,A,0.0,15,NEVER
+62,FEMALE,WHITE,Montague Hospital,210943682,HIGH,,True,,,A,0.0,9,NEVER
+76,MALE,WHITE,Montague Hospital,2133fed9a,MODERATE,overweight,True,,,C,0.0,9,NEVER
+75,MALE,WHITE,Montague Hospital,215fae934,NONE,normal,True,,,A,0.0,7,UNKNOWN
+66,FEMALE,WHITE,Montague Hospital,215fc1ce6,MODERATE,,True,,,A,0.0,11,CURRENT
+40,MALE,ASIAN,Montague Hospital,21717036f,MODERATE,normal,True,,,A,1.0,21,NEVER
+39,MALE,ASIAN,Montague Hospital,21841933a,MODERATE,,True,,,A,0.0,1,CURRENT
+36,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,21a3a8338,LOW,overweight,True,0.0,,B,0.0,0,FORMER
+52,MALE,WHITE,Montague Hospital,21e5af4ad,NONE,,True,,,A,2.0,34,NEVER
+63,FEMALE,WHITE,Montague Hospital,21f2c3497,NONE,,True,0.0,,A,0.0,0,CURRENT
+72,MALE,WHITE,Montague Hospital,21f6511bb,LOW,,True,,,C,0.0,0,NEVER
+55,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,21f8c2012,LOW,,True,,,A,0.0,0,FORMER
+59,MALE,WHITE,Montague Hospital,220aa2659,MODERATE,,True,,,A,0.0,0,CURRENT
+50,MALE,ASIAN,Montague Hospital,2214869b0,MODERATE,obese,True,,,A,1.0,2,NEVER
+70,MALE,WHITE,Montague Hospital,2215e62ff,LOW,,True,1.0,,C,0.0,0,NEVER
+69,MALE,WHITE,Montague Hospital,221ff6d37,LOW,,True,2.0,,B,0.0,0,FORMER
+65,MALE,WHITE,Montague Hospital,2224a6f9e,MODERATE,,True,,,A,0.0,21,FORMER
+59,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,223209cd,LOW,normal,True,,,A,0.0,85,NEVER
+71,FEMALE,ASIAN,Montague Hospital,224f3e5bb,MODERATE,obese,True,,,D,0.0,36,NEVER
+59,FEMALE,WHITE,Montague Hospital,225cbf6,MODERATE,normal,True,0.0,,A,2.0,8,NEVER
+53,MALE,,Montague Hospital,2281ef812,LOW,underweight,True,,,A,0.0,4,CURRENT
+66,MALE,,Montague Hospital,22a3a7a06,NONE,normal,True,2.0,,A,0.0,10,NEVER
+51,MALE,,Montague Hospital,22c6aa06e,HIGH,normal,True,,,A,0.0,0,CURRENT
+58,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,22c87468e,LOW,overweight,True,,,A,0.0,0,CURRENT
+65,FEMALE,ASIAN,Montague Hospital,22f8a5fdd,NONE,normal,True,,,C,0.0,13,NEVER
+65,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,23050727d,HIGH,underweight,True,1.0,,A,0.0,13,FORMER
+61,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,230b5aedd,MODERATE,,True,,,A,0.0,7,UNKNOWN
+63,FEMALE,WHITE,Montague Hospital,230ebdfdd,MODERATE,,True,,,E,0.0,6,FORMER
+63,MALE,WHITE,Montague Hospital,2316bcd88,NONE,normal,True,2.0,,A,0.0,41,NEVER
+69,MALE,,Montague Hospital,2326927fc,LOW,overweight,True,,,A,0.0,0,FORMER
+51,MALE,ASIAN,Montague Hospital,233b5078e,MODERATE,obese,True,,,A,1.0,8,CURRENT
+70,FEMALE,,Montague Hospital,2343fe3e1,MODERATE,obese,True,,,A,0.0,0,NEVER
+58,FEMALE,WHITE,Montague Hospital,2345974cc,LOW,normal,True,,,A,1.0,0,NEVER
+73,MALE,ASIAN,Montague Hospital,23628f41f,LOW,underweight,True,2.0,,A,0.0,57,FORMER
+54,MALE,,Montague Hospital,23641c7c4,LOW,normal,True,,,A,0.0,9,CURRENT
+68,MALE,WHITE,Montague Hospital,23a911f5f,LOW,underweight,True,,,A,0.0,0,CURRENT
+53,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,23bc99de8,MODERATE,normal,True,,,A,1.0,19,NEVER
+64,MALE,WHITE,Montague Hospital,23cef3159,MODERATE,normal,True,,,C,0.0,8,CURRENT
+51,FEMALE,WHITE,Montague Hospital,23ed384e7,MODERATE,normal,True,1.0,,F,0.0,0,FORMER
+51,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,23fa9e6d7,LOW,,True,2.0,,A,0.0,0,NEVER
+54,MALE,ASIAN,Montague Hospital,2422ba92f,MODERATE,,True,,,A,0.0,7,NEVER
+60,MALE,WHITE,Montague Hospital,2437c9548,MODERATE,normal,True,,,A,0.0,0,NEVER
+70,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,24787453b,NONE,overweight,True,,,A,0.0,0,CURRENT
+60,MALE,,Montague Hospital,247955500,NONE,normal,True,2.0,,C,0.0,20,NEVER
+63,FEMALE,AMERICAN INDIAN OR ALASKA NATIVE,Montague Hospital,2499b9be1,LOW,overweight,True,,,C,0.0,98,NEVER
+73,FEMALE,WHITE,Montague Hospital,24b5773ed,NONE,normal,True,,,A,0.0,0,CURRENT
+67,FEMALE,WHITE,Montague Hospital,24c42c2f9,MODERATE,normal,True,,,A,0.0,0,NEVER
+48,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,2513479da,MODERATE,normal,True,,,A,0.0,0,NEVER
+57,MALE,WHITE,Montague Hospital,251c4c034,MODERATE,,True,,,A,0.0,0,CURRENT
+65,MALE,WHITE,Montague Hospital,252c00818,MODERATE,overweight,True,,,A,0.0,0,CURRENT
+62,MALE,WHITE,Montague Hospital,253dfb215,LOW,overweight,True,,,A,0.0,0,NEVER
+59,FEMALE,WHITE,Montague Hospital,282f80c4,MODERATE,normal,True,1.0,,A,1.0,0,CURRENT
+50,FEMALE,ASIAN,Montague Hospital,2a74d667,LOW,underweight,True,,,B,0.0,0,CURRENT
+62,MALE,WHITE,Montague Hospital,2bf3d6ae,MODERATE,normal,True,0.0,,A,0.0,0,CURRENT
+57,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,2e8aa98b,LOW,overweight,True,,,A,0.0,17,FORMER
+63,FEMALE,WHITE,Montague Hospital,2f84667,LOW,overweight,True,,,A,0.0,20,CURRENT
+70,FEMALE,WHITE,Montague Hospital,3337aa69,NONE,obese,True,,,A,0.0,0,FORMER
+70,MALE,WHITE,Montague Hospital,33ac8e96,MODERATE,overweight,True,1.0,,B,0.0,15,NEVER
+59,MALE,WHITE,Montague Hospital,373a98ab,MODERATE,normal,True,0.0,,F,0.0,6,CURRENT
+66,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,377ea728,HIGH,obese,True,,,F,0.0,22,CURRENT
+47,FEMALE,WHITE,Montague Hospital,38bafa4b,MODERATE,overweight,True,1.0,,A,2.0,3,CURRENT
+72,FEMALE,WHITE,Montague Hospital,3977b305,MODERATE,underweight,True,1.0,,A,0.0,33,NEVER
+63,MALE,,Montague Hospital,3a5b4563,LOW,,True,2.0,,A,0.0,0,NEVER
+70,MALE,ASIAN,Montague Hospital,3b81c27a,LOW,underweight,True,,,A,0.0,0,NEVER
+63,FEMALE,WHITE,Montague Hospital,3bc47818,HIGH,,True,,,E,0.0,0,CURRENT
+62,MALE,WHITE,Montague Hospital,3dfe3e7a,LOW,normal,True,0.0,,A,0.0,0,CURRENT
+64,FEMALE,WHITE,Montague Hospital,40cab36c,LOW,,True,,,A,0.0,9,NEVER
+63,MALE,,Montague Hospital,41471b03,LOW,overweight,True,,,A,0.0,0,FORMER
+61,FEMALE,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,Montague Hospital,424ea598,NONE,,True,,,A,0.0,0,NEVER
+62,MALE,WHITE,Montague Hospital,42abbc71,NONE,normal,True,0.0,,A,0.0,6,NEVER
+45,MALE,WHITE,Montague Hospital,43d04c8a,LOW,overweight,True,0.0,,A,2.0,22,NEVER
+46,MALE,WHITE,Montague Hospital,44ceaa51,MODERATE,underweight,True,2.0,,B,1.0,5,FORMER
+74,MALE,ASIAN,Montague Hospital,44f0ae63,MODERATE,normal,True,,,A,0.0,0,NEVER
+60,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,46c89dfb,LOW,normal,True,,,A,0.0,10,UNKNOWN
+59,MALE,,Montague Hospital,4ae38aad,MODERATE,overweight,True,,,A,0.0,0,NEVER
+52,MALE,,Montague Hospital,505be942,MODERATE,overweight,True,,,B,0.0,12,CURRENT
+62,FEMALE,WHITE,Montague Hospital,51276bbb,MODERATE,obese,True,,,B,0.0,4,NEVER
+57,MALE,,Montague Hospital,55078f56,NONE,overweight,True,,,B,2.0,19,NEVER
+53,FEMALE,ASIAN,Montague Hospital,57ea7ab0,NONE,normal,True,,,A,0.0,8,CURRENT
+43,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,58c38754,MODERATE,,True,2.0,,A,0.0,0,FORMER
+61,MALE,AMERICAN INDIAN OR ALASKA NATIVE,Montague Hospital,5a4945b8,NONE,overweight,True,0.0,,A,0.0,0,CURRENT
+53,FEMALE,WHITE,Montague Hospital,5ad3a9fc,LOW,normal,True,,,B,0.0,24,NEVER
+42,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,5bcd8938,NONE,,True,,,A,0.0,27,CURRENT
+62,MALE,,Montague Hospital,5cda0ad3,MODERATE,overweight,True,1.0,,A,0.0,14,NEVER
+52,FEMALE,WHITE,Montague Hospital,5d81ba16,MODERATE,normal,True,,,A,1.0,27,CURRENT
+61,FEMALE,AMERICAN INDIAN OR ALASKA NATIVE,Montague Hospital,5deb4103,NONE,overweight,True,,,A,0.0,0,FORMER
+62,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,5f58b26f,LOW,overweight,True,,,C,0.0,0,CURRENT
+43,MALE,WHITE,Montague Hospital,632b1825,MODERATE,overweight,True,,,A,2.0,0,FORMER
+44,MALE,WHITE,Montague Hospital,649169ac,MODERATE,,True,,,C,0.0,0,NEVER
+54,FEMALE,,Montague Hospital,6571463f,NONE,normal,True,,,A,0.0,10,NEVER
+56,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,6587c2a4,LOW,normal,True,,,B,1.0,0,NEVER
+44,MALE,,Montague Hospital,65a1aaa2,LOW,,True,,,C,1.0,27,FORMER
+54,FEMALE,WHITE,Montague Hospital,65fc0bb8,MODERATE,overweight,True,,,A,0.0,8,CURRENT
+61,MALE,WHITE,Montague Hospital,66cdcbd1,MODERATE,normal,True,,,A,0.0,0,FORMER
+55,FEMALE,WHITE,Montague Hospital,671f6075,HIGH,,True,,,A,0.0,0,CURRENT
+56,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,67be7786,MODERATE,normal,True,,,A,0.0,8,NEVER
+61,FEMALE,ASIAN,Montague Hospital,68cc7681,MODERATE,normal,True,,,A,0.0,3,CURRENT
+60,FEMALE,,Montague Hospital,6d2adb81,HIGH,overweight,True,,,A,0.0,0,FORMER
+55,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,6e1c9f55,NONE,normal,True,,,A,1.0,0,UNKNOWN
+58,MALE,ASIAN,Montague Hospital,6e3e5df2,LOW,normal,True,0.0,,A,0.0,0,CURRENT
+66,FEMALE,WHITE,Montague Hospital,6e45798f,MODERATE,overweight,True,1.0,,A,0.0,0,FORMER
+76,MALE,WHITE,Montague Hospital,7028fa47,NONE,overweight,True,,,A,0.0,0,CURRENT
+63,FEMALE,WHITE,Montague Hospital,72d36fbb,LOW,normal,True,2.0,,A,0.0,0,FORMER
+63,FEMALE,WHITE,Montague Hospital,733ee376,LOW,overweight,True,,,A,0.0,0,NEVER
+74,FEMALE,WHITE,Montague Hospital,79d60264,MODERATE,normal,True,,,A,0.0,13,FORMER
+63,MALE,WHITE,Montague Hospital,7aee5ca7,MODERATE,normal,True,,,A,0.0,0,NEVER
+48,MALE,WHITE,Montague Hospital,7d22e233,HIGH,overweight,True,,,A,0.0,0,NEVER
+57,MALE,WHITE,Montague Hospital,7e15f76b,LOW,normal,True,,,C,0.0,2,CURRENT
+69,MALE,WHITE,Montague Hospital,7f1db818,LOW,overweight,True,,,A,0.0,1,NEVER
+59,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,815feba6,MODERATE,,True,,,A,1.0,24,NEVER
+48,FEMALE,ASIAN,Montague Hospital,832dac16,LOW,,True,,,A,2.0,0,FORMER
+65,MALE,,Montague Hospital,848cd8,LOW,normal,True,2.0,,A,0.0,1,NEVER
+63,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,857c2ce3,MODERATE,normal,True,,,F,0.0,6,FORMER
+66,FEMALE,WHITE,Montague Hospital,8c20526f,MODERATE,,True,,,A,0.0,3,NEVER
+66,FEMALE,WHITE,Montague Hospital,8cfad569,MODERATE,overweight,True,,,F,0.0,15,NEVER
+37,MALE,WHITE,Montague Hospital,8d73a84,MODERATE,normal,True,,,A,1.0,4,NEVER
+63,MALE,WHITE,Montague Hospital,91496696,HIGH,overweight,True,,,B,0.0,2,NEVER
+69,FEMALE,ASIAN,Montague Hospital,92e0dc24,LOW,normal,True,,,B,0.0,9,CURRENT
+48,FEMALE,WHITE,Montague Hospital,9581d5f4,HIGH,,True,,,B,0.0,0,FORMER
+54,FEMALE,WHITE,Montague Hospital,9644fb1a,LOW,,True,,,B,1.0,13,CURRENT
+52,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,9863eb96,LOW,,True,,,A,0.0,0,NEVER
+63,MALE,,Montague Hospital,98d4a3db,HIGH,,True,,,A,0.0,0,NEVER
+24,MALE,ASIAN,Montague Hospital,99c28815,MODERATE,,True,2.0,,A,1.0,0,NEVER
+61,FEMALE,WHITE,Montague Hospital,9a72bf0,NONE,normal,True,,,A,0.0,0,NEVER
+71,FEMALE,WHITE,Montague Hospital,9ee34872,MODERATE,,True,0.0,,A,0.0,4,NEVER
+62,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,a001bd56,LOW,,True,,,B,0.0,0,FORMER
+59,FEMALE,WHITE,Montague Hospital,a061b6bc,NONE,normal,True,0.0,,C,1.0,0,CURRENT
+67,MALE,,Montague Hospital,a0cf50cd,LOW,normal,True,,,A,0.0,0,NEVER
+75,MALE,WHITE,Montague Hospital,a31bb1c9,MODERATE,,True,,,A,0.0,0,NEVER
+70,FEMALE,ASIAN,Montague Hospital,a3bc40ce,MODERATE,,True,,,A,0.0,0,NEVER
+65,FEMALE,,Montague Hospital,a415a6df,LOW,overweight,True,,,A,0.0,0,NEVER
+66,MALE,ASIAN,Montague Hospital,a53029c,HIGH,,True,,,D,0.0,0,FORMER
+66,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,a733bb74,LOW,normal,True,,,A,0.0,0,CURRENT
+71,MALE,,Montague Hospital,a9b69772,MODERATE,normal,True,,,A,0.0,49,NEVER
+73,FEMALE,WHITE,Montague Hospital,ab558b62,LOW,normal,True,,,B,0.0,1,CURRENT
+54,FEMALE,WHITE,Montague Hospital,ae03309f,MODERATE,normal,True,0.0,,A,1.0,0,CURRENT
+60,MALE,WHITE,Montague Hospital,ae1663d3,MODERATE,underweight,True,,,A,0.0,6,NEVER
+70,MALE,WHITE,Montague Hospital,ae4865a5,LOW,,True,,,A,0.0,0,CURRENT
+60,MALE,WHITE,Montague Hospital,ae52de8c,MODERATE,normal,True,,,A,1.0,0,CURRENT
+63,FEMALE,,Montague Hospital,b0c8f6b8,MODERATE,normal,True,,,A,0.0,26,CURRENT
+70,MALE,WHITE,Montague Hospital,b15b63f6,LOW,,True,,,A,0.0,6,CURRENT
+37,MALE,WHITE,Montague Hospital,b213f2c4,LOW,obese,True,,,F,2.0,0,NEVER
+54,MALE,WHITE,Montague Hospital,b2338c09,NONE,normal,True,,,A,2.0,0,NEVER
+61,MALE,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,Montague Hospital,b4f8f496,MODERATE,,True,2.0,,A,0.0,3,NEVER
+63,MALE,WHITE,Montague Hospital,b669aa4d,LOW,,True,,,A,0.0,0,NEVER
+43,MALE,WHITE,Montague Hospital,b79a4f28,MODERATE,overweight,True,,,A,1.0,0,NEVER
+58,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,b90822e4,NONE,normal,True,,,A,0.0,0,NEVER
+52,MALE,WHITE,Montague Hospital,bbee14d8,HIGH,normal,True,,,F,0.0,0,NEVER
+43,MALE,,Montague Hospital,bd2dba4d,LOW,normal,True,,,A,0.0,25,NEVER
+72,FEMALE,WHITE,Montague Hospital,c163b96e,MODERATE,overweight,True,,,A,0.0,0,CURRENT
+65,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,c1b94484,NONE,underweight,True,,,F,0.0,0,NEVER
+65,MALE,ASIAN,Montague Hospital,c34dbd69,LOW,overweight,True,,,A,0.0,0,CURRENT
+57,FEMALE,WHITE,Montague Hospital,c4d7fdde,NONE,normal,True,2.0,,A,0.0,22,FORMER
+68,FEMALE,WHITE,Montague Hospital,c50b7437,LOW,,True,,,A,0.0,0,NEVER
+40,FEMALE,WHITE,Montague Hospital,c54ad729,MODERATE,overweight,True,,,A,1.0,0,NEVER
+74,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,c7a9f41c,LOW,normal,True,,,A,0.0,27,CURRENT
+44,MALE,ASIAN,Montague Hospital,c81d5b12,MODERATE,normal,True,,,B,0.0,0,NEVER
+69,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,c846d899,LOW,,True,,,B,0.0,0,NEVER
+55,FEMALE,WHITE,Montague Hospital,c9783cb9,NONE,normal,True,,,A,1.0,0,FORMER
+59,MALE,WHITE,Montague Hospital,cab86b9,MODERATE,,True,0.0,,A,0.0,0,NEVER
+64,FEMALE,WHITE,Montague Hospital,cb710aec,MODERATE,,True,,,A,0.0,0,UNKNOWN
+48,FEMALE,,Montague Hospital,cd4fc3a4,MODERATE,,True,,,A,0.0,5,NEVER
+71,FEMALE,WHITE,Montague Hospital,d20ef67d,MODERATE,,True,,,A,0.0,0,FORMER
+68,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,d2ed4304,LOW,normal,True,,,A,0.0,6,FORMER
+48,FEMALE,,Montague Hospital,d6d61cde,NONE,normal,True,1.0,,B,0.0,33,NEVER
+34,FEMALE,ASIAN,Montague Hospital,d8d0cadc,MODERATE,,True,,,F,1.0,0,UNKNOWN
+67,MALE,WHITE,Montague Hospital,dab9d5e8,NONE,normal,True,,,A,0.0,0,CURRENT
+54,MALE,,Montague Hospital,daed218,MODERATE,,True,,,A,0.0,5,NEVER
+46,FEMALE,WHITE,Montague Hospital,dc4131b4,LOW,,True,,,A,0.0,0,UNKNOWN
+53,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,df5ab6c0,HIGH,normal,True,,,A,0.0,53,CURRENT
+62,MALE,,Montague Hospital,e01a5e42,LOW,,True,,,A,0.0,4,NEVER
+52,MALE,WHITE,Montague Hospital,e1d3be52,LOW,overweight,True,,,B,1.0,0,UNKNOWN
+58,FEMALE,ASIAN,Montague Hospital,e33d176c,HIGH,normal,True,,,B,0.0,0,NEVER
+56,FEMALE,WHITE,Montague Hospital,e3dbc8fc,MODERATE,,True,,,A,1.0,2,CURRENT
+65,FEMALE,WHITE,Montague Hospital,e42fdebd,LOW,normal,True,,,A,0.0,7,NEVER
+64,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,e6d0f605,MODERATE,obese,True,,,C,0.0,9,NEVER
+43,MALE,ASIAN,Montague Hospital,e6f73292,MODERATE,normal,True,,,B,0.0,4,NEVER
+51,FEMALE,,Montague Hospital,e861a6e9,MODERATE,underweight,True,,,A,2.0,0,NEVER
+63,FEMALE,WHITE,Montague Hospital,e9812ff1,MODERATE,normal,True,,,F,0.0,7,CURRENT
+44,FEMALE,ASIAN,Montague Hospital,eab4f953,NONE,,True,,,A,1.0,0,CURRENT
+48,MALE,WHITE,Montague Hospital,ebe571d7,MODERATE,obese,True,2.0,,A,0.0,2,FORMER
+61,MALE,,Montague Hospital,ed872981,MODERATE,,True,,,B,0.0,8,FORMER
+66,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,ef18d473,MODERATE,,True,,,D,0.0,0,NEVER
+47,MALE,WHITE,Montague Hospital,f0887ed2,MODERATE,normal,True,,,B,0.0,0,CURRENT
+53,FEMALE,ASIAN,Montague Hospital,f1751fa7,LOW,normal,True,,,A,0.0,0,CURRENT
+51,MALE,ASIAN,Montague Hospital,f1823511,LOW,underweight,True,,,A,1.0,22,NEVER
+53,MALE,WHITE,Montague Hospital,f286b4ed,LOW,normal,True,,,A,0.0,0,NEVER
+65,FEMALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,f56a421c,LOW,normal,True,,,A,0.0,0,NEVER
+64,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,f8bf6efc,MODERATE,normal,True,,,A,0.0,1,CURRENT
+63,MALE,BLACK OR AFRICAN AMERICAN,Montague Hospital,f8fe89e5,LOW,normal,True,,,A,0.0,0,CURRENT
+62,MALE,WHITE,Montague Hospital,fe3f6aec,LOW,,True,,,A,0.0,3,FORMER
+61,Male,Black or African American,Johnson & Bloom Hospitals,103278b88,,,True,1.0,,A,,17,never
+69,Male,White,Johnson & Bloom Hospitals,1046d9744,,,True,,,C,,17,never
+61,Male,,Johnson & Bloom Hospitals,10994f188,,,True,,,A,,1,never
+60,Male,White,Johnson & Bloom Hospitals,113543974,,,True,,,A,,0,never
+61,Female,White,Johnson & Bloom Hospitals,1195b94bc,,,True,,,A,,0,current
+53,Female,White,Johnson & Bloom Hospitals,1242ee6e2,,,True,0.0,,A,,1,current
+51,Male,White,Johnson & Bloom Hospitals,1381f48e8,,,True,,,A,,5,never
+54,Female,,Johnson & Bloom Hospitals,13ae75621,,,True,,,A,,0,current
+74,Female,Black or African American,Johnson & Bloom Hospitals,13c12133,,,True,,,A,,0,former
+57,Female,Asian,Johnson & Bloom Hospitals,1430fc35a,,,True,,,B,,0,former
+72,Male,,Johnson & Bloom Hospitals,14cb3f74c,,,True,,,C,,6,never
+53,Male,,Johnson & Bloom Hospitals,14e255b32,,,True,,,A,,3,former
+64,Male,White,Johnson & Bloom Hospitals,1550948f5,,,True,,,A,,0,former
+62,Female,,Johnson & Bloom Hospitals,15e23b1c,,,True,,,A,,8,never
+49,Female,White,Johnson & Bloom Hospitals,15f7c6987,,,True,,,A,,40,current
+56,Female,White,Johnson & Bloom Hospitals,181bee2c5,,,True,,,A,,39,never
+58,Female,White,Johnson & Bloom Hospitals,18cde6630,,,True,,,A,,10,former
+70,Male,White,Johnson & Bloom Hospitals,18dc7325a,,,True,0.0,,A,,0,former
+39,Female,Asian,Johnson & Bloom Hospitals,18df819e8,,,True,0.0,,A,,0,unknown
+68,Male,Black or African American,Johnson & Bloom Hospitals,191b65a96,,,True,,,D,,3,current
+58,Male,White,Johnson & Bloom Hospitals,19ee48d30,,,True,,,E,,22,never
+40,Female,White,Johnson & Bloom Hospitals,1a049dafb,,,True,,,C,,0,never
+52,Female,,Johnson & Bloom Hospitals,1a79a4c41,,,True,,,A,,13,never
+71,Female,White,Johnson & Bloom Hospitals,1bbd2af88,,,True,0.0,,A,,1,never
+61,Male,White,Johnson & Bloom Hospitals,1bcf0bbe2,,,True,,,A,,0,never
+73,Male,Asian,Johnson & Bloom Hospitals,1d4bab0dc,,,True,,,A,,0,never
+48,Male,Asian,Johnson & Bloom Hospitals,1d9663982,,,True,,,A,,10,never
+70,Male,White,Johnson & Bloom Hospitals,1da7b2d4f,,,True,,,C,,0,never
+41,Male,White,Johnson & Bloom Hospitals,1ddf9b7ad,,,True,,,A,,2,former
+34,Male,Black or African American,Johnson & Bloom Hospitals,202bc2119,,,True,1.0,,A,,2,current
+54,Female,White,Johnson & Bloom Hospitals,206298366,,,True,,,A,,0,never
+63,Male,White,Johnson & Bloom Hospitals,229576327,,,True,1.0,,B,,0,never
+38,Male,Black or African American,Johnson & Bloom Hospitals,22eaa2c6b,,,True,,,B,,0,unknown
+65,Male,White,Johnson & Bloom Hospitals,232cfdc6b,,,True,,,A,,0,current
+56,Male,White,Johnson & Bloom Hospitals,232d0b0e4,,,True,,,E,,9,current
+65,Male,Asian,Johnson & Bloom Hospitals,23a0664e3,,,True,,,A,,1,never
+71,Female,White,Johnson & Bloom Hospitals,23ee0b1bb,,,True,,,A,,1,never
+66,Female,Asian,Johnson & Bloom Hospitals,23f8be3fe,,,True,,,A,,0,current
+67,Male,White,Johnson & Bloom Hospitals,359ad8ea,,,True,,,A,,3,never
+65,Male,White,Johnson & Bloom Hospitals,3935f2b4,,,True,0.0,,A,,3,current
+70,Male,White,Johnson & Bloom Hospitals,41b99ddf,,,True,,,A,,0,current
+57,Female,Black or African American,Johnson & Bloom Hospitals,49ed728c,,,True,,,E,,0,never
+59,Female,Asian,Johnson & Bloom Hospitals,4aa0c5e2,,,True,,,A,,18,never
+50,Female,White,Johnson & Bloom Hospitals,5783682b,,,True,0.0,,A,,5,never
+41,Male,,Johnson & Bloom Hospitals,59b7ccf8,,,True,,,B,,13,never
+69,Male,White,Johnson & Bloom Hospitals,5e6ac085,,,True,,,A,,22,former
+61,Male,Asian,Johnson & Bloom Hospitals,6284ad38,,,True,,,A,,1,never
+64,Female,White,Johnson & Bloom Hospitals,6bb0da68,,,True,,,B,,0,former
+67,Female,White,Johnson & Bloom Hospitals,7f22898c,,,True,,,A,,16,former
+69,Male,White,Johnson & Bloom Hospitals,7ff302ce,,,True,,,A,,0,former
+56,Female,Black or African American,Johnson & Bloom Hospitals,82c75aa3,,,True,,,A,,8,former
+65,Female,Asian,Johnson & Bloom Hospitals,9a443ca2,,,True,,,A,,0,former
+73,Female,Black or African American,Johnson & Bloom Hospitals,9a9a0bc4,,,True,,,B,,0,unknown
+48,Female,White,Johnson & Bloom Hospitals,b28cd982,,,True,,,A,,0,never
+45,Female,,Johnson & Bloom Hospitals,bbe05081,,,True,,,A,,12,current
+59,Female,White,Johnson & Bloom Hospitals,d4e27892,,,True,,,B,,0,never
+67,Male,Black or African American,Johnson & Bloom Hospitals,d549161c,,,True,,,A,,5,never
+44,Female,White,Johnson & Bloom Hospitals,d8ab900,,,True,,,B,,0,current
+67,Male,,Johnson & Bloom Hospitals,e6ff6b3b,,,True,,,B,,0,never
+52,Female,Black or African American,Johnson & Bloom Hospitals,f4f02144,,,True,,,B,,0,never
+58,Female,Black or African American,Johnson & Bloom Hospitals,f5964c51,,,True,,,A,,0,never
+53,Female,Asian,Johnson & Bloom Hospitals,f910ddf3,,,True,,,A,,5,never
+61,Female,,Medical Information Exchange,1002cb1e8,,,True,,,A,,0,current
+46,Female,Asian,Medical Information Exchange,101ca5904,,,True,,,A,,10,former
+74,Male,,Medical Information Exchange,102f9e368,,,True,,,B,,0,never
+61,Female,Black or African American,Medical Information Exchange,1035cec5d,,,True,2.0,,A,,4,never
+67,Male,Asian,Medical Information Exchange,104d0f70f,,,True,,,B,,51,current
+68,Male,,Medical Information Exchange,1061c72be,,,True,,,E,,0,never
+62,Female,White,Medical Information Exchange,10690daaa,,,True,,,A,,53,never
+52,Female,White,Medical Information Exchange,106a595ea,,,True,,,A,,3,current
+73,Female,Black or African American,Medical Information Exchange,1091ecb0f,,,True,0.0,,A,,0,never
+49,Female,White,Medical Information Exchange,10b5f3519,,,True,,,B,,5,never
+63,Male,Black or African American,Medical Information Exchange,10cbf5c2f,,,True,,,A,,16,never
+70,Male,Black or African American,Medical Information Exchange,10d7f6e48,,,True,,,A,,30,former
+63,Male,White,Medical Information Exchange,10da0f428,,,True,,,A,,0,unknown
+60,Female,,Medical Information Exchange,10f1c8c92,,,True,0.0,,B,,34,never
+57,Female,White,Medical Information Exchange,10f7ce8c,,,True,,,F,,9,former
+48,Male,White,Medical Information Exchange,111d67ab6,,,True,,,A,,0,current
+59,Male,White,Medical Information Exchange,112132572,,,True,,,D,,27,unknown
+48,Female,White,Medical Information Exchange,11343922e,,,True,,,A,,0,former
+53,Female,,Medical Information Exchange,115f3b695,,,True,,,A,,2,current
+63,Female,Black or African American,Medical Information Exchange,11b29d8f7,,,True,,,A,,7,current
+51,Female,White,Medical Information Exchange,11b51edff,,,True,,,B,,0,never
+64,Female,White,Medical Information Exchange,11b67e26e,,,True,1.0,,A,,26,current
+57,Male,White,Medical Information Exchange,11b9b6fc0,,,True,,,A,,3,never
+63,Female,,Medical Information Exchange,11ccdfb05,,,True,,,C,,0,current
+59,Female,Black or African American,Medical Information Exchange,11d049ee7,,,True,,,A,,12,never
+65,Female,White,Medical Information Exchange,11df1dab0,,,True,,,A,,0,current
+64,Female,White,Medical Information Exchange,11e482f44,,,True,,,B,,0,former
+51,Female,White,Medical Information Exchange,11f7d630a,,,True,0.0,,A,,3,current
+61,Male,White,Medical Information Exchange,11f8d5732,,,True,,,B,,0,never
+60,Male,White,Medical Information Exchange,121b81d0,,,True,0.0,,B,,0,never
+67,Female,White,Medical Information Exchange,1224e18e5,,,True,,,B,,5,former
+58,Female,White,Medical Information Exchange,122bddfb0,,,True,,,A,,0,former
+57,Male,White,Medical Information Exchange,12321fd53,,,True,1.0,,A,,15,former
+59,Male,White,Medical Information Exchange,12720a5ec,,,True,,,A,,14,never
+62,Male,American Indian or Alaska Native,Medical Information Exchange,12762ed02,,,True,,,A,,2,former
+70,Male,Asian,Medical Information Exchange,12989f436,,,True,,,A,,30,never
+67,Female,,Medical Information Exchange,12d139d8d,,,True,,,D,,0,former
+60,Female,Asian,Medical Information Exchange,12dae5f54,,,True,,,A,,22,never
+70,Male,White,Medical Information Exchange,12e85109a,,,True,,,A,,16,never
+45,Female,,Medical Information Exchange,12f3e604a,,,True,,,A,,2,never
+59,Female,White,Medical Information Exchange,1319141a9,,,True,,,A,,5,never
+50,Female,White,Medical Information Exchange,133b819bd,,,True,,,A,,0,current
+69,Male,Black or African American,Medical Information Exchange,13627e715,,,True,,,A,,0,former
+57,Male,,Medical Information Exchange,13a1c2518,,,True,,,A,,0,former
+55,Female,White,Medical Information Exchange,13b4aa6ef,,,True,1.0,,A,,13,current
+67,Female,Black or African American,Medical Information Exchange,13b6a0f37,,,True,,,A,,31,never
+50,Female,Black or African American,Medical Information Exchange,13c167eae,,,True,,,B,,60,current
+39,Female,White,Medical Information Exchange,13c1a32ff,,,True,,,C,,1,current
+64,Female,Asian,Medical Information Exchange,13c8004a,,,True,1.0,,A,,1,current
+59,Male,White,Medical Information Exchange,13e8c6289,,,True,,,A,,3,current
+49,Male,White,Medical Information Exchange,13ea07601,,,True,,,E,,1,never
+66,Female,,Medical Information Exchange,140bcee79,,,True,,,B,,3,current
+68,Male,Black or African American,Medical Information Exchange,14400c54,,,True,,,A,,3,never
+62,Male,White,Medical Information Exchange,144733048,,,True,,,A,,0,never
+51,Female,,Medical Information Exchange,147270f1,,,True,1.0,,A,,0,never
+61,Male,White,Medical Information Exchange,14805b04a,,,True,,,A,,0,current
+50,Male,Asian,Medical Information Exchange,14920943f,,,True,,,C,,2,former
+71,Female,Asian,Medical Information Exchange,14ac42bdc,,,True,,,A,,2,former
+65,Female,White,Medical Information Exchange,14b6efc4e,,,True,,,C,,0,never
+62,Female,White,Medical Information Exchange,14c63122d,,,True,,,A,,0,current
+66,Female,White,Medical Information Exchange,14c6bfc59,,,True,,,C,,0,never
+56,Female,Black or African American,Medical Information Exchange,14ca42f8,,,True,2.0,,F,,19,former
+78,Female,White,Medical Information Exchange,14f7ec7f0,,,True,,,B,,0,never
+43,Male,White,Medical Information Exchange,15163f1f4,,,True,,,B,,10,never
+42,Female,White,Medical Information Exchange,1532ea8d2,,,True,,,A,,12,never
+68,Female,,Medical Information Exchange,1539547a2,,,True,,,A,,16,never
+55,Female,White,Medical Information Exchange,154d58823,,,True,,,A,,17,never
+58,Female,Black or African American,Medical Information Exchange,157ff36e6,,,True,,,A,,5,current
+71,Female,White,Medical Information Exchange,1597bc71d,,,True,,,A,,0,current
+45,Male,White,Medical Information Exchange,159e552ed,,,True,2.0,,A,,34,former
+53,Female,,Medical Information Exchange,15a3ea0a0,,,True,0.0,,A,,0,current
+58,Male,White,Medical Information Exchange,15ba98bed,,,True,,,A,,0,former
+58,Female,White,Medical Information Exchange,15f49c3f1,,,True,,,C,,0,current
+70,Female,White,Medical Information Exchange,1614e284b,,,True,2.0,,A,,1,unknown
+73,Female,White,Medical Information Exchange,1616f625d,,,True,,,D,,0,former
+81,Female,White,Medical Information Exchange,1627699ed,,,True,0.0,,A,,1,former
+60,Female,White,Medical Information Exchange,162cf3bb0,,,True,,,A,,12,never
+61,Male,,Medical Information Exchange,1630b459f,,,True,,,B,,15,current
+49,Male,White,Medical Information Exchange,163621fb8,,,True,,,A,,0,never
+46,Male,Black or African American,Medical Information Exchange,168b11835,,,True,,,C,,3,current
+76,Male,White,Medical Information Exchange,169703fb6,,,True,,,A,,0,never
+57,Male,Black or African American,Medical Information Exchange,16c7961db,,,True,2.0,,A,,0,never
+59,Female,White,Medical Information Exchange,16d0b11b8,,,True,,,C,,0,former
+40,Female,White,Medical Information Exchange,16ded2255,,,True,,,A,,0,never
+60,Male,White,Medical Information Exchange,16e14565c,,,True,,,A,,4,current
+64,Male,,Medical Information Exchange,16e5086c8,,,True,,,A,,4,never
+72,Male,,Medical Information Exchange,16f7f060e,,,True,,,C,,0,current
+65,Female,Black or African American,Medical Information Exchange,16fd4dd75,,,True,,,B,,3,current
+59,Male,,Medical Information Exchange,170475ef7,,,True,,,A,,3,never
+56,Male,White,Medical Information Exchange,170d2ecb9,,,True,,,A,,11,former
+64,Female,,Medical Information Exchange,172f8c49d,,,True,,,B,,8,never
+75,Female,Black or African American,Medical Information Exchange,1742a6c03,,,True,,,A,,67,never
+65,Male,Black or African American,Medical Information Exchange,177b65a5f,,,True,,,A,,0,former
+53,Female,Black or African American,Medical Information Exchange,177c44cb2,,,True,,,A,,15,former
+73,Female,Native Hawaiian or Other Pacific Islander,Medical Information Exchange,1784ac46c,,,True,,,B,,1,former
+57,Male,,Medical Information Exchange,1798725c3,,,True,,,F,,1,current
+36,Female,Asian,Medical Information Exchange,1799d9f60,,,True,,,A,,0,former
+74,Male,,Medical Information Exchange,17a689125,,,True,,,B,,9,unknown
+58,Male,,Medical Information Exchange,17bc9c07d,,,True,,,E,,47,never
+59,Male,White,Medical Information Exchange,17bf52aa1,,,True,,,B,,4,never
+64,Female,,Medical Information Exchange,181b24950,,,True,0.0,,A,,10,former
+54,Male,,Medical Information Exchange,181d330be,,,True,,,A,,0,current
+55,Female,Black or African American,Medical Information Exchange,1840c6503,,,True,0.0,,B,,0,current
+62,Male,White,Medical Information Exchange,1845e769b,,,True,,,A,,6,never
+64,Female,White,Medical Information Exchange,184dacb62,,,True,,,C,,0,current
+76,Male,White,Medical Information Exchange,185421820,,,True,,,A,,0,never
+68,Female,White,Medical Information Exchange,186436a03,,,True,,,B,,3,former
+63,Female,Black or African American,Medical Information Exchange,186545c7d,,,True,,,A,,1,former
+55,Male,White,Medical Information Exchange,18a9a7da8,,,True,,,A,,0,current
+63,Female,Black or African American,Medical Information Exchange,18c653155,,,True,1.0,,A,,0,never
+69,Male,Black or African American,Medical Information Exchange,18d6fe775,,,True,,,E,,0,current
+73,Male,Black or African American,Medical Information Exchange,18f30cee8,,,True,1.0,,A,,31,never
+74,Female,White,Medical Information Exchange,18f97fa54,,,True,,,E,,0,current
+59,Female,White,Medical Information Exchange,19013627d,,,True,,,B,,1,former
+59,Female,Black or African American,Medical Information Exchange,1914fc3b6,,,True,,,E,,0,current
+54,Female,,Medical Information Exchange,19208a727,,,True,,,A,,4,never
+63,Female,American Indian or Alaska Native,Medical Information Exchange,1928f422a,,,True,,,B,,1,unknown
+61,Female,White,Medical Information Exchange,19673e978,,,True,,,F,,23,current
+78,Female,Asian,Medical Information Exchange,19774855b,,,True,,,A,,7,current
+69,Female,White,Medical Information Exchange,199eaf2e8,,,True,,,A,,0,current
+57,Female,White,Medical Information Exchange,19a6595de,,,True,0.0,,B,,8,never
+69,Male,White,Medical Information Exchange,19caf31b7,,,True,,,A,,8,unknown
+47,Male,White,Medical Information Exchange,19ecfa342,,,True,,,A,,0,current
+64,Female,White,Medical Information Exchange,1a038b610,,,True,,,A,,18,former
+58,Male,White,Medical Information Exchange,1a094cffe,,,True,,,A,,0,unknown
+72,Female,Asian,Medical Information Exchange,1a126926a,,,True,,,A,,34,former
+65,Male,Asian,Medical Information Exchange,1a2c7a2b9,,,True,,,A,,0,never
+63,Female,Asian,Medical Information Exchange,1a35f57c8,,,True,,,A,,0,current
+65,Female,,Medical Information Exchange,1a57b2f4d,,,True,,,A,,0,former
+78,Female,White,Medical Information Exchange,1a65dc76b,,,True,,,A,,0,never
+32,Female,White,Medical Information Exchange,1a7d8c508,,,True,,,A,,30,former
+64,Male,,Medical Information Exchange,1a81a61,,,True,1.0,,D,,1,current
+68,Male,White,Medical Information Exchange,1a81d3468,,,True,,,C,,27,never
+76,Male,White,Medical Information Exchange,1a88f7269,,,True,,,B,,0,never
+60,Female,White,Medical Information Exchange,1a8bfdd37,,,True,0.0,,A,,0,current
+30,Male,Black or African American,Medical Information Exchange,1aaf624a1,,,True,2.0,,A,,0,never
+78,Male,White,Medical Information Exchange,1ac28dc95,,,True,,,B,,14,former
+49,Female,White,Medical Information Exchange,1aceea3bb,,,True,0.0,,A,,13,never
+53,Male,White,Medical Information Exchange,1ad07a815,,,True,,,B,,1,never
+44,Male,Asian,Medical Information Exchange,1b5109317,,,True,,,D,,10,current
+72,Male,White,Medical Information Exchange,1b68863b9,,,True,,,A,,11,unknown
+64,Male,Asian,Medical Information Exchange,1b69e366f,,,True,,,A,,17,unknown
+50,Male,,Medical Information Exchange,1b6a17bb4,,,True,,,A,,9,former
+68,Female,White,Medical Information Exchange,1b6f5f8ac,,,True,,,A,,7,former
+52,Female,White,Medical Information Exchange,1b8a74c2a,,,True,,,F,,16,never
+65,Female,White,Medical Information Exchange,1bb85b032,,,True,2.0,,A,,7,current
+42,Male,,Medical Information Exchange,1bc2c0190,,,True,1.0,,B,,0,never
+54,Male,,Medical Information Exchange,1bea7d0b9,,,True,1.0,,F,,9,former
+62,Male,White,Medical Information Exchange,1bf16d0be,,,True,,,C,,14,never
+68,Male,Black or African American,Medical Information Exchange,1c18528f8,,,True,,,B,,0,current
+70,Female,White,Medical Information Exchange,1c2e9b40b,,,True,,,A,,1,unknown
+65,Female,Black or African American,Medical Information Exchange,1c8e02eba,,,True,,,B,,11,former
+64,Male,Black or African American,Medical Information Exchange,1cd600ca3,,,True,,,A,,7,unknown
+72,Female,White,Medical Information Exchange,1cdc05c2e,,,True,,,A,,0,former
+48,Male,White,Medical Information Exchange,1ce9d0021,,,True,2.0,,E,,3,never
+69,Female,Black or African American,Medical Information Exchange,1d05a58ae,,,True,,,A,,34,current
+54,Male,Black or African American,Medical Information Exchange,1d3b46b75,,,True,,,A,,0,current
+61,Male,Black or African American,Medical Information Exchange,1d4b46063,,,True,,,A,,0,current
+64,Male,White,Medical Information Exchange,1d58070e9,,,True,0.0,,A,,0,current
+47,Male,Asian,Medical Information Exchange,1d64ad6b4,,,True,1.0,,A,,46,former
+59,Female,,Medical Information Exchange,1d895cbd4,,,True,0.0,,C,,5,former
+50,Female,White,Medical Information Exchange,1d99cf639,,,True,,,C,,2,current
+37,Female,Asian,Medical Information Exchange,1dbc40fa3,,,True,,,C,,5,never
+61,Female,Asian,Medical Information Exchange,1dce2a434,,,True,,,F,,21,never
+37,Female,White,Medical Information Exchange,1ded30329,,,True,,,B,,3,never
+65,Female,White,Medical Information Exchange,1e3a44df0,,,True,,,A,,4,never
+69,Male,White,Medical Information Exchange,1e60f6f8d,,,True,,,A,,27,never
+61,Female,,Medical Information Exchange,1e825e986,,,True,,,A,,14,current
+66,Male,White,Medical Information Exchange,1e9d089c0,,,True,0.0,,A,,23,never
+62,Female,Black or African American,Medical Information Exchange,1eb15f749,,,True,,,E,,1,never
+69,Male,White,Medical Information Exchange,1eb691dff,,,True,0.0,,A,,0,never
+69,Female,Black or African American,Medical Information Exchange,1edb4a1d9,,,True,2.0,,A,,0,never
+61,Male,,Medical Information Exchange,1f0aad604,,,True,0.0,,C,,0,never
+56,Female,White,Medical Information Exchange,1f4a28605,,,True,,,B,,9,never
+53,Female,,Medical Information Exchange,1f4e6e14d,,,True,,,A,,0,never
+64,Female,White,Medical Information Exchange,1f54eaee5,,,True,,,A,,17,never
+70,Male,White,Medical Information Exchange,1f5cf0890,,,True,1.0,,A,,9,former
+62,Female,White,Medical Information Exchange,1f7824926,,,True,,,C,,4,never
+58,Female,White,Medical Information Exchange,1f79c4324,,,True,,,A,,10,former
+56,Male,White,Medical Information Exchange,1f7cee850,,,True,,,A,,1,current
+73,Female,White,Medical Information Exchange,1fa4b4115,,,True,,,B,,0,never
+53,Male,White,Medical Information Exchange,1fb0ab68,,,True,,,C,,15,never
+54,Female,,Medical Information Exchange,1fb6eb54b,,,True,,,A,,0,never
+69,Female,White,Medical Information Exchange,1fe75a069,,,True,0.0,,A,,0,never
+63,Male,Asian,Medical Information Exchange,1ff11e6eb,,,True,,,A,,0,former
+48,Female,Asian,Medical Information Exchange,2027176f1,,,True,,,A,,0,never
+64,Female,White,Medical Information Exchange,202d6d1cf,,,True,2.0,,A,,24,unknown
+56,Male,White,Medical Information Exchange,20502a77e,,,True,,,A,,1,never
+61,Male,,Medical Information Exchange,205e7863b,,,True,,,A,,35,never
+67,Male,White,Medical Information Exchange,207da6684,,,True,,,A,,0,current
+56,Female,White,Medical Information Exchange,2086cb3fa,,,True,,,A,,0,current
+57,Female,Asian,Medical Information Exchange,208cab387,,,True,,,B,,19,never
+62,Female,White,Medical Information Exchange,208e0e57,,,True,1.0,,B,,0,never
+48,Male,White,Medical Information Exchange,20b2251c2,,,True,0.0,,A,,24,former
+58,Male,,Medical Information Exchange,20c3c6d4f,,,True,1.0,,A,,8,never
+64,Male,,Medical Information Exchange,20c3e11cc,,,True,,,A,,4,never
+70,Male,Black or African American,Medical Information Exchange,20e1796c1,,,True,,,A,,4,never
+37,Female,White,Medical Information Exchange,20ee6a09,,,True,,,C,,17,never
+65,Male,,Medical Information Exchange,212b79219,,,True,,,B,,16,current
+72,Male,Asian,Medical Information Exchange,217083e5c,,,True,,,A,,0,never
+77,Female,White,Medical Information Exchange,217bd1c5c,,,True,,,A,,36,never
+45,Male,,Medical Information Exchange,218153b0a,,,True,,,A,,1,never
+53,Male,Black or African American,Medical Information Exchange,218fc89f8,,,True,,,A,,12,former
+60,Male,White,Medical Information Exchange,21900c59d,,,True,,,A,,0,former
+71,Female,White,Medical Information Exchange,21a5ec998,,,True,2.0,,A,,0,never
+65,Male,White,Medical Information Exchange,21a7b71b3,,,True,,,F,,0,never
+62,Male,,Medical Information Exchange,21bd200bf,,,True,,,A,,7,current
+53,Male,,Medical Information Exchange,21bf5c733,,,True,,,A,,0,current
+71,Male,Black or African American,Medical Information Exchange,21e76123d,,,True,2.0,,A,,2,current
+48,Male,White,Medical Information Exchange,21ef44389,,,True,1.0,,C,,10,never
+56,Female,White,Medical Information Exchange,21f68aa0a,,,True,,,A,,0,current
+59,Female,White,Medical Information Exchange,221a7a941,,,True,2.0,,B,,6,former
+59,Female,White,Medical Information Exchange,221bc6ac1,,,True,,,A,,22,former
+61,Female,Asian,Medical Information Exchange,221cd3dc5,,,True,,,A,,7,never
+50,Female,White,Medical Information Exchange,222c3978f,,,True,,,A,,1,former
+65,Female,,Medical Information Exchange,2232b4473,,,True,,,A,,11,current
+64,Female,Asian,Medical Information Exchange,223fcdf0b,,,True,,,D,,10,never
+69,Male,White,Medical Information Exchange,2240a74cd,,,True,,,A,,0,former
+72,Male,White,Medical Information Exchange,225442849,,,True,,,A,,0,former
+62,Female,White,Medical Information Exchange,227f47284,,,True,,,C,,3,former
+73,Male,Black or African American,Medical Information Exchange,22840b69b,,,True,0.0,,F,,0,current
+68,Male,White,Medical Information Exchange,228bd2ab0,,,True,0.0,,A,,10,former
+51,Male,White,Medical Information Exchange,22d4903e0,,,True,,,A,,0,current
+74,Male,White,Medical Information Exchange,22e609921,,,True,,,A,,0,never
+54,Female,White,Medical Information Exchange,22ecc02d6,,,True,,,A,,0,former
+59,Male,Black or African American,Medical Information Exchange,2366f839d,,,True,,,A,,8,never
+64,Male,White,Medical Information Exchange,23c723769,,,True,,,A,,1,current
+67,Female,,Medical Information Exchange,23d3dff68,,,True,,,B,,14,former
+68,Male,Black or African American,Medical Information Exchange,2460b8d62,,,True,,,E,,0,current
+51,Female,White,Medical Information Exchange,249835abf,,,True,,,C,,4,never
+65,Female,,Medical Information Exchange,24993ed40,,,True,,,A,,0,never
+62,Female,,Medical Information Exchange,24a6c2742,,,True,,,A,,0,current
+63,Female,Black or African American,Medical Information Exchange,24d5bfb93,,,True,,,B,,1,former
+59,Male,,Medical Information Exchange,24dab66b9,,,True,,,A,,7,never
+72,Male,Black or African American,Medical Information Exchange,251fbccf4,,,True,,,A,,27,never
+64,Female,Black or African American,Medical Information Exchange,27b00200,,,True,,,F,,1,current
+51,Female,White,Medical Information Exchange,2c5f1afc,,,True,,,A,,0,never
+39,Female,Black or African American,Medical Information Exchange,2c881bbc,,,True,,,A,,6,current
+65,Female,Black or African American,Medical Information Exchange,2d4d068a,,,True,,,B,,21,never
+29,Female,,Medical Information Exchange,2f83e5f0,,,True,,,A,,7,never
+70,Female,Black or African American,Medical Information Exchange,303681d4,,,True,,,B,,25,never
+51,Female,White,Medical Information Exchange,355cb9bb,,,True,0.0,,A,,4,never
+69,Female,Asian,Medical Information Exchange,36989bb0,,,True,,,A,,3,never
+47,Male,White,Medical Information Exchange,37563a46,,,True,,,A,,0,former
+61,Female,White,Medical Information Exchange,3783b99c,,,True,,,B,,0,former
+60,Male,White,Medical Information Exchange,37b480fb,,,True,,,A,,23,former
+57,Female,Black or African American,Medical Information Exchange,38c0bbdd,,,True,,,A,,0,current
+42,Female,Asian,Medical Information Exchange,3978db90,,,True,,,A,,1,never
+64,Female,Asian,Medical Information Exchange,3eabeba6,,,True,,,A,,52,current
+55,Female,,Medical Information Exchange,4099e0cc,,,True,,,C,,0,never
+68,Female,Black or African American,Medical Information Exchange,42bef65f,,,True,1.0,,A,,0,former
+63,Male,White,Medical Information Exchange,46e303bf,,,True,1.0,,A,,2,former
+45,Female,White,Medical Information Exchange,4758f0c9,,,True,,,A,,15,never
+63,Male,White,Medical Information Exchange,486571e1,,,True,,,D,,14,former
+55,Male,White,Medical Information Exchange,4879add7,,,True,,,A,,2,current
+51,Male,White,Medical Information Exchange,4919c68b,,,True,0.0,,A,,4,never
+63,Male,Black or African American,Medical Information Exchange,496c92cf,,,True,,,A,,0,current
+71,Male,Asian,Medical Information Exchange,4984cd73,,,True,,,A,,3,former
+55,Female,,Medical Information Exchange,49c87608,,,True,,,A,,0,former
+68,Male,White,Medical Information Exchange,4a2662c0,,,True,,,A,,0,unknown
+73,Male,White,Medical Information Exchange,4ad52f99,,,True,2.0,,C,,0,never
+53,Female,,Medical Information Exchange,4b802244,,,True,1.0,,C,,7,never
+58,Male,,Medical Information Exchange,4d414804,,,True,,,A,,0,never
+60,Female,White,Medical Information Exchange,4d6af4f5,,,True,,,A,,0,current
+61,Male,,Medical Information Exchange,4e2ea12c,,,True,,,B,,0,never
+70,Female,Asian,Medical Information Exchange,4fbbea26,,,True,,,E,,0,never
+59,Male,White,Medical Information Exchange,502b9a3a,,,True,,,A,,34,former
+66,Female,White,Medical Information Exchange,50647099,,,True,,,B,,8,former
+65,Male,Asian,Medical Information Exchange,5105ca80,,,True,,,A,,1,current
+62,Male,,Medical Information Exchange,512baa4b,,,True,,,A,,1,never
+57,Male,White,Medical Information Exchange,51c10288,,,True,,,A,,2,never
+52,Male,White,Medical Information Exchange,526c6b4e,,,True,,,A,,51,unknown
+75,Female,White,Medical Information Exchange,52be1b2c,,,True,,,A,,12,current
+70,Male,,Medical Information Exchange,547613f8,,,True,,,A,,0,never
+66,Female,White,Medical Information Exchange,54e4829a,,,True,,,A,,0,never
+58,Male,White,Medical Information Exchange,5ad8ab6b,,,True,,,A,,1,never
+60,Female,,Medical Information Exchange,5fdb9cdd,,,True,,,A,,7,never
+65,Female,,Medical Information Exchange,604d5732,,,True,0.0,,A,,6,unknown
+72,Male,White,Medical Information Exchange,60ea2f51,,,True,,,C,,0,former
+78,Female,White,Medical Information Exchange,62c699c6,,,True,,,A,,0,former
+65,Female,,Medical Information Exchange,63516251,,,True,,,B,,0,former
+33,Female,Black or African American,Medical Information Exchange,6354864e,,,True,,,B,,0,unknown
+55,Female,White,Medical Information Exchange,64bbceb9,,,True,,,A,,10,never
+58,Female,White,Medical Information Exchange,68f42fb0,,,True,1.0,,A,,5,never
+71,Male,White,Medical Information Exchange,6ae7c786,,,True,,,A,,0,never
+63,Female,Black or African American,Medical Information Exchange,6c066d05,,,True,1.0,,A,,14,former
+70,Male,White,Medical Information Exchange,6f010e01,,,True,,,B,,0,former
+47,Female,Black or African American,Medical Information Exchange,6fc13c9,,,True,,,A,,2,former
+40,Male,White,Medical Information Exchange,70785124,,,True,,,A,,15,never
+74,Male,Black or African American,Medical Information Exchange,70f9241c,,,True,,,F,,0,never
+61,Male,,Medical Information Exchange,7209c9fe,,,True,,,A,,5,never
+70,Male,Asian,Medical Information Exchange,7568cf71,,,True,1.0,,B,,0,current
+53,Female,,Medical Information Exchange,75a9b96f,,,True,0.0,,A,,8,never
+48,Female,,Medical Information Exchange,76985b7,,,True,,,A,,6,current
+63,Female,White,Medical Information Exchange,77b6f2cc,,,True,,,C,,0,unknown
+55,Female,,Medical Information Exchange,77ee9f2,,,True,,,A,,17,current
+70,Female,,Medical Information Exchange,78a6ef91,,,True,0.0,,F,,2,current
+59,Male,White,Medical Information Exchange,7a01e259,,,True,,,E,,5,never
+62,Female,Black or African American,Medical Information Exchange,7a850f86,,,True,0.0,,A,,17,never
+71,Female,,Medical Information Exchange,7f81b9c2,,,True,,,E,,0,former
+55,Male,White,Medical Information Exchange,826612b9,,,True,,,A,,0,former
+58,Male,White,Medical Information Exchange,828c17bd,,,True,1.0,,A,,0,current
+63,Female,,Medical Information Exchange,83344ced,,,True,,,A,,0,former
+62,Male,White,Medical Information Exchange,83d4e064,,,True,,,A,,0,former
+51,Female,White,Medical Information Exchange,84316792,,,True,,,A,,39,never
+44,Male,,Medical Information Exchange,84753736,,,True,,,A,,3,former
+56,Male,Black or African American,Medical Information Exchange,85c45bad,,,True,0.0,,C,,0,current
+57,Female,White,Medical Information Exchange,8821d4d2,,,True,,,C,,28,never
+47,Male,Asian,Medical Information Exchange,8b58a75c,,,True,,,D,,8,current
+53,Female,White,Medical Information Exchange,8cd8e7c2,,,True,,,A,,1,never
+61,Female,,Medical Information Exchange,8d03072c,,,True,,,B,,4,current
+72,Female,Asian,Medical Information Exchange,8db54094,,,True,,,A,,0,never
+67,Male,White,Medical Information Exchange,8fb45521,,,True,2.0,,A,,12,former
+71,Male,Asian,Medical Information Exchange,915221dd,,,True,,,A,,0,current
+71,Male,,Medical Information Exchange,92dcfbd0,,,True,,,A,,0,former
+69,Female,Black or African American,Medical Information Exchange,932cc629,,,True,0.0,,A,,3,current
+71,Male,White,Medical Information Exchange,94b9d9c3,,,True,,,A,,5,former
+62,Female,White,Medical Information Exchange,94c8bebe,,,True,,,A,,3,former
+49,Female,,Medical Information Exchange,9739eecb,,,True,,,A,,0,never
+59,Male,White,Medical Information Exchange,98a30f14,,,True,,,A,,4,never
+50,Male,White,Medical Information Exchange,9adc8c49,,,True,,,B,,52,never
+66,Male,White,Medical Information Exchange,9b7713b0,,,True,1.0,,A,,24,former
+57,Female,Black or African American,Medical Information Exchange,9cb3d52c,,,True,,,A,,3,current
+58,Female,,Medical Information Exchange,a0483780,,,True,0.0,,A,,0,never
+59,Male,Black or African American,Medical Information Exchange,a0a6354a,,,True,,,A,,9,never
+59,Female,White,Medical Information Exchange,a0d0b47c,,,True,,,A,,0,unknown
+51,Female,White,Medical Information Exchange,a22f21d6,,,True,2.0,,A,,18,never
+72,Female,White,Medical Information Exchange,a3b901c3,,,True,,,A,,7,former
+59,Male,White,Medical Information Exchange,a55d9f68,,,True,,,A,,0,never
+45,Female,Asian,Medical Information Exchange,a5d038a6,,,True,,,A,,4,current
+62,Female,Black or African American,Medical Information Exchange,a6b2ffdf,,,True,,,A,,18,current
+60,Male,Asian,Medical Information Exchange,a6ec8d09,,,True,0.0,,D,,0,current
+70,Female,White,Medical Information Exchange,a7289ac8,,,True,0.0,,A,,0,unknown
+73,Female,Black or African American,Medical Information Exchange,a7d6f859,,,True,,,F,,0,never
+53,Female,White,Medical Information Exchange,a9189c94,,,True,0.0,,D,,0,former
+76,Male,Asian,Medical Information Exchange,aa14128c,,,True,,,A,,0,never
+65,Male,,Medical Information Exchange,ac0a64c5,,,True,,,A,,62,former
+69,Male,,Medical Information Exchange,ac99d2b8,,,True,,,A,,0,former
+73,Female,White,Medical Information Exchange,acacb75,,,True,,,B,,0,former
+62,Female,White,Medical Information Exchange,addf1da7,,,True,,,A,,25,current
+76,Male,,Medical Information Exchange,b28a832a,,,True,,,A,,0,never
+62,Male,White,Medical Information Exchange,b6a95557,,,True,0.0,,C,,8,never
+72,Male,Asian,Medical Information Exchange,b6ca3d19,,,True,,,A,,0,never
+71,Female,,Medical Information Exchange,b6f1d40b,,,True,,,A,,0,unknown
+68,Female,White,Medical Information Exchange,bae1a4e9,,,True,,,B,,5,never
+60,Female,Black or African American,Medical Information Exchange,bf1e5c6d,,,True,,,B,,11,never
+64,Female,,Medical Information Exchange,c4be5197,,,True,,,A,,56,never
+68,Male,Black or African American,Medical Information Exchange,c6ef80f9,,,True,,,A,,5,current
+67,Male,Black or African American,Medical Information Exchange,c7d81ff6,,,True,1.0,,A,,0,never
+53,Female,White,Medical Information Exchange,ca9d79e1,,,True,,,A,,0,current
+60,Female,,Medical Information Exchange,cab6148c,,,True,,,A,,8,current
+59,Female,White,Medical Information Exchange,cb948fad,,,True,,,A,,0,never
+53,Female,White,Medical Information Exchange,cbe7ebd3,,,True,,,A,,10,former
+67,Female,White,Medical Information Exchange,cc473587,,,True,,,A,,25,unknown
+45,Female,White,Medical Information Exchange,cd0d53e6,,,True,2.0,,F,,16,current
+58,Female,,Medical Information Exchange,ce1c76bd,,,True,,,C,,14,never
+66,Male,White,Medical Information Exchange,cf01dea9,,,True,1.0,,A,,7,current
+58,Male,Black or African American,Medical Information Exchange,cf4294da,,,True,,,B,,0,never
+64,Female,,Medical Information Exchange,d188a943,,,True,,,B,,0,unknown
+61,Female,,Medical Information Exchange,d1ccd64d,,,True,,,B,,15,never
+72,Female,White,Medical Information Exchange,d2f846dd,,,True,,,A,,0,never
+56,Female,White,Medical Information Exchange,d3522687,,,True,,,A,,38,never
+65,Male,,Medical Information Exchange,d3a7612,,,True,1.0,,A,,3,never
+63,Female,White,Medical Information Exchange,d465226,,,True,,,B,,0,current
+74,Female,White,Medical Information Exchange,d4d14448,,,True,,,A,,0,never
+41,Female,,Medical Information Exchange,d4dd4007,,,True,,,A,,5,current
+53,Female,White,Medical Information Exchange,dc56b55a,,,True,,,A,,0,never
+50,Male,White,Medical Information Exchange,de7d9fad,,,True,,,A,,7,current
+58,Female,White,Medical Information Exchange,dfdfb6d8,,,True,,,A,,0,former
+59,Male,White,Medical Information Exchange,e08cc10b,,,True,,,B,,7,never
+64,Male,White,Medical Information Exchange,e12b9e3,,,True,,,A,,43,current
+55,Female,,Medical Information Exchange,e4db71ee,,,True,,,A,,0,never
+69,Female,Black or African American,Medical Information Exchange,e6ef60b,,,True,,,C,,9,never
+79,Female,White,Medical Information Exchange,e6fce8,,,True,,,B,,7,current
+63,Female,Black or African American,Medical Information Exchange,e9e94357,,,True,,,A,,4,never
+63,Male,White,Medical Information Exchange,ea932913,,,True,0.0,,A,,23,former
+59,Male,White,Medical Information Exchange,ed12d1e,,,True,,,A,,17,former
+71,Male,,Medical Information Exchange,ee02aac4,,,True,,,A,,24,never
+51,Male,White,Medical Information Exchange,ee38a34e,,,True,1.0,,F,,36,former
+30,Male,White,Medical Information Exchange,f0a6bab4,,,True,0.0,,A,,12,unknown
+70,Female,Black or African American,Medical Information Exchange,f220108f,,,True,,,A,,0,never
+52,Female,White,Medical Information Exchange,f28cb2c2,,,True,,,D,,7,unknown
+68,Female,Black or African American,Medical Information Exchange,f2c6601d,,,True,,,B,,0,former
+64,Male,White,Medical Information Exchange,f3bc30a8,,,True,0.0,,A,,28,former
+63,Female,,Medical Information Exchange,f7637881,,,True,,,A,,23,never
+64,Female,White,Medical Information Exchange,f7b0e11d,,,True,,,B,,0,never
+60,Male,Asian,Medical Information Exchange,f8846a04,,,True,,,A,,14,former
+77,Male,Asian,Medical Information Exchange,f89e5bb2,,,True,1.0,,F,,2,unknown
+60,Male,White,Medical Information Exchange,f8b7bec4,,,True,,,D,,0,current
+70,Female,,Medical Information Exchange,f9535f0b,,,True,,,A,,0,former
+77,Male,Black or African American,Medical Information Exchange,fa0fa338,,,True,,,A,,0,current
+68,Female,White,Medical Information Exchange,fdb519f4,,,True,,,A,,3,never
+56,Male,White,Medical Information Exchange,fdd3b1c7,,,True,,,F,,16,never
+56,Female,,Medical Information Exchange,ff9f0a0,,,True,,,A,,6,current
